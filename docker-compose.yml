@@ -1,0 +1,45 @@
+version: '3.8'
+
+services:
+  superset_db:
+    image: postgres:17
+    container_name: superset_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: superset
+      POSTGRES_PASSWORD: superset
+      POSTGRES_DB: ecommerce_dw
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  superset_cache:
+    image: redis:7
+    container_name: superset_cache
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+
+  superset_app:
+    image: apache/superset:4.0.1
+    container_name: superset_app
+    restart: unless-stopped
+    ports:
+      - "8088:8088"
+    environment:
+      SUPERSET_SECRET_KEY: ${SUPERSET_SECRET_KEY:-TH2_SUPERSET_AI_SECRET_KEY_DEV_PRO_2026_SUPER_SECRET}
+      DATABASE_DB: ecommerce_dw
+      DATABASE_HOST: superset_db
+      DATABASE_PASSWORD: superset
+      DATABASE_USER: superset
+      DATABASE_PORT: 5432
+      DATABASE_DIALECT: postgresql
+    depends_on:
+      - superset_db
+      - superset_cache
+    volumes:
+      - .:/app/th2
+
+volumes:
+  postgres_data:
