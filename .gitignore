@@ -1,1 +1,10 @@
 /.contextia
+
+# === BẢO MẬT: KHÔNG BAO GIỜ COMMIT CÁC FILE NÀY ===
+.env
+*.env
+.env.local
+.env.production
+secrets.json
+*_secret*
+*_key*
