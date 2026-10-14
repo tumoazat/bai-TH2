@@ -1,0 +1,1501 @@
+customer_id,customer_unique_id,customer_name,customer_email,customer_city,customer_state,customer_country,created_at
+CUST_00001,U_6ca3d971,Tran Van Dung,tran.van.dung1@ecommerce.vn,Hai Phong,HP,Vietnam,2025-04-25 00:00:00
+CUST_00002,U_aba0e567,Le Thi Long,le.thi.long2@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-08-05 00:00:00
+CUST_00003,U_bb5cf583,Nguyen Van Linh,nguyen.van.linh3@ecommerce.vn,Hai Phong,HP,Vietnam,2025-04-30 00:00:00
+CUST_00004,U_65bf3e00,Bui Van Long,bui.van.long4@ecommerce.vn,Hai Phong,HP,Vietnam,2025-10-07 00:00:00
+CUST_00005,U_b239fb38,Vu Minh Trang,vu.minh.trang5@ecommerce.vn,Can Tho,CT,Vietnam,2025-01-04 00:00:00
+CUST_00006,U_e14aca86,Le Quoc Huong,le.quoc.huong6@ecommerce.vn,Can Tho,CT,Vietnam,2025-03-21 00:00:00
+CUST_00007,U_aef9d748,Pham Anh Linh,pham.anh.linh7@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-07-14 00:00:00
+CUST_00008,U_983b47d9,Tran Anh Huong,tran.anh.huong8@ecommerce.vn,Can Tho,CT,Vietnam,2025-01-23 00:00:00
+CUST_00009,U_4ed5aef2,Dang Dinh Linh,dang.dinh.linh9@ecommerce.vn,Nha Trang,KH,Vietnam,2025-02-10 00:00:00
+CUST_00010,U_e0e7c562,Bui Huu Thao,bui.huu.thao10@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-10-23 00:00:00
+CUST_00011,U_ea370e6a,Pham Thi Nam,pham.thi.nam11@ecommerce.vn,Hai Phong,HP,Vietnam,2025-05-29 00:00:00
+CUST_00012,U_5cb9731c,Tran Minh Linh,tran.minh.linh12@ecommerce.vn,Nha Trang,KH,Vietnam,2025-05-23 00:00:00
+CUST_00013,U_6e021cda,Dang Anh Tuan,dang.anh.tuan13@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-07-01 00:00:00
+CUST_00014,U_2bb57bc5,Pham Huu Linh,pham.huu.linh14@ecommerce.vn,Da Nang,DN,Vietnam,2025-10-01 00:00:00
+CUST_00015,U_12fb86c6,Pham Duc Trang,pham.duc.trang15@ecommerce.vn,Nha Trang,KH,Vietnam,2025-05-19 00:00:00
+CUST_00016,U_3df94a86,Bui Minh Huong,bui.minh.huong16@ecommerce.vn,Hanoi,HN,Vietnam,2025-04-28 00:00:00
+CUST_00017,U_b034b61f,Nguyen Anh Phong,nguyen.anh.phong17@ecommerce.vn,Can Tho,CT,Vietnam,2025-02-03 00:00:00
+CUST_00018,U_eb4cc6a5,Pham Anh Hoa,pham.anh.hoa18@ecommerce.vn,Hue,TTH,Vietnam,2025-07-22 00:00:00
+CUST_00019,U_b286e95e,Dang Duc Dung,dang.duc.dung19@ecommerce.vn,Da Nang,DN,Vietnam,2025-05-07 00:00:00
+CUST_00020,U_e3bfb2ef,Bui Dinh Dung,bui.dinh.dung20@ecommerce.vn,Nha Trang,KH,Vietnam,2025-10-26 00:00:00
+CUST_00021,U_d336fe49,Vu Anh Hoa,vu.anh.hoa21@ecommerce.vn,Da Nang,DN,Vietnam,2025-09-18 00:00:00
+CUST_00022,U_69b5fd7b,Dang Thi Nam,dang.thi.nam22@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-03-20 00:00:00
+CUST_00023,U_62e6f19c,Le Quoc Thao,le.quoc.thao23@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-07-17 00:00:00
+CUST_00024,U_7a583054,Vu Thanh Long,vu.thanh.long24@ecommerce.vn,Can Tho,CT,Vietnam,2025-10-11 00:00:00
+CUST_00025,U_0958df8b,Nguyen Thi Long,nguyen.thi.long25@ecommerce.vn,Can Tho,CT,Vietnam,2025-06-24 00:00:00
+CUST_00026,U_f411b648,Tran Huu Phong,tran.huu.phong26@ecommerce.vn,Da Nang,DN,Vietnam,2025-08-21 00:00:00
+CUST_00027,U_b6b8357d,Nguyen Huu Long,nguyen.huu.long27@ecommerce.vn,Da Nang,DN,Vietnam,2025-09-17 00:00:00
+CUST_00028,U_1a01de4d,Tran Huu Long,tran.huu.long28@ecommerce.vn,Hai Phong,HP,Vietnam,2025-03-20 00:00:00
+CUST_00029,U_e5d9718e,Phan Duc Long,phan.duc.long29@ecommerce.vn,Hanoi,HN,Vietnam,2025-06-15 00:00:00
+CUST_00030,U_f555035d,Dang Van Linh,dang.van.linh30@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-06-07 00:00:00
+CUST_00031,U_2f9a0a76,Pham Van Hoa,pham.van.hoa31@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-02-13 00:00:00
+CUST_00032,U_6edd4e87,Dang Thi Long,dang.thi.long32@ecommerce.vn,Da Nang,DN,Vietnam,2025-03-07 00:00:00
+CUST_00033,U_02578086,Dang Dinh Tuan,dang.dinh.tuan33@ecommerce.vn,Can Tho,CT,Vietnam,2025-09-28 00:00:00
+CUST_00034,U_620089d6,Do Quoc Hoa,do.quoc.hoa34@ecommerce.vn,Hai Phong,HP,Vietnam,2025-06-09 00:00:00
+CUST_00035,U_a9482a4b,Vu Anh Trang,vu.anh.trang35@ecommerce.vn,Hue,TTH,Vietnam,2025-03-03 00:00:00
+CUST_00036,U_1129425c,Pham Minh Linh,pham.minh.linh36@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-01-11 00:00:00
+CUST_00037,U_14beefe7,Do Dinh Hoa,do.dinh.hoa37@ecommerce.vn,Hai Phong,HP,Vietnam,2025-01-04 00:00:00
+CUST_00038,U_a0ef8815,Tran Van Hoa,tran.van.hoa38@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-01-17 00:00:00
+CUST_00039,U_e2db92de,Phan Thi Long,phan.thi.long39@ecommerce.vn,Hai Phong,HP,Vietnam,2025-05-23 00:00:00
+CUST_00040,U_45294b60,Dang Minh Long,dang.minh.long40@ecommerce.vn,Da Nang,DN,Vietnam,2025-10-20 00:00:00
+CUST_00041,U_a818f47a,Do Thanh Hoa,do.thanh.hoa41@ecommerce.vn,Hue,TTH,Vietnam,2025-07-28 00:00:00
+CUST_00042,U_4b12e14c,Pham Thi Linh,pham.thi.linh42@ecommerce.vn,Nha Trang,KH,Vietnam,2025-07-01 00:00:00
+CUST_00043,U_0e0e0534,Vu Quoc Trang,vu.quoc.trang43@ecommerce.vn,Hanoi,HN,Vietnam,2025-02-20 00:00:00
+CUST_00044,U_590b9d83,Nguyen Quoc Huong,nguyen.quoc.huong44@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-05-08 00:00:00
+CUST_00045,U_de7e717d,Pham Minh Long,pham.minh.long45@ecommerce.vn,Hue,TTH,Vietnam,2025-03-13 00:00:00
+CUST_00046,U_ee0107a1,Vu Duc Dung,vu.duc.dung46@ecommerce.vn,Hue,TTH,Vietnam,2025-05-08 00:00:00
+CUST_00047,U_46687f1e,Tran Thanh Long,tran.thanh.long47@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-01-26 00:00:00
+CUST_00048,U_33f7734e,Bui Van Linh,bui.van.linh48@ecommerce.vn,Hai Phong,HP,Vietnam,2025-03-27 00:00:00
+CUST_00049,U_78c58e1b,Vu Thanh Trang,vu.thanh.trang49@ecommerce.vn,Hai Phong,HP,Vietnam,2025-07-25 00:00:00
+CUST_00050,U_c8fd9e80,Nguyen Duc Phong,nguyen.duc.phong50@ecommerce.vn,Hanoi,HN,Vietnam,2025-07-19 00:00:00
+CUST_00051,U_d88a0b57,Hoang Thanh Dung,hoang.thanh.dung51@ecommerce.vn,Nha Trang,KH,Vietnam,2025-10-12 00:00:00
+CUST_00052,U_f0548777,Dang Duc Hoa,dang.duc.hoa52@ecommerce.vn,Can Tho,CT,Vietnam,2025-04-22 00:00:00
+CUST_00053,U_918148c1,Nguyen Dinh Nam,nguyen.dinh.nam53@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-01-30 00:00:00
+CUST_00054,U_493c5ac1,Nguyen Thanh Long,nguyen.thanh.long54@ecommerce.vn,Da Nang,DN,Vietnam,2025-01-30 00:00:00
+CUST_00055,U_83a1f9d7,Bui Thi Tuan,bui.thi.tuan55@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-02-04 00:00:00
+CUST_00056,U_3a3024b0,Pham Quoc Linh,pham.quoc.linh56@ecommerce.vn,Hai Phong,HP,Vietnam,2025-10-24 00:00:00
+CUST_00057,U_7ef795f8,Do Van Thao,do.van.thao57@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-08-03 00:00:00
+CUST_00058,U_f098f00b,Do Dinh Huong,do.dinh.huong58@ecommerce.vn,Can Tho,CT,Vietnam,2025-04-15 00:00:00
+CUST_00059,U_6ed53364,Phan Minh Dung,phan.minh.dung59@ecommerce.vn,Nha Trang,KH,Vietnam,2025-03-09 00:00:00
+CUST_00060,U_fd0bef1a,Hoang Thanh Huong,hoang.thanh.huong60@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-01-05 00:00:00
+CUST_00061,U_32af842b,Dang Thi Linh,dang.thi.linh61@ecommerce.vn,Hai Phong,HP,Vietnam,2025-09-17 00:00:00
+CUST_00062,U_eb5c43ab,Hoang Duc Huong,hoang.duc.huong62@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-05-06 00:00:00
+CUST_00063,U_75853f55,Phan Huu Tuan,phan.huu.tuan63@ecommerce.vn,Hue,TTH,Vietnam,2025-10-06 00:00:00
+CUST_00064,U_8abe9248,Hoang Dinh Nam,hoang.dinh.nam64@ecommerce.vn,Can Tho,CT,Vietnam,2025-02-23 00:00:00
+CUST_00065,U_2aa6afd0,Le Huu Linh,le.huu.linh65@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-10-11 00:00:00
+CUST_00066,U_422d18c2,Le Huu Dung,le.huu.dung66@ecommerce.vn,Hai Phong,HP,Vietnam,2025-06-25 00:00:00
+CUST_00067,U_82cdbd9a,Pham Huu Long,pham.huu.long67@ecommerce.vn,Hue,TTH,Vietnam,2025-05-09 00:00:00
+CUST_00068,U_42406bab,Nguyen Thi Phong,nguyen.thi.phong68@ecommerce.vn,Can Tho,CT,Vietnam,2025-01-23 00:00:00
+CUST_00069,U_1c907234,Nguyen Anh Tuan,nguyen.anh.tuan69@ecommerce.vn,Can Tho,CT,Vietnam,2025-03-24 00:00:00
+CUST_00070,U_c64dcbc2,Dang Dinh Phong,dang.dinh.phong70@ecommerce.vn,Hanoi,HN,Vietnam,2025-02-27 00:00:00
+CUST_00071,U_80e97406,Tran Duc Long,tran.duc.long71@ecommerce.vn,Hanoi,HN,Vietnam,2025-07-09 00:00:00
+CUST_00072,U_81f8258e,Do Dinh Tuan,do.dinh.tuan72@ecommerce.vn,Nha Trang,KH,Vietnam,2025-03-07 00:00:00
+CUST_00073,U_81042c7b,Nguyen Huu Huong,nguyen.huu.huong73@ecommerce.vn,Hanoi,HN,Vietnam,2025-07-03 00:00:00
+CUST_00074,U_abe8b16b,Pham Minh Linh,pham.minh.linh74@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-10-14 00:00:00
+CUST_00075,U_281f9f94,Vu Duc Hoa,vu.duc.hoa75@ecommerce.vn,Da Nang,DN,Vietnam,2025-04-01 00:00:00
+CUST_00076,U_ef69da33,Vu Van Tuan,vu.van.tuan76@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-07-30 00:00:00
+CUST_00077,U_469f0641,Pham Huu Tuan,pham.huu.tuan77@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-07-15 00:00:00
+CUST_00078,U_0d060f8d,Nguyen Thanh Hoa,nguyen.thanh.hoa78@ecommerce.vn,Hai Phong,HP,Vietnam,2025-08-24 00:00:00
+CUST_00079,U_9a514abc,Phan Huu Hoa,phan.huu.hoa79@ecommerce.vn,Hai Phong,HP,Vietnam,2025-01-13 00:00:00
+CUST_00080,U_bc7049cf,Pham Quoc Huong,pham.quoc.huong80@ecommerce.vn,Can Tho,CT,Vietnam,2025-02-05 00:00:00
+CUST_00081,U_f7bc7c8f,Hoang Anh Long,hoang.anh.long81@ecommerce.vn,Nha Trang,KH,Vietnam,2025-10-02 00:00:00
+CUST_00082,U_d5b2bfa7,Phan Van Linh,phan.van.linh82@ecommerce.vn,Can Tho,CT,Vietnam,2025-04-02 00:00:00
+CUST_00083,U_bcd8af38,Do Huu Nam,do.huu.nam83@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-08-11 00:00:00
+CUST_00084,U_4f3bebe9,Phan Anh Phong,phan.anh.phong84@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-07-17 00:00:00
+CUST_00085,U_eb7c8172,Do Minh Dung,do.minh.dung85@ecommerce.vn,Hanoi,HN,Vietnam,2025-08-12 00:00:00
+CUST_00086,U_383a6829,Nguyen Dinh Long,nguyen.dinh.long86@ecommerce.vn,Hai Phong,HP,Vietnam,2025-07-06 00:00:00
+CUST_00087,U_4d3b6a9d,Vu Thi Huong,vu.thi.huong87@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-03-05 00:00:00
+CUST_00088,U_5ae593d4,Hoang Dinh Dung,hoang.dinh.dung88@ecommerce.vn,Nha Trang,KH,Vietnam,2025-06-17 00:00:00
+CUST_00089,U_6fd17002,Vu Huu Long,vu.huu.long89@ecommerce.vn,Da Nang,DN,Vietnam,2025-04-09 00:00:00
+CUST_00090,U_49668cae,Vu Quoc Tuan,vu.quoc.tuan90@ecommerce.vn,Can Tho,CT,Vietnam,2025-07-27 00:00:00
+CUST_00091,U_c0e83607,Bui Van Dung,bui.van.dung91@ecommerce.vn,Can Tho,CT,Vietnam,2025-04-18 00:00:00
+CUST_00092,U_743c5d03,Vu Anh Trang,vu.anh.trang92@ecommerce.vn,Hue,TTH,Vietnam,2025-08-15 00:00:00
+CUST_00093,U_038aae19,Pham Dinh Trang,pham.dinh.trang93@ecommerce.vn,Da Nang,DN,Vietnam,2025-02-13 00:00:00
+CUST_00094,U_ec7f1cf2,Hoang Dinh Thao,hoang.dinh.thao94@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-02-17 00:00:00
+CUST_00095,U_66ba068d,Pham Huu Hoa,pham.huu.hoa95@ecommerce.vn,Hai Phong,HP,Vietnam,2025-03-17 00:00:00
+CUST_00096,U_c349c285,Nguyen Van Hoa,nguyen.van.hoa96@ecommerce.vn,Hue,TTH,Vietnam,2025-02-07 00:00:00
+CUST_00097,U_432d9c08,Dang Quoc Thao,dang.quoc.thao97@ecommerce.vn,Hai Phong,HP,Vietnam,2025-07-16 00:00:00
+CUST_00098,U_f6ef7901,Dang Quoc Hoa,dang.quoc.hoa98@ecommerce.vn,Da Nang,DN,Vietnam,2025-01-03 00:00:00
+CUST_00099,U_1d0b85f0,Tran Quoc Hoa,tran.quoc.hoa99@ecommerce.vn,Da Nang,DN,Vietnam,2025-09-23 00:00:00
+CUST_00100,U_23a090c9,Dang Van Long,dang.van.long100@ecommerce.vn,Hai Phong,HP,Vietnam,2025-03-04 00:00:00
+CUST_00101,U_757dfdf5,Dang Duc Trang,dang.duc.trang101@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-08-15 00:00:00
+CUST_00102,U_4553f647,Do Dinh Phong,do.dinh.phong102@ecommerce.vn,Hue,TTH,Vietnam,2025-03-23 00:00:00
+CUST_00103,U_acafc2ff,Dang Thanh Dung,dang.thanh.dung103@ecommerce.vn,Hai Phong,HP,Vietnam,2025-05-22 00:00:00
+CUST_00104,U_c9d8d928,Bui Thanh Hoa,bui.thanh.hoa104@ecommerce.vn,Can Tho,CT,Vietnam,2025-08-14 00:00:00
+CUST_00105,U_01d6af24,Tran Huu Hoa,tran.huu.hoa105@ecommerce.vn,Can Tho,CT,Vietnam,2025-06-21 00:00:00
+CUST_00106,U_e29f8315,Phan Dinh Linh,phan.dinh.linh106@ecommerce.vn,Da Nang,DN,Vietnam,2025-03-19 00:00:00
+CUST_00107,U_ec65300c,Pham Quoc Tuan,pham.quoc.tuan107@ecommerce.vn,Hai Phong,HP,Vietnam,2025-02-02 00:00:00
+CUST_00108,U_f76a17aa,Vu Quoc Huong,vu.quoc.huong108@ecommerce.vn,Hue,TTH,Vietnam,2025-08-01 00:00:00
+CUST_00109,U_fa145a16,Nguyen Minh Phong,nguyen.minh.phong109@ecommerce.vn,Nha Trang,KH,Vietnam,2025-10-27 00:00:00
+CUST_00110,U_3f7ef4c3,Nguyen Quoc Trang,nguyen.quoc.trang110@ecommerce.vn,Hanoi,HN,Vietnam,2025-06-30 00:00:00
+CUST_00111,U_4b164959,Hoang Quoc Phong,hoang.quoc.phong111@ecommerce.vn,Hai Phong,HP,Vietnam,2025-09-07 00:00:00
+CUST_00112,U_f6ac0e8c,Pham Huu Phong,pham.huu.phong112@ecommerce.vn,Hue,TTH,Vietnam,2025-01-15 00:00:00
+CUST_00113,U_212811e3,Vu Anh Phong,vu.anh.phong113@ecommerce.vn,Da Nang,DN,Vietnam,2025-08-28 00:00:00
+CUST_00114,U_58f35a34,Le Dinh Nam,le.dinh.nam114@ecommerce.vn,Nha Trang,KH,Vietnam,2025-10-16 00:00:00
+CUST_00115,U_cd1bcf44,Nguyen Thi Phong,nguyen.thi.phong115@ecommerce.vn,Da Nang,DN,Vietnam,2025-08-25 00:00:00
+CUST_00116,U_b0cf1295,Le Van Dung,le.van.dung116@ecommerce.vn,Nha Trang,KH,Vietnam,2025-06-17 00:00:00
+CUST_00117,U_11ba6991,Pham Thanh Huong,pham.thanh.huong117@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-07-14 00:00:00
+CUST_00118,U_59e5a4a0,Hoang Quoc Dung,hoang.quoc.dung118@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-08-29 00:00:00
+CUST_00119,U_a70e7481,Nguyen Dinh Nam,nguyen.dinh.nam119@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-04-25 00:00:00
+CUST_00120,U_4b871f76,Tran Van Nam,tran.van.nam120@ecommerce.vn,Hai Phong,HP,Vietnam,2025-04-13 00:00:00
+CUST_00121,U_4c49238f,Nguyen Duc Hoa,nguyen.duc.hoa121@ecommerce.vn,Da Nang,DN,Vietnam,2025-08-31 00:00:00
+CUST_00122,U_574b028e,Tran Minh Trang,tran.minh.trang122@ecommerce.vn,Can Tho,CT,Vietnam,2025-07-08 00:00:00
+CUST_00123,U_ace81365,Le Thi Tuan,le.thi.tuan123@ecommerce.vn,Can Tho,CT,Vietnam,2025-02-25 00:00:00
+CUST_00124,U_92b9b2ba,Do Van Dung,do.van.dung124@ecommerce.vn,Nha Trang,KH,Vietnam,2025-07-23 00:00:00
+CUST_00125,U_75ca33b5,Pham Thi Thao,pham.thi.thao125@ecommerce.vn,Hai Phong,HP,Vietnam,2025-02-22 00:00:00
+CUST_00126,U_defbd90a,Hoang Thi Thao,hoang.thi.thao126@ecommerce.vn,Hanoi,HN,Vietnam,2025-06-27 00:00:00
+CUST_00127,U_88ea3486,Bui Quoc Huong,bui.quoc.huong127@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-09-17 00:00:00
+CUST_00128,U_17c3779f,Phan Van Phong,phan.van.phong128@ecommerce.vn,Hue,TTH,Vietnam,2025-02-24 00:00:00
+CUST_00129,U_b0ba5dac,Vu Anh Trang,vu.anh.trang129@ecommerce.vn,Da Nang,DN,Vietnam,2025-08-11 00:00:00
+CUST_00130,U_ba1e40e6,Le Dinh Dung,le.dinh.dung130@ecommerce.vn,Hue,TTH,Vietnam,2025-08-27 00:00:00
+CUST_00131,U_ef005e88,Vu Huu Huong,vu.huu.huong131@ecommerce.vn,Hai Phong,HP,Vietnam,2025-02-14 00:00:00
+CUST_00132,U_ec16e63a,Hoang Thanh Hoa,hoang.thanh.hoa132@ecommerce.vn,Hue,TTH,Vietnam,2025-10-19 00:00:00
+CUST_00133,U_8791d658,Do Quoc Huong,do.quoc.huong133@ecommerce.vn,Hanoi,HN,Vietnam,2025-09-11 00:00:00
+CUST_00134,U_4c05cecc,Phan Duc Trang,phan.duc.trang134@ecommerce.vn,Hai Phong,HP,Vietnam,2025-07-01 00:00:00
+CUST_00135,U_e7284d4a,Hoang Anh Dung,hoang.anh.dung135@ecommerce.vn,Can Tho,CT,Vietnam,2025-10-12 00:00:00
+CUST_00136,U_fc329b41,Nguyen Dinh Hoa,nguyen.dinh.hoa136@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-05-04 00:00:00
+CUST_00137,U_2397d5cd,Vu Thanh Long,vu.thanh.long137@ecommerce.vn,Hai Phong,HP,Vietnam,2025-09-01 00:00:00
+CUST_00138,U_d11afa50,Dang Thanh Nam,dang.thanh.nam138@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-05-31 00:00:00
+CUST_00139,U_b64ac924,Pham Quoc Hoa,pham.quoc.hoa139@ecommerce.vn,Can Tho,CT,Vietnam,2025-10-25 00:00:00
+CUST_00140,U_9f54bb20,Phan Thanh Long,phan.thanh.long140@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-08-06 00:00:00
+CUST_00141,U_815aba9a,Bui Anh Huong,bui.anh.huong141@ecommerce.vn,Hue,TTH,Vietnam,2025-05-19 00:00:00
+CUST_00142,U_9338f2d5,Hoang Huu Hoa,hoang.huu.hoa142@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-04-09 00:00:00
+CUST_00143,U_bd193bb2,Phan Thi Long,phan.thi.long143@ecommerce.vn,Da Nang,DN,Vietnam,2025-04-09 00:00:00
+CUST_00144,U_f21a7c9e,Pham Thanh Dung,pham.thanh.dung144@ecommerce.vn,Can Tho,CT,Vietnam,2025-02-21 00:00:00
+CUST_00145,U_da180afb,Pham Huu Hoa,pham.huu.hoa145@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-04-02 00:00:00
+CUST_00146,U_1e409ea4,Hoang Van Long,hoang.van.long146@ecommerce.vn,Da Nang,DN,Vietnam,2025-05-21 00:00:00
+CUST_00147,U_10356378,Nguyen Van Long,nguyen.van.long147@ecommerce.vn,Can Tho,CT,Vietnam,2025-03-06 00:00:00
+CUST_00148,U_7b390db1,Dang Thi Nam,dang.thi.nam148@ecommerce.vn,Can Tho,CT,Vietnam,2025-08-29 00:00:00
+CUST_00149,U_a3b18de1,Dang Thanh Huong,dang.thanh.huong149@ecommerce.vn,Da Nang,DN,Vietnam,2025-01-27 00:00:00
+CUST_00150,U_89b8821b,Hoang Thanh Linh,hoang.thanh.linh150@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-07-25 00:00:00
+CUST_00151,U_dc9b26ad,Dang Thi Thao,dang.thi.thao151@ecommerce.vn,Hanoi,HN,Vietnam,2025-03-19 00:00:00
+CUST_00152,U_1fd866d5,Le Huu Linh,le.huu.linh152@ecommerce.vn,Hai Phong,HP,Vietnam,2025-03-02 00:00:00
+CUST_00153,U_93d3dfac,Bui Quoc Thao,bui.quoc.thao153@ecommerce.vn,Hai Phong,HP,Vietnam,2025-09-25 00:00:00
+CUST_00154,U_44ebdcd0,Vu Thanh Trang,vu.thanh.trang154@ecommerce.vn,Can Tho,CT,Vietnam,2025-08-08 00:00:00
+CUST_00155,U_64a5537b,Hoang Van Thao,hoang.van.thao155@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-04-17 00:00:00
+CUST_00156,U_6014a8ab,Pham Huu Linh,pham.huu.linh156@ecommerce.vn,Da Nang,DN,Vietnam,2025-05-03 00:00:00
+CUST_00157,U_b16a3cc1,Le Dinh Linh,le.dinh.linh157@ecommerce.vn,Da Nang,DN,Vietnam,2025-01-02 00:00:00
+CUST_00158,U_54c487e1,Vu Thanh Thao,vu.thanh.thao158@ecommerce.vn,Hue,TTH,Vietnam,2025-05-30 00:00:00
+CUST_00159,U_872aab81,Nguyen Minh Dung,nguyen.minh.dung159@ecommerce.vn,Can Tho,CT,Vietnam,2025-08-21 00:00:00
+CUST_00160,U_d3606a39,Tran Minh Dung,tran.minh.dung160@ecommerce.vn,Hai Phong,HP,Vietnam,2025-08-06 00:00:00
+CUST_00161,U_45228f82,Tran Dinh Hoa,tran.dinh.hoa161@ecommerce.vn,Da Nang,DN,Vietnam,2025-05-17 00:00:00
+CUST_00162,U_75f0ed07,Le Thi Nam,le.thi.nam162@ecommerce.vn,Da Nang,DN,Vietnam,2025-06-07 00:00:00
+CUST_00163,U_aa5141a4,Do Huu Trang,do.huu.trang163@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-08-28 00:00:00
+CUST_00164,U_a22dddc9,Hoang Quoc Dung,hoang.quoc.dung164@ecommerce.vn,Hue,TTH,Vietnam,2025-08-13 00:00:00
+CUST_00165,U_d8956583,Tran Van Phong,tran.van.phong165@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-05-09 00:00:00
+CUST_00166,U_d9f725af,Nguyen Thi Hoa,nguyen.thi.hoa166@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-18 00:00:00
+CUST_00167,U_aef9db8f,Do Van Tuan,do.van.tuan167@ecommerce.vn,Hue,TTH,Vietnam,2025-09-23 00:00:00
+CUST_00168,U_974b2193,Dang Huu Tuan,dang.huu.tuan168@ecommerce.vn,Nha Trang,KH,Vietnam,2025-09-09 00:00:00
+CUST_00169,U_de19478a,Tran Thanh Huong,tran.thanh.huong169@ecommerce.vn,Nha Trang,KH,Vietnam,2025-06-20 00:00:00
+CUST_00170,U_8e6abcde,Phan Thi Tuan,phan.thi.tuan170@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-07-30 00:00:00
+CUST_00171,U_ef29550a,Dang Huu Phong,dang.huu.phong171@ecommerce.vn,Hanoi,HN,Vietnam,2025-08-21 00:00:00
+CUST_00172,U_7a844d25,Tran Anh Dung,tran.anh.dung172@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-03-01 00:00:00
+CUST_00173,U_e4e07274,Vu Dinh Nam,vu.dinh.nam173@ecommerce.vn,Hue,TTH,Vietnam,2025-07-31 00:00:00
+CUST_00174,U_af4b729e,Nguyen Minh Long,nguyen.minh.long174@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-09-13 00:00:00
+CUST_00175,U_cc3104ac,Dang Van Hoa,dang.van.hoa175@ecommerce.vn,Can Tho,CT,Vietnam,2025-10-09 00:00:00
+CUST_00176,U_870da279,Le Huu Trang,le.huu.trang176@ecommerce.vn,Hue,TTH,Vietnam,2025-03-04 00:00:00
+CUST_00177,U_8a464a7e,Nguyen Minh Tuan,nguyen.minh.tuan177@ecommerce.vn,Can Tho,CT,Vietnam,2025-10-10 00:00:00
+CUST_00178,U_b7d98834,Nguyen Dinh Phong,nguyen.dinh.phong178@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-04-26 00:00:00
+CUST_00179,U_a30280dd,Tran Thanh Linh,tran.thanh.linh179@ecommerce.vn,Da Nang,DN,Vietnam,2025-09-13 00:00:00
+CUST_00180,U_04548cf5,Hoang Dinh Dung,hoang.dinh.dung180@ecommerce.vn,Nha Trang,KH,Vietnam,2025-09-05 00:00:00
+CUST_00181,U_281c86c7,Dang Minh Trang,dang.minh.trang181@ecommerce.vn,Da Nang,DN,Vietnam,2025-07-16 00:00:00
+CUST_00182,U_2b078536,Pham Dinh Tuan,pham.dinh.tuan182@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-05-22 00:00:00
+CUST_00183,U_ee0aa591,Vu Anh Long,vu.anh.long183@ecommerce.vn,Can Tho,CT,Vietnam,2025-01-02 00:00:00
+CUST_00184,U_49f227ce,Hoang Huu Thao,hoang.huu.thao184@ecommerce.vn,Hue,TTH,Vietnam,2025-03-18 00:00:00
+CUST_00185,U_2835bb4f,Dang Dinh Trang,dang.dinh.trang185@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-06-20 00:00:00
+CUST_00186,U_8d9de09f,Bui Dinh Phong,bui.dinh.phong186@ecommerce.vn,Hue,TTH,Vietnam,2025-06-14 00:00:00
+CUST_00187,U_a9558bdb,Pham Minh Thao,pham.minh.thao187@ecommerce.vn,Nha Trang,KH,Vietnam,2025-04-30 00:00:00
+CUST_00188,U_5f7f3ca4,Vu Van Huong,vu.van.huong188@ecommerce.vn,Hue,TTH,Vietnam,2025-07-15 00:00:00
+CUST_00189,U_cd14ece9,Vu Duc Trang,vu.duc.trang189@ecommerce.vn,Hanoi,HN,Vietnam,2025-03-06 00:00:00
+CUST_00190,U_8b94562c,Bui Anh Linh,bui.anh.linh190@ecommerce.vn,Hue,TTH,Vietnam,2025-02-21 00:00:00
+CUST_00191,U_7e910a28,Bui Thanh Nam,bui.thanh.nam191@ecommerce.vn,Da Nang,DN,Vietnam,2025-07-29 00:00:00
+CUST_00192,U_485aa8c2,Le Thi Trang,le.thi.trang192@ecommerce.vn,Can Tho,CT,Vietnam,2025-06-23 00:00:00
+CUST_00193,U_822452c1,Do Quoc Linh,do.quoc.linh193@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-10-01 00:00:00
+CUST_00194,U_84e89452,Vu Anh Trang,vu.anh.trang194@ecommerce.vn,Hanoi,HN,Vietnam,2025-02-05 00:00:00
+CUST_00195,U_8a698236,Pham Huu Hoa,pham.huu.hoa195@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-08-11 00:00:00
+CUST_00196,U_32d6ea9e,Tran Thi Trang,tran.thi.trang196@ecommerce.vn,Da Nang,DN,Vietnam,2025-06-03 00:00:00
+CUST_00197,U_e19aa153,Nguyen Van Huong,nguyen.van.huong197@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-31 00:00:00
+CUST_00198,U_78a7743e,Phan Anh Phong,phan.anh.phong198@ecommerce.vn,Da Nang,DN,Vietnam,2025-05-06 00:00:00
+CUST_00199,U_a416be70,Bui Quoc Thao,bui.quoc.thao199@ecommerce.vn,Da Nang,DN,Vietnam,2025-03-29 00:00:00
+CUST_00200,U_ab8efa55,Le Thi Thao,le.thi.thao200@ecommerce.vn,Nha Trang,KH,Vietnam,2025-05-04 00:00:00
+CUST_00201,U_6cf0db91,Dang Duc Hoa,dang.duc.hoa201@ecommerce.vn,Hue,TTH,Vietnam,2025-05-11 00:00:00
+CUST_00202,U_57c27d0a,Dang Huu Nam,dang.huu.nam202@ecommerce.vn,Hue,TTH,Vietnam,2025-05-28 00:00:00
+CUST_00203,U_800e4378,Bui Duc Linh,bui.duc.linh203@ecommerce.vn,Hue,TTH,Vietnam,2025-06-26 00:00:00
+CUST_00204,U_8fb4b05e,Do Huu Phong,do.huu.phong204@ecommerce.vn,Can Tho,CT,Vietnam,2025-08-22 00:00:00
+CUST_00205,U_2582efd5,Hoang Minh Phong,hoang.minh.phong205@ecommerce.vn,Hue,TTH,Vietnam,2025-02-24 00:00:00
+CUST_00206,U_c90471a8,Pham Quoc Thao,pham.quoc.thao206@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-10-22 00:00:00
+CUST_00207,U_f90bf5b7,Hoang Huu Nam,hoang.huu.nam207@ecommerce.vn,Nha Trang,KH,Vietnam,2025-05-21 00:00:00
+CUST_00208,U_734274c4,Nguyen Van Thao,nguyen.van.thao208@ecommerce.vn,Hue,TTH,Vietnam,2025-05-27 00:00:00
+CUST_00209,U_2d20c6eb,Pham Anh Hoa,pham.anh.hoa209@ecommerce.vn,Hai Phong,HP,Vietnam,2025-05-09 00:00:00
+CUST_00210,U_fe1f3eb1,Le Thi Nam,le.thi.nam210@ecommerce.vn,Can Tho,CT,Vietnam,2025-08-14 00:00:00
+CUST_00211,U_6dbf6e4e,Nguyen Anh Tuan,nguyen.anh.tuan211@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-06-01 00:00:00
+CUST_00212,U_e4c5cbc4,Phan Quoc Tuan,phan.quoc.tuan212@ecommerce.vn,Hai Phong,HP,Vietnam,2025-03-09 00:00:00
+CUST_00213,U_e0665b89,Bui Anh Long,bui.anh.long213@ecommerce.vn,Can Tho,CT,Vietnam,2025-03-26 00:00:00
+CUST_00214,U_aecea816,Hoang Thanh Dung,hoang.thanh.dung214@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-02-28 00:00:00
+CUST_00215,U_8e467707,Dang Thi Tuan,dang.thi.tuan215@ecommerce.vn,Hai Phong,HP,Vietnam,2025-07-23 00:00:00
+CUST_00216,U_3056bf9f,Bui Anh Linh,bui.anh.linh216@ecommerce.vn,Nha Trang,KH,Vietnam,2025-01-08 00:00:00
+CUST_00217,U_4585eeb2,Hoang Dinh Linh,hoang.dinh.linh217@ecommerce.vn,Hue,TTH,Vietnam,2025-07-08 00:00:00
+CUST_00218,U_37a83fbc,Hoang Quoc Huong,hoang.quoc.huong218@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-04-30 00:00:00
+CUST_00219,U_75fd865e,Dang Van Thao,dang.van.thao219@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-04-24 00:00:00
+CUST_00220,U_5c4b99da,Tran Thanh Dung,tran.thanh.dung220@ecommerce.vn,Nha Trang,KH,Vietnam,2025-03-01 00:00:00
+CUST_00221,U_eb4319cf,Le Van Nam,le.van.nam221@ecommerce.vn,Can Tho,CT,Vietnam,2025-09-10 00:00:00
+CUST_00222,U_1d30de05,Tran Thi Hoa,tran.thi.hoa222@ecommerce.vn,Da Nang,DN,Vietnam,2025-07-18 00:00:00
+CUST_00223,U_bffc65d7,Dang Anh Long,dang.anh.long223@ecommerce.vn,Nha Trang,KH,Vietnam,2025-10-28 00:00:00
+CUST_00224,U_4b9e0c17,Le Quoc Linh,le.quoc.linh224@ecommerce.vn,Hue,TTH,Vietnam,2025-07-28 00:00:00
+CUST_00225,U_1fb39509,Hoang Van Huong,hoang.van.huong225@ecommerce.vn,Hai Phong,HP,Vietnam,2025-08-16 00:00:00
+CUST_00226,U_3eed37a1,Dang Minh Huong,dang.minh.huong226@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-07-08 00:00:00
+CUST_00227,U_315de22e,Bui Anh Nam,bui.anh.nam227@ecommerce.vn,Nha Trang,KH,Vietnam,2025-05-22 00:00:00
+CUST_00228,U_a0c05aa7,Pham Thi Trang,pham.thi.trang228@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-04-19 00:00:00
+CUST_00229,U_6e2d6ab2,Do Van Nam,do.van.nam229@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-05-05 00:00:00
+CUST_00230,U_02f6be35,Le Minh Linh,le.minh.linh230@ecommerce.vn,Hai Phong,HP,Vietnam,2025-10-28 00:00:00
+CUST_00231,U_20906848,Pham Minh Huong,pham.minh.huong231@ecommerce.vn,Da Nang,DN,Vietnam,2025-01-02 00:00:00
+CUST_00232,U_6da3d05d,Hoang Duc Tuan,hoang.duc.tuan232@ecommerce.vn,Can Tho,CT,Vietnam,2025-03-31 00:00:00
+CUST_00233,U_70a5d8b2,Tran Van Tuan,tran.van.tuan233@ecommerce.vn,Hanoi,HN,Vietnam,2025-07-03 00:00:00
+CUST_00234,U_7b96b79e,Pham Anh Nam,pham.anh.nam234@ecommerce.vn,Da Nang,DN,Vietnam,2025-05-16 00:00:00
+CUST_00235,U_567b1cf6,Nguyen Duc Phong,nguyen.duc.phong235@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-02-02 00:00:00
+CUST_00236,U_dd43d09e,Dang Thanh Huong,dang.thanh.huong236@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-08-20 00:00:00
+CUST_00237,U_c484bb72,Bui Minh Thao,bui.minh.thao237@ecommerce.vn,Hanoi,HN,Vietnam,2025-09-24 00:00:00
+CUST_00238,U_780cd67a,Hoang Thanh Nam,hoang.thanh.nam238@ecommerce.vn,Hanoi,HN,Vietnam,2025-09-03 00:00:00
+CUST_00239,U_d16349f6,Vu Quoc Linh,vu.quoc.linh239@ecommerce.vn,Hue,TTH,Vietnam,2025-08-16 00:00:00
+CUST_00240,U_3d7cd6f7,Tran Thi Huong,tran.thi.huong240@ecommerce.vn,Da Nang,DN,Vietnam,2025-02-03 00:00:00
+CUST_00241,U_73aa56d0,Le Huu Thao,le.huu.thao241@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-07-15 00:00:00
+CUST_00242,U_fee84a18,Do Dinh Dung,do.dinh.dung242@ecommerce.vn,Hue,TTH,Vietnam,2025-09-16 00:00:00
+CUST_00243,U_fb299f3c,Do Quoc Linh,do.quoc.linh243@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-10-10 00:00:00
+CUST_00244,U_b45bbba6,Pham Quoc Trang,pham.quoc.trang244@ecommerce.vn,Hai Phong,HP,Vietnam,2025-07-31 00:00:00
+CUST_00245,U_d96a2e2c,Phan Thanh Phong,phan.thanh.phong245@ecommerce.vn,Nha Trang,KH,Vietnam,2025-02-18 00:00:00
+CUST_00246,U_5a53736f,Phan Quoc Huong,phan.quoc.huong246@ecommerce.vn,Can Tho,CT,Vietnam,2025-07-11 00:00:00
+CUST_00247,U_d7ad65ea,Le Thanh Linh,le.thanh.linh247@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-02-13 00:00:00
+CUST_00248,U_ee08aec2,Tran Quoc Linh,tran.quoc.linh248@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-03-08 00:00:00
+CUST_00249,U_4181e953,Bui Van Thao,bui.van.thao249@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-03-04 00:00:00
+CUST_00250,U_ba651753,Vu Anh Phong,vu.anh.phong250@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-28 00:00:00
+CUST_00251,U_d5a66d3a,Do Huu Huong,do.huu.huong251@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-10-23 00:00:00
+CUST_00252,U_b972922e,Bui Minh Tuan,bui.minh.tuan252@ecommerce.vn,Hue,TTH,Vietnam,2025-04-25 00:00:00
+CUST_00253,U_8a87fb83,Tran Anh Long,tran.anh.long253@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-02-28 00:00:00
+CUST_00254,U_095a055b,Hoang Minh Phong,hoang.minh.phong254@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-17 00:00:00
+CUST_00255,U_02433c2d,Nguyen Duc Dung,nguyen.duc.dung255@ecommerce.vn,Can Tho,CT,Vietnam,2025-06-23 00:00:00
+CUST_00256,U_aacd00fa,Phan Van Tuan,phan.van.tuan256@ecommerce.vn,Da Nang,DN,Vietnam,2025-10-17 00:00:00
+CUST_00257,U_81e96924,Vu Thi Tuan,vu.thi.tuan257@ecommerce.vn,Hanoi,HN,Vietnam,2025-02-16 00:00:00
+CUST_00258,U_477227b4,Bui Minh Phong,bui.minh.phong258@ecommerce.vn,Nha Trang,KH,Vietnam,2025-08-21 00:00:00
+CUST_00259,U_1de43c6b,Phan Duc Huong,phan.duc.huong259@ecommerce.vn,Can Tho,CT,Vietnam,2025-06-16 00:00:00
+CUST_00260,U_2bc914e7,Do Thi Nam,do.thi.nam260@ecommerce.vn,Da Nang,DN,Vietnam,2025-03-22 00:00:00
+CUST_00261,U_1d4601d8,Do Van Linh,do.van.linh261@ecommerce.vn,Can Tho,CT,Vietnam,2025-08-15 00:00:00
+CUST_00262,U_e1429d47,Vu Thanh Thao,vu.thanh.thao262@ecommerce.vn,Hue,TTH,Vietnam,2025-08-01 00:00:00
+CUST_00263,U_a4b4f9fc,Hoang Minh Long,hoang.minh.long263@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-06-26 00:00:00
+CUST_00264,U_be095b26,Vu Thi Dung,vu.thi.dung264@ecommerce.vn,Hue,TTH,Vietnam,2025-09-27 00:00:00
+CUST_00265,U_f39ea7fe,Hoang Van Hoa,hoang.van.hoa265@ecommerce.vn,Nha Trang,KH,Vietnam,2025-01-29 00:00:00
+CUST_00266,U_0c1037b5,Nguyen Minh Dung,nguyen.minh.dung266@ecommerce.vn,Hai Phong,HP,Vietnam,2025-03-12 00:00:00
+CUST_00267,U_a834516c,Hoang Huu Huong,hoang.huu.huong267@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-01-04 00:00:00
+CUST_00268,U_1d5db6e4,Dang Quoc Tuan,dang.quoc.tuan268@ecommerce.vn,Da Nang,DN,Vietnam,2025-07-14 00:00:00
+CUST_00269,U_16836a33,Bui Minh Long,bui.minh.long269@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-02-06 00:00:00
+CUST_00270,U_c6a70e52,Vu Van Phong,vu.van.phong270@ecommerce.vn,Hanoi,HN,Vietnam,2025-08-24 00:00:00
+CUST_00271,U_3de255be,Tran Anh Thao,tran.anh.thao271@ecommerce.vn,Nha Trang,KH,Vietnam,2025-10-21 00:00:00
+CUST_00272,U_d53a14a0,Vu Quoc Dung,vu.quoc.dung272@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-07-27 00:00:00
+CUST_00273,U_2d252393,Nguyen Anh Tuan,nguyen.anh.tuan273@ecommerce.vn,Hue,TTH,Vietnam,2025-07-05 00:00:00
+CUST_00274,U_514d13ea,Tran Quoc Linh,tran.quoc.linh274@ecommerce.vn,Hai Phong,HP,Vietnam,2025-08-12 00:00:00
+CUST_00275,U_ed906b18,Do Quoc Long,do.quoc.long275@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-07-22 00:00:00
+CUST_00276,U_2fc1b843,Hoang Anh Hoa,hoang.anh.hoa276@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-03-28 00:00:00
+CUST_00277,U_8768304c,Tran Dinh Linh,tran.dinh.linh277@ecommerce.vn,Hai Phong,HP,Vietnam,2025-06-28 00:00:00
+CUST_00278,U_c3c06f81,Phan Duc Hoa,phan.duc.hoa278@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-03-16 00:00:00
+CUST_00279,U_71a0c099,Hoang Minh Tuan,hoang.minh.tuan279@ecommerce.vn,Da Nang,DN,Vietnam,2025-02-08 00:00:00
+CUST_00280,U_95049b52,Le Thanh Trang,le.thanh.trang280@ecommerce.vn,Hue,TTH,Vietnam,2025-10-17 00:00:00
+CUST_00281,U_4ef5bae7,Do Anh Huong,do.anh.huong281@ecommerce.vn,Da Nang,DN,Vietnam,2025-08-14 00:00:00
+CUST_00282,U_b0d5efa6,Tran Thanh Trang,tran.thanh.trang282@ecommerce.vn,Can Tho,CT,Vietnam,2025-05-21 00:00:00
+CUST_00283,U_e3c2aa57,Do Van Huong,do.van.huong283@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-06-08 00:00:00
+CUST_00284,U_6cef0c83,Dang Thanh Nam,dang.thanh.nam284@ecommerce.vn,Hanoi,HN,Vietnam,2025-07-08 00:00:00
+CUST_00285,U_685794f8,Hoang Thi Linh,hoang.thi.linh285@ecommerce.vn,Nha Trang,KH,Vietnam,2025-08-25 00:00:00
+CUST_00286,U_cff40083,Do Dinh Nam,do.dinh.nam286@ecommerce.vn,Hue,TTH,Vietnam,2025-10-20 00:00:00
+CUST_00287,U_c2374a59,Pham Anh Thao,pham.anh.thao287@ecommerce.vn,Hue,TTH,Vietnam,2025-09-14 00:00:00
+CUST_00288,U_0e5d2eb1,Le Van Trang,le.van.trang288@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-06-25 00:00:00
+CUST_00289,U_2f135a99,Tran Dinh Tuan,tran.dinh.tuan289@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-07 00:00:00
+CUST_00290,U_9d565528,Dang Thanh Long,dang.thanh.long290@ecommerce.vn,Da Nang,DN,Vietnam,2025-07-06 00:00:00
+CUST_00291,U_40e89d75,Phan Huu Phong,phan.huu.phong291@ecommerce.vn,Nha Trang,KH,Vietnam,2025-06-23 00:00:00
+CUST_00292,U_93460bd7,Do Van Huong,do.van.huong292@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-06-18 00:00:00
+CUST_00293,U_ad7155c5,Tran Dinh Phong,tran.dinh.phong293@ecommerce.vn,Can Tho,CT,Vietnam,2025-05-10 00:00:00
+CUST_00294,U_f9a507d3,Do Duc Huong,do.duc.huong294@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-10-26 00:00:00
+CUST_00295,U_7bc04d51,Le Anh Dung,le.anh.dung295@ecommerce.vn,Nha Trang,KH,Vietnam,2025-03-08 00:00:00
+CUST_00296,U_4b567e1f,Do Thi Dung,do.thi.dung296@ecommerce.vn,Nha Trang,KH,Vietnam,2025-06-18 00:00:00
+CUST_00297,U_5b03be5e,Le Dinh Linh,le.dinh.linh297@ecommerce.vn,Nha Trang,KH,Vietnam,2025-09-18 00:00:00
+CUST_00298,U_119d9a4a,Phan Van Huong,phan.van.huong298@ecommerce.vn,Can Tho,CT,Vietnam,2025-04-03 00:00:00
+CUST_00299,U_50d12ab9,Pham Anh Trang,pham.anh.trang299@ecommerce.vn,Hai Phong,HP,Vietnam,2025-04-26 00:00:00
+CUST_00300,U_07c4f197,Le Duc Linh,le.duc.linh300@ecommerce.vn,Can Tho,CT,Vietnam,2025-02-21 00:00:00
+CUST_00301,U_ddb57823,Bui Dinh Long,bui.dinh.long301@ecommerce.vn,Hanoi,HN,Vietnam,2025-06-22 00:00:00
+CUST_00302,U_a68db32c,Do Duc Thao,do.duc.thao302@ecommerce.vn,Nha Trang,KH,Vietnam,2025-03-20 00:00:00
+CUST_00303,U_e58c3f74,Le Duc Thao,le.duc.thao303@ecommerce.vn,Da Nang,DN,Vietnam,2025-08-13 00:00:00
+CUST_00304,U_cf551d62,Nguyen Quoc Huong,nguyen.quoc.huong304@ecommerce.vn,Hai Phong,HP,Vietnam,2025-08-16 00:00:00
+CUST_00305,U_5cc3104a,Do Huu Trang,do.huu.trang305@ecommerce.vn,Hai Phong,HP,Vietnam,2025-10-01 00:00:00
+CUST_00306,U_c44ebbf5,Pham Huu Trang,pham.huu.trang306@ecommerce.vn,Hai Phong,HP,Vietnam,2025-07-08 00:00:00
+CUST_00307,U_f0e4a2c1,Do Thanh Trang,do.thanh.trang307@ecommerce.vn,Can Tho,CT,Vietnam,2025-07-15 00:00:00
+CUST_00308,U_71e32c9f,Bui Dinh Phong,bui.dinh.phong308@ecommerce.vn,Da Nang,DN,Vietnam,2025-04-13 00:00:00
+CUST_00309,U_291b9f2a,Do Duc Dung,do.duc.dung309@ecommerce.vn,Hanoi,HN,Vietnam,2025-09-04 00:00:00
+CUST_00310,U_3ce284b2,Phan Dinh Linh,phan.dinh.linh310@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-05-26 00:00:00
+CUST_00311,U_f8552993,Tran Duc Dung,tran.duc.dung311@ecommerce.vn,Hue,TTH,Vietnam,2025-09-20 00:00:00
+CUST_00312,U_3e338247,Le Quoc Linh,le.quoc.linh312@ecommerce.vn,Hai Phong,HP,Vietnam,2025-08-19 00:00:00
+CUST_00313,U_49305d6e,Phan Van Phong,phan.van.phong313@ecommerce.vn,Hanoi,HN,Vietnam,2025-07-22 00:00:00
+CUST_00314,U_5250315b,Bui Anh Hoa,bui.anh.hoa314@ecommerce.vn,Nha Trang,KH,Vietnam,2025-02-11 00:00:00
+CUST_00315,U_d3a681a2,Phan Minh Nam,phan.minh.nam315@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-02-20 00:00:00
+CUST_00316,U_56454d9c,Phan Duc Tuan,phan.duc.tuan316@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-27 00:00:00
+CUST_00317,U_83058c28,Dang Duc Trang,dang.duc.trang317@ecommerce.vn,Hue,TTH,Vietnam,2025-01-03 00:00:00
+CUST_00318,U_beb586fb,Tran Van Dung,tran.van.dung318@ecommerce.vn,Hai Phong,HP,Vietnam,2025-03-18 00:00:00
+CUST_00319,U_7dc25a39,Bui Dinh Phong,bui.dinh.phong319@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-05-28 00:00:00
+CUST_00320,U_3fc488f6,Pham Huu Linh,pham.huu.linh320@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-03 00:00:00
+CUST_00321,U_1fbe53f5,Vu Thanh Linh,vu.thanh.linh321@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-09-13 00:00:00
+CUST_00322,U_878266fe,Do Dinh Nam,do.dinh.nam322@ecommerce.vn,Hai Phong,HP,Vietnam,2025-03-15 00:00:00
+CUST_00323,U_379e7195,Hoang Quoc Nam,hoang.quoc.nam323@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-05-04 00:00:00
+CUST_00324,U_98ee076d,Do Quoc Tuan,do.quoc.tuan324@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-09-26 00:00:00
+CUST_00325,U_34721b6c,Phan Thi Long,phan.thi.long325@ecommerce.vn,Hanoi,HN,Vietnam,2025-07-19 00:00:00
+CUST_00326,U_901be7c0,Dang Van Phong,dang.van.phong326@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-05-10 00:00:00
+CUST_00327,U_896b8192,Nguyen Anh Linh,nguyen.anh.linh327@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-05-04 00:00:00
+CUST_00328,U_39a16f7a,Tran Anh Tuan,tran.anh.tuan328@ecommerce.vn,Hanoi,HN,Vietnam,2025-06-30 00:00:00
+CUST_00329,U_51b16627,Bui Anh Tuan,bui.anh.tuan329@ecommerce.vn,Hue,TTH,Vietnam,2025-09-03 00:00:00
+CUST_00330,U_61b45e7c,Le Duc Linh,le.duc.linh330@ecommerce.vn,Hue,TTH,Vietnam,2025-01-19 00:00:00
+CUST_00331,U_590a5ec1,Hoang Minh Nam,hoang.minh.nam331@ecommerce.vn,Hai Phong,HP,Vietnam,2025-01-22 00:00:00
+CUST_00332,U_52f5a058,Phan Huu Long,phan.huu.long332@ecommerce.vn,Nha Trang,KH,Vietnam,2025-10-06 00:00:00
+CUST_00333,U_9bb53854,Dang Huu Nam,dang.huu.nam333@ecommerce.vn,Hai Phong,HP,Vietnam,2025-05-27 00:00:00
+CUST_00334,U_a83d6042,Phan Van Huong,phan.van.huong334@ecommerce.vn,Can Tho,CT,Vietnam,2025-03-05 00:00:00
+CUST_00335,U_4962df55,Phan Quoc Phong,phan.quoc.phong335@ecommerce.vn,Hue,TTH,Vietnam,2025-07-17 00:00:00
+CUST_00336,U_0ea16d72,Phan Duc Trang,phan.duc.trang336@ecommerce.vn,Hue,TTH,Vietnam,2025-07-08 00:00:00
+CUST_00337,U_54c192fe,Bui Huu Linh,bui.huu.linh337@ecommerce.vn,Nha Trang,KH,Vietnam,2025-02-10 00:00:00
+CUST_00338,U_e6d5aecb,Vu Duc Long,vu.duc.long338@ecommerce.vn,Can Tho,CT,Vietnam,2025-06-14 00:00:00
+CUST_00339,U_2e9cabcb,Tran Thi Huong,tran.thi.huong339@ecommerce.vn,Can Tho,CT,Vietnam,2025-06-06 00:00:00
+CUST_00340,U_0b5c77ec,Dang Quoc Tuan,dang.quoc.tuan340@ecommerce.vn,Hue,TTH,Vietnam,2025-06-29 00:00:00
+CUST_00341,U_85138036,Dang Van Huong,dang.van.huong341@ecommerce.vn,Nha Trang,KH,Vietnam,2025-05-21 00:00:00
+CUST_00342,U_84900578,Nguyen Thi Phong,nguyen.thi.phong342@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-09-20 00:00:00
+CUST_00343,U_7a7e2291,Le Van Tuan,le.van.tuan343@ecommerce.vn,Hue,TTH,Vietnam,2025-01-18 00:00:00
+CUST_00344,U_547fef44,Le Thi Hoa,le.thi.hoa344@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-07-05 00:00:00
+CUST_00345,U_4bfcd10b,Vu Van Thao,vu.van.thao345@ecommerce.vn,Da Nang,DN,Vietnam,2025-08-19 00:00:00
+CUST_00346,U_529aea2e,Phan Anh Trang,phan.anh.trang346@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-10-21 00:00:00
+CUST_00347,U_2dd67ba9,Le Dinh Huong,le.dinh.huong347@ecommerce.vn,Nha Trang,KH,Vietnam,2025-06-10 00:00:00
+CUST_00348,U_d1b387de,Hoang Minh Linh,hoang.minh.linh348@ecommerce.vn,Hanoi,HN,Vietnam,2025-04-06 00:00:00
+CUST_00349,U_2702eee0,Dang Dinh Phong,dang.dinh.phong349@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-05-15 00:00:00
+CUST_00350,U_569e792c,Hoang Thanh Hoa,hoang.thanh.hoa350@ecommerce.vn,Can Tho,CT,Vietnam,2025-09-09 00:00:00
+CUST_00351,U_25305ea0,Pham Thi Tuan,pham.thi.tuan351@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-08-20 00:00:00
+CUST_00352,U_7e11a776,Le Thanh Linh,le.thanh.linh352@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-06-27 00:00:00
+CUST_00353,U_cec41d34,Tran Dinh Long,tran.dinh.long353@ecommerce.vn,Can Tho,CT,Vietnam,2025-06-03 00:00:00
+CUST_00354,U_15602fdd,Le Duc Huong,le.duc.huong354@ecommerce.vn,Hai Phong,HP,Vietnam,2025-03-04 00:00:00
+CUST_00355,U_664cee6b,Pham Duc Hoa,pham.duc.hoa355@ecommerce.vn,Hue,TTH,Vietnam,2025-01-14 00:00:00
+CUST_00356,U_d46cfdb5,Phan Dinh Thao,phan.dinh.thao356@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-08-28 00:00:00
+CUST_00357,U_74138100,Bui Duc Thao,bui.duc.thao357@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-02-03 00:00:00
+CUST_00358,U_3d23c716,Hoang Quoc Trang,hoang.quoc.trang358@ecommerce.vn,Nha Trang,KH,Vietnam,2025-07-29 00:00:00
+CUST_00359,U_0a20b5f6,Do Thi Tuan,do.thi.tuan359@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-02-07 00:00:00
+CUST_00360,U_24e3df27,Dang Thanh Long,dang.thanh.long360@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-03-07 00:00:00
+CUST_00361,U_b503dcfb,Bui Duc Tuan,bui.duc.tuan361@ecommerce.vn,Nha Trang,KH,Vietnam,2025-09-15 00:00:00
+CUST_00362,U_190fa5b1,Nguyen Thi Long,nguyen.thi.long362@ecommerce.vn,Da Nang,DN,Vietnam,2025-06-05 00:00:00
+CUST_00363,U_92cae748,Le Duc Huong,le.duc.huong363@ecommerce.vn,Hai Phong,HP,Vietnam,2025-06-27 00:00:00
+CUST_00364,U_ee88d834,Bui Huu Linh,bui.huu.linh364@ecommerce.vn,Can Tho,CT,Vietnam,2025-04-11 00:00:00
+CUST_00365,U_63b30c7a,Bui Huu Tuan,bui.huu.tuan365@ecommerce.vn,Can Tho,CT,Vietnam,2025-10-01 00:00:00
+CUST_00366,U_88d189c8,Tran Dinh Tuan,tran.dinh.tuan366@ecommerce.vn,Da Nang,DN,Vietnam,2025-03-29 00:00:00
+CUST_00367,U_9f2d7541,Do Anh Thao,do.anh.thao367@ecommerce.vn,Hanoi,HN,Vietnam,2025-01-15 00:00:00
+CUST_00368,U_7149a2c0,Tran Van Thao,tran.van.thao368@ecommerce.vn,Can Tho,CT,Vietnam,2025-04-18 00:00:00
+CUST_00369,U_d807dc92,Do Quoc Thao,do.quoc.thao369@ecommerce.vn,Hanoi,HN,Vietnam,2025-09-12 00:00:00
+CUST_00370,U_19121251,Bui Huu Dung,bui.huu.dung370@ecommerce.vn,Hue,TTH,Vietnam,2025-05-06 00:00:00
+CUST_00371,U_cfa29404,Vu Huu Trang,vu.huu.trang371@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-01-31 00:00:00
+CUST_00372,U_71523132,Le Thanh Phong,le.thanh.phong372@ecommerce.vn,Hue,TTH,Vietnam,2025-08-26 00:00:00
+CUST_00373,U_32e02d99,Pham Anh Thao,pham.anh.thao373@ecommerce.vn,Da Nang,DN,Vietnam,2025-06-10 00:00:00
+CUST_00374,U_2844b9ee,Phan Anh Phong,phan.anh.phong374@ecommerce.vn,Da Nang,DN,Vietnam,2025-07-09 00:00:00
+CUST_00375,U_1e42ca69,Bui Dinh Linh,bui.dinh.linh375@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-05-04 00:00:00
+CUST_00376,U_8e874467,Dang Thi Dung,dang.thi.dung376@ecommerce.vn,Hue,TTH,Vietnam,2025-05-07 00:00:00
+CUST_00377,U_3769b802,Le Thi Nam,le.thi.nam377@ecommerce.vn,Can Tho,CT,Vietnam,2025-07-16 00:00:00
+CUST_00378,U_ae0c6a5e,Do Quoc Hoa,do.quoc.hoa378@ecommerce.vn,Da Nang,DN,Vietnam,2025-06-17 00:00:00
+CUST_00379,U_c7b47c77,Do Anh Hoa,do.anh.hoa379@ecommerce.vn,Da Nang,DN,Vietnam,2025-09-13 00:00:00
+CUST_00380,U_cb1f30c8,Bui Thanh Trang,bui.thanh.trang380@ecommerce.vn,Can Tho,CT,Vietnam,2025-09-12 00:00:00
+CUST_00381,U_3b6193d0,Nguyen Thi Phong,nguyen.thi.phong381@ecommerce.vn,Hue,TTH,Vietnam,2025-05-04 00:00:00
+CUST_00382,U_b1a4b169,Pham Anh Nam,pham.anh.nam382@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-25 00:00:00
+CUST_00383,U_a7ee9ee2,Dang Thanh Dung,dang.thanh.dung383@ecommerce.vn,Hanoi,HN,Vietnam,2025-02-25 00:00:00
+CUST_00384,U_a96100e2,Vu Duc Dung,vu.duc.dung384@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-07-26 00:00:00
+CUST_00385,U_43040379,Phan Van Phong,phan.van.phong385@ecommerce.vn,Hanoi,HN,Vietnam,2025-10-19 00:00:00
+CUST_00386,U_fa3a5b0b,Bui Minh Huong,bui.minh.huong386@ecommerce.vn,Can Tho,CT,Vietnam,2025-02-07 00:00:00
+CUST_00387,U_fca62d4b,Vu Dinh Trang,vu.dinh.trang387@ecommerce.vn,Can Tho,CT,Vietnam,2025-03-02 00:00:00
+CUST_00388,U_894405f5,Le Thi Phong,le.thi.phong388@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-06-23 00:00:00
+CUST_00389,U_0e916cdd,Bui Anh Tuan,bui.anh.tuan389@ecommerce.vn,Hai Phong,HP,Vietnam,2025-09-18 00:00:00
+CUST_00390,U_fc03514f,Vu Dinh Nam,vu.dinh.nam390@ecommerce.vn,Hanoi,HN,Vietnam,2025-01-20 00:00:00
+CUST_00391,U_18637011,Le Anh Trang,le.anh.trang391@ecommerce.vn,Hue,TTH,Vietnam,2025-03-18 00:00:00
+CUST_00392,U_19470001,Do Dinh Tuan,do.dinh.tuan392@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-06-13 00:00:00
+CUST_00393,U_8bd89d53,Le Quoc Thao,le.quoc.thao393@ecommerce.vn,Can Tho,CT,Vietnam,2025-06-22 00:00:00
+CUST_00394,U_90db306c,Bui Dinh Long,bui.dinh.long394@ecommerce.vn,Hue,TTH,Vietnam,2025-10-16 00:00:00
+CUST_00395,U_e267b8ae,Hoang Thanh Nam,hoang.thanh.nam395@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-06-19 00:00:00
+CUST_00396,U_4d657c58,Tran Quoc Thao,tran.quoc.thao396@ecommerce.vn,Can Tho,CT,Vietnam,2025-01-14 00:00:00
+CUST_00397,U_47f2b9b1,Do Thanh Dung,do.thanh.dung397@ecommerce.vn,Hai Phong,HP,Vietnam,2025-01-27 00:00:00
+CUST_00398,U_4e1e2022,Do Thanh Tuan,do.thanh.tuan398@ecommerce.vn,Nha Trang,KH,Vietnam,2025-03-17 00:00:00
+CUST_00399,U_c9976d85,Pham Van Thao,pham.van.thao399@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-04-08 00:00:00
+CUST_00400,U_23169e5b,Nguyen Thanh Huong,nguyen.thanh.huong400@ecommerce.vn,Nha Trang,KH,Vietnam,2025-03-19 00:00:00
+CUST_00401,U_c03a67ee,Vu Minh Phong,vu.minh.phong401@ecommerce.vn,Hue,TTH,Vietnam,2025-02-01 00:00:00
+CUST_00402,U_596b77e6,Le Dinh Hoa,le.dinh.hoa402@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-09-02 00:00:00
+CUST_00403,U_fdb5a370,Bui Quoc Huong,bui.quoc.huong403@ecommerce.vn,Da Nang,DN,Vietnam,2025-08-24 00:00:00
+CUST_00404,U_b2cde598,Bui Anh Long,bui.anh.long404@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-05-16 00:00:00
+CUST_00405,U_dc522e35,Do Thanh Hoa,do.thanh.hoa405@ecommerce.vn,Hai Phong,HP,Vietnam,2025-05-23 00:00:00
+CUST_00406,U_92c0b8cf,Bui Huu Hoa,bui.huu.hoa406@ecommerce.vn,Can Tho,CT,Vietnam,2025-05-28 00:00:00
+CUST_00407,U_5a1e0ec9,Pham Thanh Huong,pham.thanh.huong407@ecommerce.vn,Hue,TTH,Vietnam,2025-06-28 00:00:00
+CUST_00408,U_77b0602b,Bui Huu Dung,bui.huu.dung408@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-10-21 00:00:00
+CUST_00409,U_bf195de9,Bui Quoc Phong,bui.quoc.phong409@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-03-16 00:00:00
+CUST_00410,U_f2ab876e,Hoang Van Dung,hoang.van.dung410@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-06-27 00:00:00
+CUST_00411,U_e16e444a,Dang Huu Trang,dang.huu.trang411@ecommerce.vn,Hai Phong,HP,Vietnam,2025-04-14 00:00:00
+CUST_00412,U_9c6892a2,Bui Huu Long,bui.huu.long412@ecommerce.vn,Can Tho,CT,Vietnam,2025-03-12 00:00:00
+CUST_00413,U_72017200,Tran Minh Hoa,tran.minh.hoa413@ecommerce.vn,Hanoi,HN,Vietnam,2025-09-29 00:00:00
+CUST_00414,U_3d8bceeb,Pham Minh Nam,pham.minh.nam414@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-07-31 00:00:00
+CUST_00415,U_f39fe032,Phan Thanh Linh,phan.thanh.linh415@ecommerce.vn,Da Nang,DN,Vietnam,2025-01-03 00:00:00
+CUST_00416,U_37347ff4,Bui Duc Phong,bui.duc.phong416@ecommerce.vn,Hue,TTH,Vietnam,2025-09-02 00:00:00
+CUST_00417,U_25bc24f4,Pham Huu Huong,pham.huu.huong417@ecommerce.vn,Can Tho,CT,Vietnam,2025-01-31 00:00:00
+CUST_00418,U_b6475587,Tran Minh Long,tran.minh.long418@ecommerce.vn,Hanoi,HN,Vietnam,2025-03-31 00:00:00
+CUST_00419,U_f8014e15,Vu Duc Nam,vu.duc.nam419@ecommerce.vn,Nha Trang,KH,Vietnam,2025-09-11 00:00:00
+CUST_00420,U_a1cde53e,Le Huu Nam,le.huu.nam420@ecommerce.vn,Hanoi,HN,Vietnam,2025-06-02 00:00:00
+CUST_00421,U_55b59a74,Do Thi Huong,do.thi.huong421@ecommerce.vn,Can Tho,CT,Vietnam,2025-08-21 00:00:00
+CUST_00422,U_ebd8804d,Bui Dinh Trang,bui.dinh.trang422@ecommerce.vn,Da Nang,DN,Vietnam,2025-09-16 00:00:00
+CUST_00423,U_82287c6d,Dang Huu Hoa,dang.huu.hoa423@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-06-19 00:00:00
+CUST_00424,U_5c5bb410,Le Thanh Dung,le.thanh.dung424@ecommerce.vn,Da Nang,DN,Vietnam,2025-01-08 00:00:00
+CUST_00425,U_eaa1bd12,Phan Huu Thao,phan.huu.thao425@ecommerce.vn,Hai Phong,HP,Vietnam,2025-03-31 00:00:00
+CUST_00426,U_7b403eb4,Do Quoc Phong,do.quoc.phong426@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-02-14 00:00:00
+CUST_00427,U_92ed90c2,Vu Thi Tuan,vu.thi.tuan427@ecommerce.vn,Da Nang,DN,Vietnam,2025-09-02 00:00:00
+CUST_00428,U_86da1e96,Phan Minh Nam,phan.minh.nam428@ecommerce.vn,Can Tho,CT,Vietnam,2025-07-16 00:00:00
+CUST_00429,U_df0aa7ed,Pham Thanh Dung,pham.thanh.dung429@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-06-04 00:00:00
+CUST_00430,U_7b437fbf,Do Van Dung,do.van.dung430@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-05-01 00:00:00
+CUST_00431,U_9721b36d,Nguyen Thi Trang,nguyen.thi.trang431@ecommerce.vn,Can Tho,CT,Vietnam,2025-03-23 00:00:00
+CUST_00432,U_5da7cef1,Vu Dinh Dung,vu.dinh.dung432@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-06-01 00:00:00
+CUST_00433,U_94b5398a,Phan Minh Hoa,phan.minh.hoa433@ecommerce.vn,Da Nang,DN,Vietnam,2025-09-02 00:00:00
+CUST_00434,U_4fa1fb6f,Le Thanh Thao,le.thanh.thao434@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-08-01 00:00:00
+CUST_00435,U_c0d8263d,Bui Thanh Long,bui.thanh.long435@ecommerce.vn,Hai Phong,HP,Vietnam,2025-05-07 00:00:00
+CUST_00436,U_6ddd899b,Do Thi Long,do.thi.long436@ecommerce.vn,Hue,TTH,Vietnam,2025-09-28 00:00:00
+CUST_00437,U_30935d99,Phan Thi Thao,phan.thi.thao437@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-02-01 00:00:00
+CUST_00438,U_847301d4,Bui Dinh Hoa,bui.dinh.hoa438@ecommerce.vn,Da Nang,DN,Vietnam,2025-03-26 00:00:00
+CUST_00439,U_0dc56977,Phan Dinh Trang,phan.dinh.trang439@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-04-16 00:00:00
+CUST_00440,U_1be58e70,Do Thanh Linh,do.thanh.linh440@ecommerce.vn,Hue,TTH,Vietnam,2025-01-29 00:00:00
+CUST_00441,U_3fea6185,Dang Duc Long,dang.duc.long441@ecommerce.vn,Nha Trang,KH,Vietnam,2025-08-22 00:00:00
+CUST_00442,U_fcb2a5a3,Do Van Long,do.van.long442@ecommerce.vn,Hue,TTH,Vietnam,2025-06-07 00:00:00
+CUST_00443,U_87e9e4e5,Nguyen Quoc Dung,nguyen.quoc.dung443@ecommerce.vn,Hanoi,HN,Vietnam,2025-04-22 00:00:00
+CUST_00444,U_49eceb55,Do Thi Nam,do.thi.nam444@ecommerce.vn,Nha Trang,KH,Vietnam,2025-06-26 00:00:00
+CUST_00445,U_02971fda,Tran Dinh Nam,tran.dinh.nam445@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-08-30 00:00:00
+CUST_00446,U_968b63ea,Nguyen Huu Phong,nguyen.huu.phong446@ecommerce.vn,Da Nang,DN,Vietnam,2025-03-11 00:00:00
+CUST_00447,U_516759f6,Vu Anh Phong,vu.anh.phong447@ecommerce.vn,Hue,TTH,Vietnam,2025-07-13 00:00:00
+CUST_00448,U_e1cf8ce3,Vu Thi Long,vu.thi.long448@ecommerce.vn,Da Nang,DN,Vietnam,2025-06-28 00:00:00
+CUST_00449,U_132be0d7,Tran Duc Long,tran.duc.long449@ecommerce.vn,Nha Trang,KH,Vietnam,2025-09-28 00:00:00
+CUST_00450,U_bcd01668,Le Minh Nam,le.minh.nam450@ecommerce.vn,Hanoi,HN,Vietnam,2025-06-02 00:00:00
+CUST_00451,U_979d7280,Dang Dinh Phong,dang.dinh.phong451@ecommerce.vn,Nha Trang,KH,Vietnam,2025-04-28 00:00:00
+CUST_00452,U_97fa9d60,Pham Thanh Huong,pham.thanh.huong452@ecommerce.vn,Da Nang,DN,Vietnam,2025-05-22 00:00:00
+CUST_00453,U_f6f546ae,Pham Thi Nam,pham.thi.nam453@ecommerce.vn,Nha Trang,KH,Vietnam,2025-01-09 00:00:00
+CUST_00454,U_49ecbcd0,Pham Minh Linh,pham.minh.linh454@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-01-18 00:00:00
+CUST_00455,U_9306c183,Dang Van Hoa,dang.van.hoa455@ecommerce.vn,Hanoi,HN,Vietnam,2025-07-25 00:00:00
+CUST_00456,U_231640ec,Dang Minh Long,dang.minh.long456@ecommerce.vn,Hai Phong,HP,Vietnam,2025-01-29 00:00:00
+CUST_00457,U_6ebdb86a,Le Dinh Dung,le.dinh.dung457@ecommerce.vn,Hai Phong,HP,Vietnam,2025-10-22 00:00:00
+CUST_00458,U_9c038439,Phan Anh Hoa,phan.anh.hoa458@ecommerce.vn,Can Tho,CT,Vietnam,2025-03-15 00:00:00
+CUST_00459,U_b057eac8,Bui Minh Phong,bui.minh.phong459@ecommerce.vn,Can Tho,CT,Vietnam,2025-05-21 00:00:00
+CUST_00460,U_2a7d59fe,Nguyen Dinh Thao,nguyen.dinh.thao460@ecommerce.vn,Da Nang,DN,Vietnam,2025-08-07 00:00:00
+CUST_00461,U_446bc222,Bui Thanh Nam,bui.thanh.nam461@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-07-15 00:00:00
+CUST_00462,U_53f58285,Bui Anh Phong,bui.anh.phong462@ecommerce.vn,Nha Trang,KH,Vietnam,2025-03-18 00:00:00
+CUST_00463,U_2293cb0c,Hoang Quoc Tuan,hoang.quoc.tuan463@ecommerce.vn,Hue,TTH,Vietnam,2025-05-04 00:00:00
+CUST_00464,U_ad65e75e,Pham Huu Tuan,pham.huu.tuan464@ecommerce.vn,Hue,TTH,Vietnam,2025-01-30 00:00:00
+CUST_00465,U_b4d49071,Bui Quoc Phong,bui.quoc.phong465@ecommerce.vn,Da Nang,DN,Vietnam,2025-07-18 00:00:00
+CUST_00466,U_faf0fd8c,Pham Huu Hoa,pham.huu.hoa466@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-02-10 00:00:00
+CUST_00467,U_b69e8ac0,Dang Anh Linh,dang.anh.linh467@ecommerce.vn,Hai Phong,HP,Vietnam,2025-01-27 00:00:00
+CUST_00468,U_8fdf1a4e,Hoang Quoc Thao,hoang.quoc.thao468@ecommerce.vn,Hanoi,HN,Vietnam,2025-02-07 00:00:00
+CUST_00469,U_963e589b,Pham Dinh Hoa,pham.dinh.hoa469@ecommerce.vn,Hue,TTH,Vietnam,2025-04-17 00:00:00
+CUST_00470,U_c3129c6c,Phan Huu Nam,phan.huu.nam470@ecommerce.vn,Hai Phong,HP,Vietnam,2025-04-08 00:00:00
+CUST_00471,U_f97a6817,Tran Thanh Hoa,tran.thanh.hoa471@ecommerce.vn,Hai Phong,HP,Vietnam,2025-07-23 00:00:00
+CUST_00472,U_e415d599,Pham Dinh Huong,pham.dinh.huong472@ecommerce.vn,Can Tho,CT,Vietnam,2025-07-14 00:00:00
+CUST_00473,U_8d170ad3,Dang Dinh Huong,dang.dinh.huong473@ecommerce.vn,Can Tho,CT,Vietnam,2025-05-14 00:00:00
+CUST_00474,U_28f9a0fe,Phan Dinh Trang,phan.dinh.trang474@ecommerce.vn,Hue,TTH,Vietnam,2025-02-20 00:00:00
+CUST_00475,U_b1f8ed01,Dang Anh Hoa,dang.anh.hoa475@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-06-10 00:00:00
+CUST_00476,U_8ded8fbd,Vu Van Thao,vu.van.thao476@ecommerce.vn,Hai Phong,HP,Vietnam,2025-03-16 00:00:00
+CUST_00477,U_f14e6427,Nguyen Huu Long,nguyen.huu.long477@ecommerce.vn,Nha Trang,KH,Vietnam,2025-06-01 00:00:00
+CUST_00478,U_ad6f7070,Le Minh Huong,le.minh.huong478@ecommerce.vn,Hai Phong,HP,Vietnam,2025-07-14 00:00:00
+CUST_00479,U_15eaf56d,Do Minh Trang,do.minh.trang479@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-05-12 00:00:00
+CUST_00480,U_7bbd509c,Dang Thanh Trang,dang.thanh.trang480@ecommerce.vn,Da Nang,DN,Vietnam,2025-06-30 00:00:00
+CUST_00481,U_6e393512,Le Duc Long,le.duc.long481@ecommerce.vn,Hue,TTH,Vietnam,2025-04-05 00:00:00
+CUST_00482,U_4a20d154,Bui Van Long,bui.van.long482@ecommerce.vn,Hanoi,HN,Vietnam,2025-02-08 00:00:00
+CUST_00483,U_3faa4288,Nguyen Van Phong,nguyen.van.phong483@ecommerce.vn,Da Nang,DN,Vietnam,2025-04-29 00:00:00
+CUST_00484,U_fee88202,Tran Duc Nam,tran.duc.nam484@ecommerce.vn,Hai Phong,HP,Vietnam,2025-09-16 00:00:00
+CUST_00485,U_94e78075,Dang Anh Nam,dang.anh.nam485@ecommerce.vn,Hue,TTH,Vietnam,2025-09-07 00:00:00
+CUST_00486,U_bbe55975,Nguyen Van Long,nguyen.van.long486@ecommerce.vn,Nha Trang,KH,Vietnam,2025-01-07 00:00:00
+CUST_00487,U_d7277066,Nguyen Dinh Dung,nguyen.dinh.dung487@ecommerce.vn,Can Tho,CT,Vietnam,2025-01-09 00:00:00
+CUST_00488,U_2e7f1f42,Bui Quoc Tuan,bui.quoc.tuan488@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-02-19 00:00:00
+CUST_00489,U_2a277f62,Bui Duc Hoa,bui.duc.hoa489@ecommerce.vn,Hai Phong,HP,Vietnam,2025-09-27 00:00:00
+CUST_00490,U_81d6c1d6,Hoang Anh Dung,hoang.anh.dung490@ecommerce.vn,Nha Trang,KH,Vietnam,2025-02-10 00:00:00
+CUST_00491,U_51817ea2,Phan Quoc Trang,phan.quoc.trang491@ecommerce.vn,Hai Phong,HP,Vietnam,2025-04-26 00:00:00
+CUST_00492,U_d79689c9,Hoang Thi Nam,hoang.thi.nam492@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-07-27 00:00:00
+CUST_00493,U_9b2c816e,Vu Quoc Long,vu.quoc.long493@ecommerce.vn,Hue,TTH,Vietnam,2025-01-29 00:00:00
+CUST_00494,U_18ead49d,Nguyen Duc Linh,nguyen.duc.linh494@ecommerce.vn,Hue,TTH,Vietnam,2025-08-11 00:00:00
+CUST_00495,U_9a1617fd,Phan Thi Long,phan.thi.long495@ecommerce.vn,Hanoi,HN,Vietnam,2025-04-28 00:00:00
+CUST_00496,U_2a814d49,Pham Thanh Dung,pham.thanh.dung496@ecommerce.vn,Hanoi,HN,Vietnam,2025-02-08 00:00:00
+CUST_00497,U_e716a984,Hoang Dinh Thao,hoang.dinh.thao497@ecommerce.vn,Hanoi,HN,Vietnam,2025-04-02 00:00:00
+CUST_00498,U_02a3e28c,Phan Van Hoa,phan.van.hoa498@ecommerce.vn,Da Nang,DN,Vietnam,2025-07-23 00:00:00
+CUST_00499,U_24d38f12,Tran Huu Tuan,tran.huu.tuan499@ecommerce.vn,Hai Phong,HP,Vietnam,2025-10-18 00:00:00
+CUST_00500,U_116a8dcd,Vu Dinh Huong,vu.dinh.huong500@ecommerce.vn,Nha Trang,KH,Vietnam,2025-03-13 00:00:00
+CUST_00501,U_a98db1a8,Tran Dinh Huong,tran.dinh.huong501@ecommerce.vn,Hanoi,HN,Vietnam,2025-02-20 00:00:00
+CUST_00502,U_bf547980,Vu Minh Linh,vu.minh.linh502@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-07-23 00:00:00
+CUST_00503,U_98a9e017,Phan Van Dung,phan.van.dung503@ecommerce.vn,Hue,TTH,Vietnam,2025-09-09 00:00:00
+CUST_00504,U_ced3c7c5,Pham Anh Long,pham.anh.long504@ecommerce.vn,Nha Trang,KH,Vietnam,2025-08-10 00:00:00
+CUST_00505,U_62bdee0d,Le Quoc Linh,le.quoc.linh505@ecommerce.vn,Can Tho,CT,Vietnam,2025-05-07 00:00:00
+CUST_00506,U_303a59d6,Tran Thi Dung,tran.thi.dung506@ecommerce.vn,Da Nang,DN,Vietnam,2025-07-14 00:00:00
+CUST_00507,U_dbd8228b,Le Quoc Huong,le.quoc.huong507@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-02-24 00:00:00
+CUST_00508,U_b4566145,Tran Van Dung,tran.van.dung508@ecommerce.vn,Hue,TTH,Vietnam,2025-07-04 00:00:00
+CUST_00509,U_6601d6f0,Hoang Thi Tuan,hoang.thi.tuan509@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-04-06 00:00:00
+CUST_00510,U_bfac35d2,Vu Thanh Long,vu.thanh.long510@ecommerce.vn,Nha Trang,KH,Vietnam,2025-02-22 00:00:00
+CUST_00511,U_ef634fe4,Nguyen Thi Huong,nguyen.thi.huong511@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-06-16 00:00:00
+CUST_00512,U_a6bb5ef5,Vu Van Dung,vu.van.dung512@ecommerce.vn,Nha Trang,KH,Vietnam,2025-07-18 00:00:00
+CUST_00513,U_de41b03a,Tran Dinh Hoa,tran.dinh.hoa513@ecommerce.vn,Da Nang,DN,Vietnam,2025-07-14 00:00:00
+CUST_00514,U_a7db9891,Le Duc Dung,le.duc.dung514@ecommerce.vn,Can Tho,CT,Vietnam,2025-05-18 00:00:00
+CUST_00515,U_7c4d4df5,Dang Duc Linh,dang.duc.linh515@ecommerce.vn,Da Nang,DN,Vietnam,2025-08-11 00:00:00
+CUST_00516,U_90a9c64a,Hoang Quoc Dung,hoang.quoc.dung516@ecommerce.vn,Hue,TTH,Vietnam,2025-02-09 00:00:00
+CUST_00517,U_85ddf1d0,Phan Huu Hoa,phan.huu.hoa517@ecommerce.vn,Hue,TTH,Vietnam,2025-04-11 00:00:00
+CUST_00518,U_a6edfedd,Dang Thi Tuan,dang.thi.tuan518@ecommerce.vn,Can Tho,CT,Vietnam,2025-01-04 00:00:00
+CUST_00519,U_d668e7a3,Vu Anh Thao,vu.anh.thao519@ecommerce.vn,Nha Trang,KH,Vietnam,2025-06-18 00:00:00
+CUST_00520,U_4a0f8181,Dang Anh Phong,dang.anh.phong520@ecommerce.vn,Da Nang,DN,Vietnam,2025-06-03 00:00:00
+CUST_00521,U_31186a96,Phan Minh Trang,phan.minh.trang521@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-04-01 00:00:00
+CUST_00522,U_cfff5e5d,Vu Anh Dung,vu.anh.dung522@ecommerce.vn,Hue,TTH,Vietnam,2025-10-22 00:00:00
+CUST_00523,U_a9d726fb,Pham Anh Phong,pham.anh.phong523@ecommerce.vn,Can Tho,CT,Vietnam,2025-07-21 00:00:00
+CUST_00524,U_dfb7488f,Phan Thi Thao,phan.thi.thao524@ecommerce.vn,Hai Phong,HP,Vietnam,2025-10-07 00:00:00
+CUST_00525,U_161189b2,Le Dinh Nam,le.dinh.nam525@ecommerce.vn,Hue,TTH,Vietnam,2025-04-18 00:00:00
+CUST_00526,U_db65c0da,Dang Huu Linh,dang.huu.linh526@ecommerce.vn,Nha Trang,KH,Vietnam,2025-09-13 00:00:00
+CUST_00527,U_e90c159a,Le Huu Hoa,le.huu.hoa527@ecommerce.vn,Can Tho,CT,Vietnam,2025-03-20 00:00:00
+CUST_00528,U_cc853a37,Vu Quoc Linh,vu.quoc.linh528@ecommerce.vn,Hue,TTH,Vietnam,2025-09-03 00:00:00
+CUST_00529,U_fb42722e,Do Quoc Long,do.quoc.long529@ecommerce.vn,Nha Trang,KH,Vietnam,2025-10-06 00:00:00
+CUST_00530,U_2fab064c,Nguyen Anh Long,nguyen.anh.long530@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-02-25 00:00:00
+CUST_00531,U_e94a1ee3,Pham Anh Tuan,pham.anh.tuan531@ecommerce.vn,Hanoi,HN,Vietnam,2025-10-16 00:00:00
+CUST_00532,U_fe9b6743,Vu Anh Phong,vu.anh.phong532@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-01-06 00:00:00
+CUST_00533,U_7aea2089,Tran Huu Hoa,tran.huu.hoa533@ecommerce.vn,Hai Phong,HP,Vietnam,2025-08-17 00:00:00
+CUST_00534,U_d28e6646,Phan Quoc Trang,phan.quoc.trang534@ecommerce.vn,Da Nang,DN,Vietnam,2025-06-26 00:00:00
+CUST_00535,U_93ccb977,Nguyen Thanh Linh,nguyen.thanh.linh535@ecommerce.vn,Can Tho,CT,Vietnam,2025-08-01 00:00:00
+CUST_00536,U_15335eac,Tran Thi Tuan,tran.thi.tuan536@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-06-09 00:00:00
+CUST_00537,U_70697663,Phan Thanh Hoa,phan.thanh.hoa537@ecommerce.vn,Hue,TTH,Vietnam,2025-06-28 00:00:00
+CUST_00538,U_1fe7a9bc,Dang Thi Trang,dang.thi.trang538@ecommerce.vn,Hue,TTH,Vietnam,2025-06-13 00:00:00
+CUST_00539,U_48051b93,Tran Huu Nam,tran.huu.nam539@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-01-12 00:00:00
+CUST_00540,U_347f4375,Phan Thi Tuan,phan.thi.tuan540@ecommerce.vn,Hai Phong,HP,Vietnam,2025-09-22 00:00:00
+CUST_00541,U_22cb9fb2,Le Dinh Tuan,le.dinh.tuan541@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-10-14 00:00:00
+CUST_00542,U_4dc3e842,Vu Thanh Hoa,vu.thanh.hoa542@ecommerce.vn,Nha Trang,KH,Vietnam,2025-04-05 00:00:00
+CUST_00543,U_a45ded48,Le Quoc Phong,le.quoc.phong543@ecommerce.vn,Hanoi,HN,Vietnam,2025-04-12 00:00:00
+CUST_00544,U_07f52b00,Dang Quoc Phong,dang.quoc.phong544@ecommerce.vn,Hanoi,HN,Vietnam,2025-04-20 00:00:00
+CUST_00545,U_3a81268d,Pham Huu Linh,pham.huu.linh545@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-10-02 00:00:00
+CUST_00546,U_b3c5843a,Le Anh Huong,le.anh.huong546@ecommerce.vn,Hai Phong,HP,Vietnam,2025-08-23 00:00:00
+CUST_00547,U_3e7b7de9,Tran Huu Trang,tran.huu.trang547@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-07-18 00:00:00
+CUST_00548,U_8d1b464b,Do Quoc Thao,do.quoc.thao548@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-06-28 00:00:00
+CUST_00549,U_8e7a6123,Phan Thanh Thao,phan.thanh.thao549@ecommerce.vn,Da Nang,DN,Vietnam,2025-06-02 00:00:00
+CUST_00550,U_b4f80c7f,Do Thi Tuan,do.thi.tuan550@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-03-02 00:00:00
+CUST_00551,U_85ba43c7,Pham Huu Linh,pham.huu.linh551@ecommerce.vn,Da Nang,DN,Vietnam,2025-07-11 00:00:00
+CUST_00552,U_eee4d99a,Le Dinh Phong,le.dinh.phong552@ecommerce.vn,Nha Trang,KH,Vietnam,2025-03-12 00:00:00
+CUST_00553,U_bd146985,Do Quoc Phong,do.quoc.phong553@ecommerce.vn,Da Nang,DN,Vietnam,2025-09-07 00:00:00
+CUST_00554,U_fc21741d,Bui Duc Long,bui.duc.long554@ecommerce.vn,Da Nang,DN,Vietnam,2025-09-08 00:00:00
+CUST_00555,U_b3417509,Hoang Duc Tuan,hoang.duc.tuan555@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-08-19 00:00:00
+CUST_00556,U_4e2f924b,Do Van Huong,do.van.huong556@ecommerce.vn,Hanoi,HN,Vietnam,2025-09-06 00:00:00
+CUST_00557,U_101b44ea,Le Minh Phong,le.minh.phong557@ecommerce.vn,Hue,TTH,Vietnam,2025-07-29 00:00:00
+CUST_00558,U_30882c79,Dang Quoc Trang,dang.quoc.trang558@ecommerce.vn,Hue,TTH,Vietnam,2025-03-27 00:00:00
+CUST_00559,U_fefbf9fa,Tran Van Hoa,tran.van.hoa559@ecommerce.vn,Can Tho,CT,Vietnam,2025-01-17 00:00:00
+CUST_00560,U_6d1f269b,Hoang Minh Long,hoang.minh.long560@ecommerce.vn,Can Tho,CT,Vietnam,2025-03-28 00:00:00
+CUST_00561,U_5357f5fe,Dang Thanh Long,dang.thanh.long561@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-10-21 00:00:00
+CUST_00562,U_72582ba2,Tran Huu Long,tran.huu.long562@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-10-05 00:00:00
+CUST_00563,U_2b806dcd,Nguyen Thanh Long,nguyen.thanh.long563@ecommerce.vn,Hai Phong,HP,Vietnam,2025-08-06 00:00:00
+CUST_00564,U_13124dbd,Tran Minh Dung,tran.minh.dung564@ecommerce.vn,Hanoi,HN,Vietnam,2025-08-19 00:00:00
+CUST_00565,U_4c0b9413,Hoang Anh Linh,hoang.anh.linh565@ecommerce.vn,Hue,TTH,Vietnam,2025-03-02 00:00:00
+CUST_00566,U_61bcb61e,Pham Minh Thao,pham.minh.thao566@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-08-08 00:00:00
+CUST_00567,U_897adbdb,Le Duc Hoa,le.duc.hoa567@ecommerce.vn,Hai Phong,HP,Vietnam,2025-01-31 00:00:00
+CUST_00568,U_c758bc09,Do Anh Long,do.anh.long568@ecommerce.vn,Can Tho,CT,Vietnam,2025-10-03 00:00:00
+CUST_00569,U_a896369f,Le Anh Dung,le.anh.dung569@ecommerce.vn,Can Tho,CT,Vietnam,2025-10-21 00:00:00
+CUST_00570,U_adbd078b,Hoang Dinh Linh,hoang.dinh.linh570@ecommerce.vn,Da Nang,DN,Vietnam,2025-07-30 00:00:00
+CUST_00571,U_22402c79,Nguyen Huu Tuan,nguyen.huu.tuan571@ecommerce.vn,Da Nang,DN,Vietnam,2025-05-08 00:00:00
+CUST_00572,U_657a28a4,Le Anh Hoa,le.anh.hoa572@ecommerce.vn,Nha Trang,KH,Vietnam,2025-09-08 00:00:00
+CUST_00573,U_098db109,Le Huu Phong,le.huu.phong573@ecommerce.vn,Nha Trang,KH,Vietnam,2025-08-20 00:00:00
+CUST_00574,U_57f42d2b,Tran Thi Phong,tran.thi.phong574@ecommerce.vn,Can Tho,CT,Vietnam,2025-07-08 00:00:00
+CUST_00575,U_ff146292,Dang Thanh Huong,dang.thanh.huong575@ecommerce.vn,Hanoi,HN,Vietnam,2025-02-17 00:00:00
+CUST_00576,U_f62d4317,Dang Anh Linh,dang.anh.linh576@ecommerce.vn,Nha Trang,KH,Vietnam,2025-04-22 00:00:00
+CUST_00577,U_69519f44,Vu Minh Trang,vu.minh.trang577@ecommerce.vn,Can Tho,CT,Vietnam,2025-06-15 00:00:00
+CUST_00578,U_20086eff,Hoang Anh Long,hoang.anh.long578@ecommerce.vn,Da Nang,DN,Vietnam,2025-10-17 00:00:00
+CUST_00579,U_7a3b272d,Dang Anh Nam,dang.anh.nam579@ecommerce.vn,Hanoi,HN,Vietnam,2025-02-20 00:00:00
+CUST_00580,U_e193645d,Dang Van Linh,dang.van.linh580@ecommerce.vn,Da Nang,DN,Vietnam,2025-08-14 00:00:00
+CUST_00581,U_ef26049e,Dang Van Phong,dang.van.phong581@ecommerce.vn,Hai Phong,HP,Vietnam,2025-03-09 00:00:00
+CUST_00582,U_438edce3,Hoang Duc Dung,hoang.duc.dung582@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-07-04 00:00:00
+CUST_00583,U_e295c771,Hoang Thi Huong,hoang.thi.huong583@ecommerce.vn,Da Nang,DN,Vietnam,2025-01-27 00:00:00
+CUST_00584,U_898c3079,Vu Huu Hoa,vu.huu.hoa584@ecommerce.vn,Nha Trang,KH,Vietnam,2025-02-16 00:00:00
+CUST_00585,U_d6ad8be0,Tran Van Hoa,tran.van.hoa585@ecommerce.vn,Hue,TTH,Vietnam,2025-02-09 00:00:00
+CUST_00586,U_35259402,Le Minh Long,le.minh.long586@ecommerce.vn,Hue,TTH,Vietnam,2025-01-05 00:00:00
+CUST_00587,U_734e3aaa,Nguyen Anh Linh,nguyen.anh.linh587@ecommerce.vn,Nha Trang,KH,Vietnam,2025-03-09 00:00:00
+CUST_00588,U_52b80b6c,Dang Thi Hoa,dang.thi.hoa588@ecommerce.vn,Nha Trang,KH,Vietnam,2025-02-15 00:00:00
+CUST_00589,U_eb60c4b2,Tran Thi Huong,tran.thi.huong589@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-06-03 00:00:00
+CUST_00590,U_e3dbf240,Le Quoc Tuan,le.quoc.tuan590@ecommerce.vn,Da Nang,DN,Vietnam,2025-02-05 00:00:00
+CUST_00591,U_977ac7b4,Bui Van Thao,bui.van.thao591@ecommerce.vn,Da Nang,DN,Vietnam,2025-08-14 00:00:00
+CUST_00592,U_7c6dc8be,Phan Minh Tuan,phan.minh.tuan592@ecommerce.vn,Nha Trang,KH,Vietnam,2025-08-15 00:00:00
+CUST_00593,U_e954b482,Pham Thi Linh,pham.thi.linh593@ecommerce.vn,Da Nang,DN,Vietnam,2025-03-05 00:00:00
+CUST_00594,U_80761d5b,Do Quoc Huong,do.quoc.huong594@ecommerce.vn,Nha Trang,KH,Vietnam,2025-06-11 00:00:00
+CUST_00595,U_5ab34781,Le Minh Dung,le.minh.dung595@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-05-08 00:00:00
+CUST_00596,U_59834f57,Bui Huu Nam,bui.huu.nam596@ecommerce.vn,Can Tho,CT,Vietnam,2025-04-16 00:00:00
+CUST_00597,U_4d6dadab,Bui Dinh Hoa,bui.dinh.hoa597@ecommerce.vn,Nha Trang,KH,Vietnam,2025-06-01 00:00:00
+CUST_00598,U_7a10a6a3,Nguyen Minh Trang,nguyen.minh.trang598@ecommerce.vn,Nha Trang,KH,Vietnam,2025-02-27 00:00:00
+CUST_00599,U_557b75aa,Pham Thanh Thao,pham.thanh.thao599@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-09-28 00:00:00
+CUST_00600,U_90df7f6d,Nguyen Anh Huong,nguyen.anh.huong600@ecommerce.vn,Da Nang,DN,Vietnam,2025-07-18 00:00:00
+CUST_00601,U_e5430963,Do Quoc Huong,do.quoc.huong601@ecommerce.vn,Da Nang,DN,Vietnam,2025-08-30 00:00:00
+CUST_00602,U_8653ad08,Tran Van Thao,tran.van.thao602@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-01-08 00:00:00
+CUST_00603,U_3a043b25,Hoang Minh Nam,hoang.minh.nam603@ecommerce.vn,Hanoi,HN,Vietnam,2025-07-23 00:00:00
+CUST_00604,U_b0f53d48,Bui Huu Long,bui.huu.long604@ecommerce.vn,Nha Trang,KH,Vietnam,2025-08-05 00:00:00
+CUST_00605,U_4353e351,Vu Thi Long,vu.thi.long605@ecommerce.vn,Da Nang,DN,Vietnam,2025-05-23 00:00:00
+CUST_00606,U_3bc192aa,Tran Huu Linh,tran.huu.linh606@ecommerce.vn,Hai Phong,HP,Vietnam,2025-03-21 00:00:00
+CUST_00607,U_80d3e0b4,Bui Anh Phong,bui.anh.phong607@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-06-08 00:00:00
+CUST_00608,U_325d1f9a,Vu Minh Nam,vu.minh.nam608@ecommerce.vn,Hai Phong,HP,Vietnam,2025-02-14 00:00:00
+CUST_00609,U_d0059a23,Vu Thi Trang,vu.thi.trang609@ecommerce.vn,Hanoi,HN,Vietnam,2025-06-08 00:00:00
+CUST_00610,U_471077da,Le Thi Nam,le.thi.nam610@ecommerce.vn,Da Nang,DN,Vietnam,2025-01-06 00:00:00
+CUST_00611,U_a0e180d0,Le Thanh Huong,le.thanh.huong611@ecommerce.vn,Can Tho,CT,Vietnam,2025-03-27 00:00:00
+CUST_00612,U_614d953e,Phan Duc Dung,phan.duc.dung612@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-01-16 00:00:00
+CUST_00613,U_56a4764e,Phan Quoc Dung,phan.quoc.dung613@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-05-15 00:00:00
+CUST_00614,U_c9ba4ff0,Do Thi Trang,do.thi.trang614@ecommerce.vn,Hue,TTH,Vietnam,2025-09-19 00:00:00
+CUST_00615,U_4496dd95,Phan Van Trang,phan.van.trang615@ecommerce.vn,Da Nang,DN,Vietnam,2025-07-08 00:00:00
+CUST_00616,U_ec888df8,Le Huu Linh,le.huu.linh616@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-04-27 00:00:00
+CUST_00617,U_4b8e5c9b,Bui Van Nam,bui.van.nam617@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-06 00:00:00
+CUST_00618,U_17e17f3b,Nguyen Thanh Huong,nguyen.thanh.huong618@ecommerce.vn,Nha Trang,KH,Vietnam,2025-03-18 00:00:00
+CUST_00619,U_33dae2e6,Le Van Long,le.van.long619@ecommerce.vn,Nha Trang,KH,Vietnam,2025-04-25 00:00:00
+CUST_00620,U_96455d60,Phan Minh Phong,phan.minh.phong620@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-05-19 00:00:00
+CUST_00621,U_ac82df7d,Tran Anh Linh,tran.anh.linh621@ecommerce.vn,Hanoi,HN,Vietnam,2025-04-02 00:00:00
+CUST_00622,U_a6e6edf0,Pham Dinh Nam,pham.dinh.nam622@ecommerce.vn,Nha Trang,KH,Vietnam,2025-02-05 00:00:00
+CUST_00623,U_ef502155,Dang Huu Dung,dang.huu.dung623@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-02-14 00:00:00
+CUST_00624,U_f67b3acf,Bui Thanh Nam,bui.thanh.nam624@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-04-13 00:00:00
+CUST_00625,U_338b231c,Hoang Huu Thao,hoang.huu.thao625@ecommerce.vn,Hai Phong,HP,Vietnam,2025-08-26 00:00:00
+CUST_00626,U_f81664dc,Phan Thanh Hoa,phan.thanh.hoa626@ecommerce.vn,Hai Phong,HP,Vietnam,2025-03-19 00:00:00
+CUST_00627,U_d94dc2c6,Nguyen Quoc Nam,nguyen.quoc.nam627@ecommerce.vn,Hai Phong,HP,Vietnam,2025-10-05 00:00:00
+CUST_00628,U_0c7f84c9,Phan Van Huong,phan.van.huong628@ecommerce.vn,Hanoi,HN,Vietnam,2025-07-12 00:00:00
+CUST_00629,U_97c4a35d,Hoang Thi Hoa,hoang.thi.hoa629@ecommerce.vn,Hai Phong,HP,Vietnam,2025-08-03 00:00:00
+CUST_00630,U_99321267,Dang Van Tuan,dang.van.tuan630@ecommerce.vn,Can Tho,CT,Vietnam,2025-02-17 00:00:00
+CUST_00631,U_1d152f85,Nguyen Minh Long,nguyen.minh.long631@ecommerce.vn,Nha Trang,KH,Vietnam,2025-07-10 00:00:00
+CUST_00632,U_a748aff7,Dang Thi Thao,dang.thi.thao632@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-09-16 00:00:00
+CUST_00633,U_6ea54dc9,Le Quoc Linh,le.quoc.linh633@ecommerce.vn,Hanoi,HN,Vietnam,2025-08-11 00:00:00
+CUST_00634,U_3e84d078,Le Minh Dung,le.minh.dung634@ecommerce.vn,Can Tho,CT,Vietnam,2025-06-11 00:00:00
+CUST_00635,U_3880bc4f,Vu Anh Huong,vu.anh.huong635@ecommerce.vn,Hue,TTH,Vietnam,2025-05-20 00:00:00
+CUST_00636,U_86ade02b,Pham Thi Hoa,pham.thi.hoa636@ecommerce.vn,Da Nang,DN,Vietnam,2025-10-27 00:00:00
+CUST_00637,U_d67c641e,Tran Duc Linh,tran.duc.linh637@ecommerce.vn,Da Nang,DN,Vietnam,2025-08-19 00:00:00
+CUST_00638,U_c2d7fcc6,Dang Anh Phong,dang.anh.phong638@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-10-02 00:00:00
+CUST_00639,U_34f1e8c5,Phan Minh Trang,phan.minh.trang639@ecommerce.vn,Can Tho,CT,Vietnam,2025-08-26 00:00:00
+CUST_00640,U_06059b00,Hoang Thi Linh,hoang.thi.linh640@ecommerce.vn,Da Nang,DN,Vietnam,2025-06-05 00:00:00
+CUST_00641,U_c6870968,Do Van Hoa,do.van.hoa641@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-03-17 00:00:00
+CUST_00642,U_4a49a392,Tran Minh Huong,tran.minh.huong642@ecommerce.vn,Nha Trang,KH,Vietnam,2025-09-20 00:00:00
+CUST_00643,U_bb8bbe71,Nguyen Huu Dung,nguyen.huu.dung643@ecommerce.vn,Da Nang,DN,Vietnam,2025-01-16 00:00:00
+CUST_00644,U_b43e9043,Vu Thanh Long,vu.thanh.long644@ecommerce.vn,Hai Phong,HP,Vietnam,2025-02-18 00:00:00
+CUST_00645,U_26f493f3,Dang Thi Tuan,dang.thi.tuan645@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-01-07 00:00:00
+CUST_00646,U_a7e7136b,Nguyen Minh Tuan,nguyen.minh.tuan646@ecommerce.vn,Hai Phong,HP,Vietnam,2025-07-25 00:00:00
+CUST_00647,U_f90bfc65,Phan Thi Thao,phan.thi.thao647@ecommerce.vn,Can Tho,CT,Vietnam,2025-02-08 00:00:00
+CUST_00648,U_10ec7654,Nguyen Thi Hoa,nguyen.thi.hoa648@ecommerce.vn,Hue,TTH,Vietnam,2025-03-07 00:00:00
+CUST_00649,U_b4333fdf,Tran Anh Linh,tran.anh.linh649@ecommerce.vn,Hanoi,HN,Vietnam,2025-08-25 00:00:00
+CUST_00650,U_541cc9c3,Nguyen Duc Thao,nguyen.duc.thao650@ecommerce.vn,Nha Trang,KH,Vietnam,2025-07-22 00:00:00
+CUST_00651,U_c7171189,Dang Van Phong,dang.van.phong651@ecommerce.vn,Nha Trang,KH,Vietnam,2025-03-30 00:00:00
+CUST_00652,U_10bd747e,Phan Minh Tuan,phan.minh.tuan652@ecommerce.vn,Can Tho,CT,Vietnam,2025-05-24 00:00:00
+CUST_00653,U_d7f02d9f,Dang Duc Nam,dang.duc.nam653@ecommerce.vn,Hai Phong,HP,Vietnam,2025-06-01 00:00:00
+CUST_00654,U_d122d9d9,Dang Quoc Long,dang.quoc.long654@ecommerce.vn,Hue,TTH,Vietnam,2025-02-01 00:00:00
+CUST_00655,U_b0cf39d1,Tran Huu Phong,tran.huu.phong655@ecommerce.vn,Da Nang,DN,Vietnam,2025-08-03 00:00:00
+CUST_00656,U_386daf18,Pham Dinh Hoa,pham.dinh.hoa656@ecommerce.vn,Hanoi,HN,Vietnam,2025-07-15 00:00:00
+CUST_00657,U_e9a3ce3b,Phan Thanh Long,phan.thanh.long657@ecommerce.vn,Hue,TTH,Vietnam,2025-06-26 00:00:00
+CUST_00658,U_0bef4fec,Do Dinh Huong,do.dinh.huong658@ecommerce.vn,Nha Trang,KH,Vietnam,2025-05-19 00:00:00
+CUST_00659,U_b1bee618,Le Van Huong,le.van.huong659@ecommerce.vn,Hai Phong,HP,Vietnam,2025-01-16 00:00:00
+CUST_00660,U_d25b5209,Hoang Van Trang,hoang.van.trang660@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-10-27 00:00:00
+CUST_00661,U_0ce7b613,Pham Duc Linh,pham.duc.linh661@ecommerce.vn,Hai Phong,HP,Vietnam,2025-05-04 00:00:00
+CUST_00662,U_b99ab404,Hoang Dinh Nam,hoang.dinh.nam662@ecommerce.vn,Hai Phong,HP,Vietnam,2025-10-22 00:00:00
+CUST_00663,U_d68fb1b6,Vu Anh Tuan,vu.anh.tuan663@ecommerce.vn,Da Nang,DN,Vietnam,2025-05-02 00:00:00
+CUST_00664,U_06e0b6c8,Do Anh Huong,do.anh.huong664@ecommerce.vn,Hanoi,HN,Vietnam,2025-06-30 00:00:00
+CUST_00665,U_94f41de1,Do Duc Thao,do.duc.thao665@ecommerce.vn,Hai Phong,HP,Vietnam,2025-09-10 00:00:00
+CUST_00666,U_2be63c28,Bui Huu Tuan,bui.huu.tuan666@ecommerce.vn,Hue,TTH,Vietnam,2025-01-20 00:00:00
+CUST_00667,U_985925d9,Tran Van Hoa,tran.van.hoa667@ecommerce.vn,Hai Phong,HP,Vietnam,2025-01-11 00:00:00
+CUST_00668,U_91c03067,Bui Thanh Nam,bui.thanh.nam668@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-04-14 00:00:00
+CUST_00669,U_84bc8472,Le Anh Tuan,le.anh.tuan669@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-01-31 00:00:00
+CUST_00670,U_e4ff2f72,Nguyen Duc Thao,nguyen.duc.thao670@ecommerce.vn,Da Nang,DN,Vietnam,2025-02-26 00:00:00
+CUST_00671,U_6a339e64,Bui Anh Linh,bui.anh.linh671@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-07-22 00:00:00
+CUST_00672,U_f2b56c33,Do Thi Huong,do.thi.huong672@ecommerce.vn,Can Tho,CT,Vietnam,2025-06-15 00:00:00
+CUST_00673,U_7a6a2df1,Le Duc Phong,le.duc.phong673@ecommerce.vn,Hue,TTH,Vietnam,2025-06-12 00:00:00
+CUST_00674,U_6153e550,Le Dinh Thao,le.dinh.thao674@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-04-25 00:00:00
+CUST_00675,U_f4accb02,Do Duc Phong,do.duc.phong675@ecommerce.vn,Can Tho,CT,Vietnam,2025-05-31 00:00:00
+CUST_00676,U_bedd6081,Le Duc Nam,le.duc.nam676@ecommerce.vn,Nha Trang,KH,Vietnam,2025-10-18 00:00:00
+CUST_00677,U_f5bd31d4,Nguyen Duc Thao,nguyen.duc.thao677@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-04-24 00:00:00
+CUST_00678,U_2b1f063b,Do Thi Trang,do.thi.trang678@ecommerce.vn,Da Nang,DN,Vietnam,2025-06-19 00:00:00
+CUST_00679,U_2a6869ee,Tran Minh Huong,tran.minh.huong679@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-03-27 00:00:00
+CUST_00680,U_e4e4a229,Tran Anh Trang,tran.anh.trang680@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-16 00:00:00
+CUST_00681,U_3f40ea27,Pham Minh Linh,pham.minh.linh681@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-05-12 00:00:00
+CUST_00682,U_044368de,Tran Van Nam,tran.van.nam682@ecommerce.vn,Nha Trang,KH,Vietnam,2025-08-13 00:00:00
+CUST_00683,U_7462f89f,Vu Duc Phong,vu.duc.phong683@ecommerce.vn,Hue,TTH,Vietnam,2025-07-13 00:00:00
+CUST_00684,U_741f6282,Phan Dinh Phong,phan.dinh.phong684@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-09-03 00:00:00
+CUST_00685,U_64730f44,Do Minh Tuan,do.minh.tuan685@ecommerce.vn,Hue,TTH,Vietnam,2025-02-07 00:00:00
+CUST_00686,U_ebd2206a,Nguyen Huu Nam,nguyen.huu.nam686@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-05-14 00:00:00
+CUST_00687,U_de7c8e90,Tran Thi Huong,tran.thi.huong687@ecommerce.vn,Da Nang,DN,Vietnam,2025-07-12 00:00:00
+CUST_00688,U_a6a3c045,Le Thi Long,le.thi.long688@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-06-23 00:00:00
+CUST_00689,U_ea797cff,Do Thanh Nam,do.thanh.nam689@ecommerce.vn,Nha Trang,KH,Vietnam,2025-03-26 00:00:00
+CUST_00690,U_0c61be86,Do Quoc Tuan,do.quoc.tuan690@ecommerce.vn,Hanoi,HN,Vietnam,2025-02-21 00:00:00
+CUST_00691,U_7c6f988b,Phan Minh Hoa,phan.minh.hoa691@ecommerce.vn,Nha Trang,KH,Vietnam,2025-10-11 00:00:00
+CUST_00692,U_f6eb4661,Bui Huu Dung,bui.huu.dung692@ecommerce.vn,Can Tho,CT,Vietnam,2025-05-02 00:00:00
+CUST_00693,U_596a427f,Tran Van Phong,tran.van.phong693@ecommerce.vn,Hue,TTH,Vietnam,2025-03-20 00:00:00
+CUST_00694,U_c919f009,Nguyen Anh Nam,nguyen.anh.nam694@ecommerce.vn,Nha Trang,KH,Vietnam,2025-02-14 00:00:00
+CUST_00695,U_5efd7570,Hoang Thanh Hoa,hoang.thanh.hoa695@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-01-14 00:00:00
+CUST_00696,U_e50bd992,Pham Duc Dung,pham.duc.dung696@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-08-31 00:00:00
+CUST_00697,U_b05dce03,Tran Huu Phong,tran.huu.phong697@ecommerce.vn,Hue,TTH,Vietnam,2025-09-08 00:00:00
+CUST_00698,U_e096ae0e,Hoang Thi Long,hoang.thi.long698@ecommerce.vn,Nha Trang,KH,Vietnam,2025-04-05 00:00:00
+CUST_00699,U_a5664548,Phan Quoc Huong,phan.quoc.huong699@ecommerce.vn,Da Nang,DN,Vietnam,2025-08-17 00:00:00
+CUST_00700,U_5d9b4483,Nguyen Huu Trang,nguyen.huu.trang700@ecommerce.vn,Hue,TTH,Vietnam,2025-05-15 00:00:00
+CUST_00701,U_30505710,Pham Huu Thao,pham.huu.thao701@ecommerce.vn,Hanoi,HN,Vietnam,2025-03-19 00:00:00
+CUST_00702,U_2b2e2626,Tran Thi Huong,tran.thi.huong702@ecommerce.vn,Nha Trang,KH,Vietnam,2025-04-27 00:00:00
+CUST_00703,U_85e958dd,Bui Van Phong,bui.van.phong703@ecommerce.vn,Nha Trang,KH,Vietnam,2025-10-02 00:00:00
+CUST_00704,U_f770dcaf,Dang Minh Trang,dang.minh.trang704@ecommerce.vn,Can Tho,CT,Vietnam,2025-02-10 00:00:00
+CUST_00705,U_91959dbb,Vu Van Long,vu.van.long705@ecommerce.vn,Da Nang,DN,Vietnam,2025-03-03 00:00:00
+CUST_00706,U_93644a4c,Dang Duc Tuan,dang.duc.tuan706@ecommerce.vn,Hai Phong,HP,Vietnam,2025-04-09 00:00:00
+CUST_00707,U_4b7a484b,Le Van Phong,le.van.phong707@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-08-11 00:00:00
+CUST_00708,U_c76ae510,Pham Duc Thao,pham.duc.thao708@ecommerce.vn,Can Tho,CT,Vietnam,2025-06-13 00:00:00
+CUST_00709,U_c553bf06,Tran Thi Phong,tran.thi.phong709@ecommerce.vn,Nha Trang,KH,Vietnam,2025-10-10 00:00:00
+CUST_00710,U_fe65ad16,Phan Huu Long,phan.huu.long710@ecommerce.vn,Hue,TTH,Vietnam,2025-01-07 00:00:00
+CUST_00711,U_e22fb509,Do Dinh Phong,do.dinh.phong711@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-08-01 00:00:00
+CUST_00712,U_446306a8,Le Duc Thao,le.duc.thao712@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-02-24 00:00:00
+CUST_00713,U_b9ade298,Do Thi Dung,do.thi.dung713@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-07-30 00:00:00
+CUST_00714,U_aa86fdc6,Hoang Quoc Trang,hoang.quoc.trang714@ecommerce.vn,Hue,TTH,Vietnam,2025-01-20 00:00:00
+CUST_00715,U_59c517ab,Le Huu Phong,le.huu.phong715@ecommerce.vn,Da Nang,DN,Vietnam,2025-07-25 00:00:00
+CUST_00716,U_b7468e81,Nguyen Quoc Huong,nguyen.quoc.huong716@ecommerce.vn,Hai Phong,HP,Vietnam,2025-01-26 00:00:00
+CUST_00717,U_9c8e264b,Dang Huu Huong,dang.huu.huong717@ecommerce.vn,Hanoi,HN,Vietnam,2025-06-22 00:00:00
+CUST_00718,U_3f760e21,Hoang Huu Dung,hoang.huu.dung718@ecommerce.vn,Hue,TTH,Vietnam,2025-02-20 00:00:00
+CUST_00719,U_775d7adc,Pham Duc Dung,pham.duc.dung719@ecommerce.vn,Hue,TTH,Vietnam,2025-06-14 00:00:00
+CUST_00720,U_ab2b2b57,Hoang Quoc Thao,hoang.quoc.thao720@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-04-07 00:00:00
+CUST_00721,U_52549fd6,Dang Minh Phong,dang.minh.phong721@ecommerce.vn,Hue,TTH,Vietnam,2025-09-22 00:00:00
+CUST_00722,U_aff990d5,Phan Van Long,phan.van.long722@ecommerce.vn,Da Nang,DN,Vietnam,2025-02-03 00:00:00
+CUST_00723,U_bb0e567a,Hoang Dinh Phong,hoang.dinh.phong723@ecommerce.vn,Da Nang,DN,Vietnam,2025-09-26 00:00:00
+CUST_00724,U_74643d48,Do Van Tuan,do.van.tuan724@ecommerce.vn,Hai Phong,HP,Vietnam,2025-04-13 00:00:00
+CUST_00725,U_7bc05ab9,Nguyen Minh Nam,nguyen.minh.nam725@ecommerce.vn,Hue,TTH,Vietnam,2025-01-26 00:00:00
+CUST_00726,U_84542646,Phan Minh Dung,phan.minh.dung726@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-08-26 00:00:00
+CUST_00727,U_5d92e661,Bui Quoc Linh,bui.quoc.linh727@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-04 00:00:00
+CUST_00728,U_7b480090,Phan Thanh Thao,phan.thanh.thao728@ecommerce.vn,Hue,TTH,Vietnam,2025-04-01 00:00:00
+CUST_00729,U_644d40ac,Dang Dinh Huong,dang.dinh.huong729@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-03-25 00:00:00
+CUST_00730,U_f459fa7f,Hoang Thi Dung,hoang.thi.dung730@ecommerce.vn,Hanoi,HN,Vietnam,2025-07-17 00:00:00
+CUST_00731,U_4344a881,Nguyen Duc Thao,nguyen.duc.thao731@ecommerce.vn,Hai Phong,HP,Vietnam,2025-04-24 00:00:00
+CUST_00732,U_b146be70,Pham Minh Dung,pham.minh.dung732@ecommerce.vn,Nha Trang,KH,Vietnam,2025-09-20 00:00:00
+CUST_00733,U_4c387830,Nguyen Van Trang,nguyen.van.trang733@ecommerce.vn,Da Nang,DN,Vietnam,2025-03-30 00:00:00
+CUST_00734,U_16a1a085,Do Van Hoa,do.van.hoa734@ecommerce.vn,Can Tho,CT,Vietnam,2025-06-06 00:00:00
+CUST_00735,U_42e4f24d,Hoang Quoc Phong,hoang.quoc.phong735@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-08-24 00:00:00
+CUST_00736,U_77eb2d08,Hoang Minh Trang,hoang.minh.trang736@ecommerce.vn,Can Tho,CT,Vietnam,2025-09-24 00:00:00
+CUST_00737,U_645e42cf,Do Quoc Thao,do.quoc.thao737@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-01-04 00:00:00
+CUST_00738,U_4880477b,Bui Anh Long,bui.anh.long738@ecommerce.vn,Can Tho,CT,Vietnam,2025-06-02 00:00:00
+CUST_00739,U_b553a8b5,Tran Thanh Linh,tran.thanh.linh739@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-05-22 00:00:00
+CUST_00740,U_c45179f9,Phan Huu Dung,phan.huu.dung740@ecommerce.vn,Can Tho,CT,Vietnam,2025-04-07 00:00:00
+CUST_00741,U_aa6d6745,Le Dinh Hoa,le.dinh.hoa741@ecommerce.vn,Hanoi,HN,Vietnam,2025-07-26 00:00:00
+CUST_00742,U_f42a853c,Phan Duc Nam,phan.duc.nam742@ecommerce.vn,Hue,TTH,Vietnam,2025-06-01 00:00:00
+CUST_00743,U_7c3339d2,Hoang Quoc Phong,hoang.quoc.phong743@ecommerce.vn,Nha Trang,KH,Vietnam,2025-01-19 00:00:00
+CUST_00744,U_0b6630aa,Do Minh Huong,do.minh.huong744@ecommerce.vn,Hai Phong,HP,Vietnam,2025-10-01 00:00:00
+CUST_00745,U_965a0aa0,Dang Anh Long,dang.anh.long745@ecommerce.vn,Can Tho,CT,Vietnam,2025-03-29 00:00:00
+CUST_00746,U_a90d5922,Bui Duc Dung,bui.duc.dung746@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-08-30 00:00:00
+CUST_00747,U_98a025c6,Le Huu Long,le.huu.long747@ecommerce.vn,Da Nang,DN,Vietnam,2025-06-21 00:00:00
+CUST_00748,U_d822126f,Tran Minh Huong,tran.minh.huong748@ecommerce.vn,Hai Phong,HP,Vietnam,2025-06-07 00:00:00
+CUST_00749,U_17b2b559,Vu Anh Huong,vu.anh.huong749@ecommerce.vn,Can Tho,CT,Vietnam,2025-10-27 00:00:00
+CUST_00750,U_b0f2abcf,Hoang Thanh Linh,hoang.thanh.linh750@ecommerce.vn,Hue,TTH,Vietnam,2025-01-28 00:00:00
+CUST_00751,U_903e8dbd,Do Thi Trang,do.thi.trang751@ecommerce.vn,Hai Phong,HP,Vietnam,2025-09-14 00:00:00
+CUST_00752,U_06f6663b,Tran Quoc Long,tran.quoc.long752@ecommerce.vn,Can Tho,CT,Vietnam,2025-07-31 00:00:00
+CUST_00753,U_f5763368,Nguyen Duc Tuan,nguyen.duc.tuan753@ecommerce.vn,Hai Phong,HP,Vietnam,2025-06-25 00:00:00
+CUST_00754,U_da214858,Vu Thanh Tuan,vu.thanh.tuan754@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-04-03 00:00:00
+CUST_00755,U_23e8d423,Tran Thanh Huong,tran.thanh.huong755@ecommerce.vn,Da Nang,DN,Vietnam,2025-06-10 00:00:00
+CUST_00756,U_9047a5f6,Nguyen Van Trang,nguyen.van.trang756@ecommerce.vn,Can Tho,CT,Vietnam,2025-04-18 00:00:00
+CUST_00757,U_1003d918,Le Duc Trang,le.duc.trang757@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-03-08 00:00:00
+CUST_00758,U_d2d46b01,Do Quoc Phong,do.quoc.phong758@ecommerce.vn,Nha Trang,KH,Vietnam,2025-08-08 00:00:00
+CUST_00759,U_e4858cae,Dang Quoc Nam,dang.quoc.nam759@ecommerce.vn,Hanoi,HN,Vietnam,2025-10-01 00:00:00
+CUST_00760,U_ae376e7b,Pham Anh Nam,pham.anh.nam760@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-09-29 00:00:00
+CUST_00761,U_186659db,Pham Van Nam,pham.van.nam761@ecommerce.vn,Hai Phong,HP,Vietnam,2025-04-26 00:00:00
+CUST_00762,U_d7dd9091,Phan Huu Tuan,phan.huu.tuan762@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-07-16 00:00:00
+CUST_00763,U_eab0ac9b,Bui Huu Tuan,bui.huu.tuan763@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-01-24 00:00:00
+CUST_00764,U_85201bb2,Hoang Huu Trang,hoang.huu.trang764@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-08-11 00:00:00
+CUST_00765,U_dcf7e76d,Le Anh Trang,le.anh.trang765@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-04-07 00:00:00
+CUST_00766,U_5df2d718,Le Quoc Nam,le.quoc.nam766@ecommerce.vn,Hai Phong,HP,Vietnam,2025-04-25 00:00:00
+CUST_00767,U_0682439a,Le Minh Nam,le.minh.nam767@ecommerce.vn,Da Nang,DN,Vietnam,2025-03-05 00:00:00
+CUST_00768,U_6c85f047,Phan Van Phong,phan.van.phong768@ecommerce.vn,Can Tho,CT,Vietnam,2025-10-01 00:00:00
+CUST_00769,U_d509eeac,Do Van Thao,do.van.thao769@ecommerce.vn,Hanoi,HN,Vietnam,2025-02-25 00:00:00
+CUST_00770,U_ce7b050b,Nguyen Van Linh,nguyen.van.linh770@ecommerce.vn,Nha Trang,KH,Vietnam,2025-08-16 00:00:00
+CUST_00771,U_19fd4967,Vu Thi Long,vu.thi.long771@ecommerce.vn,Can Tho,CT,Vietnam,2025-08-31 00:00:00
+CUST_00772,U_d7b4cc0e,Le Minh Nam,le.minh.nam772@ecommerce.vn,Can Tho,CT,Vietnam,2025-08-04 00:00:00
+CUST_00773,U_5ec2997f,Tran Dinh Dung,tran.dinh.dung773@ecommerce.vn,Da Nang,DN,Vietnam,2025-08-03 00:00:00
+CUST_00774,U_d418536e,Tran Dinh Thao,tran.dinh.thao774@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-05-25 00:00:00
+CUST_00775,U_fdca0a30,Tran Thi Trang,tran.thi.trang775@ecommerce.vn,Hai Phong,HP,Vietnam,2025-04-13 00:00:00
+CUST_00776,U_248f237b,Hoang Dinh Hoa,hoang.dinh.hoa776@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-07-29 00:00:00
+CUST_00777,U_5603dba2,Hoang Duc Nam,hoang.duc.nam777@ecommerce.vn,Hue,TTH,Vietnam,2025-04-17 00:00:00
+CUST_00778,U_fdb9bc26,Dang Anh Hoa,dang.anh.hoa778@ecommerce.vn,Hanoi,HN,Vietnam,2025-01-07 00:00:00
+CUST_00779,U_87dd86cb,Tran Thi Thao,tran.thi.thao779@ecommerce.vn,Hue,TTH,Vietnam,2025-03-18 00:00:00
+CUST_00780,U_f37c847c,Tran Dinh Linh,tran.dinh.linh780@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-05-12 00:00:00
+CUST_00781,U_a82c13a5,Pham Thanh Dung,pham.thanh.dung781@ecommerce.vn,Can Tho,CT,Vietnam,2025-08-26 00:00:00
+CUST_00782,U_106b6006,Nguyen Thi Tuan,nguyen.thi.tuan782@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-29 00:00:00
+CUST_00783,U_9bc4ad2e,Phan Anh Phong,phan.anh.phong783@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-02-18 00:00:00
+CUST_00784,U_d9fc64ce,Nguyen Van Tuan,nguyen.van.tuan784@ecommerce.vn,Da Nang,DN,Vietnam,2025-06-18 00:00:00
+CUST_00785,U_b1dcd813,Phan Thanh Thao,phan.thanh.thao785@ecommerce.vn,Can Tho,CT,Vietnam,2025-02-17 00:00:00
+CUST_00786,U_682d51b6,Phan Anh Tuan,phan.anh.tuan786@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-07-25 00:00:00
+CUST_00787,U_81c877f1,Vu Thanh Dung,vu.thanh.dung787@ecommerce.vn,Nha Trang,KH,Vietnam,2025-09-02 00:00:00
+CUST_00788,U_7ade3d9f,Vu Duc Linh,vu.duc.linh788@ecommerce.vn,Da Nang,DN,Vietnam,2025-01-31 00:00:00
+CUST_00789,U_1d8b0516,Le Thi Phong,le.thi.phong789@ecommerce.vn,Hue,TTH,Vietnam,2025-10-19 00:00:00
+CUST_00790,U_5b92aea9,Dang Duc Thao,dang.duc.thao790@ecommerce.vn,Nha Trang,KH,Vietnam,2025-07-03 00:00:00
+CUST_00791,U_c60be5fb,Do Van Tuan,do.van.tuan791@ecommerce.vn,Hue,TTH,Vietnam,2025-09-07 00:00:00
+CUST_00792,U_a26705aa,Tran Quoc Trang,tran.quoc.trang792@ecommerce.vn,Hanoi,HN,Vietnam,2025-02-02 00:00:00
+CUST_00793,U_d48ccdf9,Hoang Anh Nam,hoang.anh.nam793@ecommerce.vn,Hai Phong,HP,Vietnam,2025-06-23 00:00:00
+CUST_00794,U_e8f20b0d,Bui Dinh Thao,bui.dinh.thao794@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-08-10 00:00:00
+CUST_00795,U_8e18c432,Pham Thanh Huong,pham.thanh.huong795@ecommerce.vn,Nha Trang,KH,Vietnam,2025-03-18 00:00:00
+CUST_00796,U_39b584e6,Bui Van Nam,bui.van.nam796@ecommerce.vn,Da Nang,DN,Vietnam,2025-09-16 00:00:00
+CUST_00797,U_9a2e54a1,Dang Thanh Tuan,dang.thanh.tuan797@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-09-09 00:00:00
+CUST_00798,U_2b7f00d2,Phan Minh Huong,phan.minh.huong798@ecommerce.vn,Can Tho,CT,Vietnam,2025-01-26 00:00:00
+CUST_00799,U_6d4a5b81,Bui Minh Long,bui.minh.long799@ecommerce.vn,Nha Trang,KH,Vietnam,2025-07-26 00:00:00
+CUST_00800,U_0e44efaa,Pham Thi Trang,pham.thi.trang800@ecommerce.vn,Hue,TTH,Vietnam,2025-10-21 00:00:00
+CUST_00801,U_fb68a3ff,Dang Thi Trang,dang.thi.trang801@ecommerce.vn,Hue,TTH,Vietnam,2025-06-11 00:00:00
+CUST_00802,U_37403ad9,Tran Thanh Nam,tran.thanh.nam802@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-07-26 00:00:00
+CUST_00803,U_f7e8157d,Vu Van Long,vu.van.long803@ecommerce.vn,Hanoi,HN,Vietnam,2025-02-16 00:00:00
+CUST_00804,U_f091e651,Do Huu Long,do.huu.long804@ecommerce.vn,Hai Phong,HP,Vietnam,2025-08-22 00:00:00
+CUST_00805,U_21d65ed7,Phan Anh Nam,phan.anh.nam805@ecommerce.vn,Hai Phong,HP,Vietnam,2025-08-21 00:00:00
+CUST_00806,U_2c26bcf4,Phan Dinh Thao,phan.dinh.thao806@ecommerce.vn,Hue,TTH,Vietnam,2025-07-06 00:00:00
+CUST_00807,U_824e3567,Dang Thi Linh,dang.thi.linh807@ecommerce.vn,Hai Phong,HP,Vietnam,2025-01-02 00:00:00
+CUST_00808,U_ca5f51ce,Phan Anh Dung,phan.anh.dung808@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-02-24 00:00:00
+CUST_00809,U_5a165985,Nguyen Duc Trang,nguyen.duc.trang809@ecommerce.vn,Da Nang,DN,Vietnam,2025-07-29 00:00:00
+CUST_00810,U_de3954d6,Tran Huu Thao,tran.huu.thao810@ecommerce.vn,Hai Phong,HP,Vietnam,2025-04-07 00:00:00
+CUST_00811,U_6e626426,Tran Quoc Hoa,tran.quoc.hoa811@ecommerce.vn,Hue,TTH,Vietnam,2025-04-08 00:00:00
+CUST_00812,U_d0e282c1,Phan Thi Phong,phan.thi.phong812@ecommerce.vn,Hanoi,HN,Vietnam,2025-03-05 00:00:00
+CUST_00813,U_88aae2f1,Dang Thanh Thao,dang.thanh.thao813@ecommerce.vn,Da Nang,DN,Vietnam,2025-09-13 00:00:00
+CUST_00814,U_be7ce90b,Nguyen Dinh Nam,nguyen.dinh.nam814@ecommerce.vn,Nha Trang,KH,Vietnam,2025-10-27 00:00:00
+CUST_00815,U_dbae04bc,Dang Dinh Tuan,dang.dinh.tuan815@ecommerce.vn,Da Nang,DN,Vietnam,2025-03-07 00:00:00
+CUST_00816,U_6a00b555,Tran Quoc Thao,tran.quoc.thao816@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-09-16 00:00:00
+CUST_00817,U_a588c558,Vu Quoc Thao,vu.quoc.thao817@ecommerce.vn,Hai Phong,HP,Vietnam,2025-05-21 00:00:00
+CUST_00818,U_94c7aa54,Vu Anh Dung,vu.anh.dung818@ecommerce.vn,Hue,TTH,Vietnam,2025-03-10 00:00:00
+CUST_00819,U_43522ff8,Le Quoc Thao,le.quoc.thao819@ecommerce.vn,Can Tho,CT,Vietnam,2025-10-08 00:00:00
+CUST_00820,U_9d1358ab,Phan Dinh Hoa,phan.dinh.hoa820@ecommerce.vn,Hai Phong,HP,Vietnam,2025-04-18 00:00:00
+CUST_00821,U_3b35183e,Do Huu Huong,do.huu.huong821@ecommerce.vn,Da Nang,DN,Vietnam,2025-04-02 00:00:00
+CUST_00822,U_d7e94baa,Bui Dinh Huong,bui.dinh.huong822@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-06-30 00:00:00
+CUST_00823,U_f669e5e6,Bui Thanh Thao,bui.thanh.thao823@ecommerce.vn,Nha Trang,KH,Vietnam,2025-10-01 00:00:00
+CUST_00824,U_d009cff6,Hoang Quoc Nam,hoang.quoc.nam824@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-01-13 00:00:00
+CUST_00825,U_27918b98,Vu Duc Nam,vu.duc.nam825@ecommerce.vn,Hanoi,HN,Vietnam,2025-04-13 00:00:00
+CUST_00826,U_18a44c64,Hoang Duc Dung,hoang.duc.dung826@ecommerce.vn,Can Tho,CT,Vietnam,2025-03-16 00:00:00
+CUST_00827,U_21685a9a,Nguyen Huu Hoa,nguyen.huu.hoa827@ecommerce.vn,Hanoi,HN,Vietnam,2025-07-03 00:00:00
+CUST_00828,U_6821b0a1,Dang Thi Thao,dang.thi.thao828@ecommerce.vn,Hai Phong,HP,Vietnam,2025-10-15 00:00:00
+CUST_00829,U_524e0e30,Vu Minh Long,vu.minh.long829@ecommerce.vn,Can Tho,CT,Vietnam,2025-01-25 00:00:00
+CUST_00830,U_e6dd2eb2,Vu Quoc Phong,vu.quoc.phong830@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-10-10 00:00:00
+CUST_00831,U_aa6117d8,Nguyen Van Dung,nguyen.van.dung831@ecommerce.vn,Hai Phong,HP,Vietnam,2025-08-15 00:00:00
+CUST_00832,U_9aa3186b,Pham Anh Thao,pham.anh.thao832@ecommerce.vn,Hai Phong,HP,Vietnam,2025-04-10 00:00:00
+CUST_00833,U_8c4e71a7,Hoang Thanh Tuan,hoang.thanh.tuan833@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-04-06 00:00:00
+CUST_00834,U_b1faa10f,Le Dinh Linh,le.dinh.linh834@ecommerce.vn,Nha Trang,KH,Vietnam,2025-01-21 00:00:00
+CUST_00835,U_3fbad5e0,Vu Huu Long,vu.huu.long835@ecommerce.vn,Can Tho,CT,Vietnam,2025-03-08 00:00:00
+CUST_00836,U_3de97b9d,Le Huu Nam,le.huu.nam836@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-08-27 00:00:00
+CUST_00837,U_8fbdbebf,Le Van Tuan,le.van.tuan837@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-01-27 00:00:00
+CUST_00838,U_17220e92,Do Huu Trang,do.huu.trang838@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-02-07 00:00:00
+CUST_00839,U_18668e3f,Phan Dinh Hoa,phan.dinh.hoa839@ecommerce.vn,Da Nang,DN,Vietnam,2025-09-24 00:00:00
+CUST_00840,U_7a829657,Tran Dinh Tuan,tran.dinh.tuan840@ecommerce.vn,Nha Trang,KH,Vietnam,2025-10-06 00:00:00
+CUST_00841,U_61262069,Bui Quoc Linh,bui.quoc.linh841@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-04-24 00:00:00
+CUST_00842,U_88722774,Pham Anh Huong,pham.anh.huong842@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-05-31 00:00:00
+CUST_00843,U_3a26adff,Pham Dinh Trang,pham.dinh.trang843@ecommerce.vn,Hanoi,HN,Vietnam,2025-02-28 00:00:00
+CUST_00844,U_d5878d93,Phan Thanh Hoa,phan.thanh.hoa844@ecommerce.vn,Hai Phong,HP,Vietnam,2025-01-21 00:00:00
+CUST_00845,U_fcb3a4e0,Phan Quoc Linh,phan.quoc.linh845@ecommerce.vn,Nha Trang,KH,Vietnam,2025-05-12 00:00:00
+CUST_00846,U_b9b126bc,Bui Huu Nam,bui.huu.nam846@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-09-21 00:00:00
+CUST_00847,U_b6c42e6c,Bui Thanh Trang,bui.thanh.trang847@ecommerce.vn,Hanoi,HN,Vietnam,2025-06-01 00:00:00
+CUST_00848,U_02b5f9a0,Pham Anh Long,pham.anh.long848@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-02-19 00:00:00
+CUST_00849,U_d036ccce,Le Dinh Long,le.dinh.long849@ecommerce.vn,Hanoi,HN,Vietnam,2025-02-03 00:00:00
+CUST_00850,U_2e0d1ccd,Pham Minh Phong,pham.minh.phong850@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-04-16 00:00:00
+CUST_00851,U_d5a68305,Bui Quoc Linh,bui.quoc.linh851@ecommerce.vn,Da Nang,DN,Vietnam,2025-01-13 00:00:00
+CUST_00852,U_0bfecf7a,Dang Anh Nam,dang.anh.nam852@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-02-07 00:00:00
+CUST_00853,U_a1f28e8d,Nguyen Duc Dung,nguyen.duc.dung853@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-10-22 00:00:00
+CUST_00854,U_d5332acf,Pham Huu Phong,pham.huu.phong854@ecommerce.vn,Nha Trang,KH,Vietnam,2025-08-19 00:00:00
+CUST_00855,U_60247d10,Vu Quoc Huong,vu.quoc.huong855@ecommerce.vn,Hanoi,HN,Vietnam,2025-07-19 00:00:00
+CUST_00856,U_7eedbca4,Tran Dinh Nam,tran.dinh.nam856@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-10-27 00:00:00
+CUST_00857,U_b266be15,Nguyen Thi Huong,nguyen.thi.huong857@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-05-29 00:00:00
+CUST_00858,U_4fe16d98,Hoang Thi Dung,hoang.thi.dung858@ecommerce.vn,Hue,TTH,Vietnam,2025-07-15 00:00:00
+CUST_00859,U_928a98f6,Vu Van Trang,vu.van.trang859@ecommerce.vn,Da Nang,DN,Vietnam,2025-10-01 00:00:00
+CUST_00860,U_a6b424cc,Pham Duc Phong,pham.duc.phong860@ecommerce.vn,Can Tho,CT,Vietnam,2025-03-15 00:00:00
+CUST_00861,U_226130c6,Hoang Anh Nam,hoang.anh.nam861@ecommerce.vn,Da Nang,DN,Vietnam,2025-03-05 00:00:00
+CUST_00862,U_f3943fee,Nguyen Van Thao,nguyen.van.thao862@ecommerce.vn,Nha Trang,KH,Vietnam,2025-10-03 00:00:00
+CUST_00863,U_36302055,Bui Thi Dung,bui.thi.dung863@ecommerce.vn,Hai Phong,HP,Vietnam,2025-06-26 00:00:00
+CUST_00864,U_2469016d,Pham Quoc Long,pham.quoc.long864@ecommerce.vn,Da Nang,DN,Vietnam,2025-03-24 00:00:00
+CUST_00865,U_249901a5,Le Minh Thao,le.minh.thao865@ecommerce.vn,Can Tho,CT,Vietnam,2025-04-10 00:00:00
+CUST_00866,U_1eaf7dc6,Tran Duc Thao,tran.duc.thao866@ecommerce.vn,Hanoi,HN,Vietnam,2025-10-09 00:00:00
+CUST_00867,U_eca69ab7,Dang Dinh Linh,dang.dinh.linh867@ecommerce.vn,Can Tho,CT,Vietnam,2025-02-04 00:00:00
+CUST_00868,U_b17ee79a,Hoang Thi Hoa,hoang.thi.hoa868@ecommerce.vn,Hue,TTH,Vietnam,2025-06-19 00:00:00
+CUST_00869,U_9bfbf481,Phan Duc Hoa,phan.duc.hoa869@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-05-26 00:00:00
+CUST_00870,U_2043c336,Do Thi Hoa,do.thi.hoa870@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-09-06 00:00:00
+CUST_00871,U_ea47ac00,Dang Anh Thao,dang.anh.thao871@ecommerce.vn,Can Tho,CT,Vietnam,2025-10-27 00:00:00
+CUST_00872,U_6f287fa1,Le Anh Huong,le.anh.huong872@ecommerce.vn,Nha Trang,KH,Vietnam,2025-03-28 00:00:00
+CUST_00873,U_335aa1c3,Nguyen Anh Hoa,nguyen.anh.hoa873@ecommerce.vn,Hai Phong,HP,Vietnam,2025-08-12 00:00:00
+CUST_00874,U_ca608906,Hoang Anh Tuan,hoang.anh.tuan874@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-09-03 00:00:00
+CUST_00875,U_f44fffdc,Dang Thanh Huong,dang.thanh.huong875@ecommerce.vn,Can Tho,CT,Vietnam,2025-09-07 00:00:00
+CUST_00876,U_0b031823,Bui Thi Tuan,bui.thi.tuan876@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-05-24 00:00:00
+CUST_00877,U_9801308b,Le Dinh Hoa,le.dinh.hoa877@ecommerce.vn,Can Tho,CT,Vietnam,2025-02-09 00:00:00
+CUST_00878,U_bf7fbe3f,Tran Van Long,tran.van.long878@ecommerce.vn,Hanoi,HN,Vietnam,2025-10-25 00:00:00
+CUST_00879,U_7690a820,Do Quoc Thao,do.quoc.thao879@ecommerce.vn,Hai Phong,HP,Vietnam,2025-01-19 00:00:00
+CUST_00880,U_d7eb143a,Bui Huu Long,bui.huu.long880@ecommerce.vn,Hue,TTH,Vietnam,2025-03-18 00:00:00
+CUST_00881,U_203c0a78,Phan Quoc Hoa,phan.quoc.hoa881@ecommerce.vn,Can Tho,CT,Vietnam,2025-03-10 00:00:00
+CUST_00882,U_2ceedda1,Dang Dinh Long,dang.dinh.long882@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-07-23 00:00:00
+CUST_00883,U_c309aab9,Phan Dinh Nam,phan.dinh.nam883@ecommerce.vn,Hai Phong,HP,Vietnam,2025-03-26 00:00:00
+CUST_00884,U_f77465d3,Bui Duc Trang,bui.duc.trang884@ecommerce.vn,Da Nang,DN,Vietnam,2025-04-02 00:00:00
+CUST_00885,U_8e14786c,Do Duc Trang,do.duc.trang885@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-01-21 00:00:00
+CUST_00886,U_57617b22,Pham Thanh Hoa,pham.thanh.hoa886@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-05-16 00:00:00
+CUST_00887,U_ab800def,Phan Minh Nam,phan.minh.nam887@ecommerce.vn,Hai Phong,HP,Vietnam,2025-09-23 00:00:00
+CUST_00888,U_c18ba31d,Phan Quoc Trang,phan.quoc.trang888@ecommerce.vn,Hue,TTH,Vietnam,2025-01-24 00:00:00
+CUST_00889,U_a22abf96,Nguyen Anh Linh,nguyen.anh.linh889@ecommerce.vn,Can Tho,CT,Vietnam,2025-05-15 00:00:00
+CUST_00890,U_1a193520,Do Dinh Thao,do.dinh.thao890@ecommerce.vn,Da Nang,DN,Vietnam,2025-07-12 00:00:00
+CUST_00891,U_d1c48b85,Vu Anh Thao,vu.anh.thao891@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-09-22 00:00:00
+CUST_00892,U_03d5e1c3,Hoang Quoc Hoa,hoang.quoc.hoa892@ecommerce.vn,Nha Trang,KH,Vietnam,2025-06-30 00:00:00
+CUST_00893,U_add0d80d,Phan Thanh Trang,phan.thanh.trang893@ecommerce.vn,Hanoi,HN,Vietnam,2025-09-14 00:00:00
+CUST_00894,U_9d332e96,Le Thanh Tuan,le.thanh.tuan894@ecommerce.vn,Hai Phong,HP,Vietnam,2025-02-09 00:00:00
+CUST_00895,U_2b904ebb,Bui Huu Hoa,bui.huu.hoa895@ecommerce.vn,Da Nang,DN,Vietnam,2025-04-06 00:00:00
+CUST_00896,U_c1b5e4a2,Le Anh Thao,le.anh.thao896@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-04-28 00:00:00
+CUST_00897,U_465d0db2,Vu Anh Linh,vu.anh.linh897@ecommerce.vn,Hue,TTH,Vietnam,2025-09-03 00:00:00
+CUST_00898,U_62f8aa5c,Dang Minh Thao,dang.minh.thao898@ecommerce.vn,Da Nang,DN,Vietnam,2025-07-30 00:00:00
+CUST_00899,U_2e85911d,Nguyen Minh Nam,nguyen.minh.nam899@ecommerce.vn,Da Nang,DN,Vietnam,2025-10-21 00:00:00
+CUST_00900,U_6ab7bfe2,Do Duc Tuan,do.duc.tuan900@ecommerce.vn,Hanoi,HN,Vietnam,2025-10-21 00:00:00
+CUST_00901,U_2185ca74,Le Van Tuan,le.van.tuan901@ecommerce.vn,Can Tho,CT,Vietnam,2025-04-03 00:00:00
+CUST_00902,U_f355a630,Bui Quoc Thao,bui.quoc.thao902@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-26 00:00:00
+CUST_00903,U_c327a929,Tran Minh Trang,tran.minh.trang903@ecommerce.vn,Hue,TTH,Vietnam,2025-09-04 00:00:00
+CUST_00904,U_4409c04e,Le Minh Phong,le.minh.phong904@ecommerce.vn,Da Nang,DN,Vietnam,2025-10-26 00:00:00
+CUST_00905,U_b7810c69,Le Dinh Dung,le.dinh.dung905@ecommerce.vn,Da Nang,DN,Vietnam,2025-06-25 00:00:00
+CUST_00906,U_4b7335c0,Dang Thi Hoa,dang.thi.hoa906@ecommerce.vn,Nha Trang,KH,Vietnam,2025-07-17 00:00:00
+CUST_00907,U_359b1631,Le Thi Nam,le.thi.nam907@ecommerce.vn,Hai Phong,HP,Vietnam,2025-09-25 00:00:00
+CUST_00908,U_7a40425d,Bui Quoc Tuan,bui.quoc.tuan908@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-04-01 00:00:00
+CUST_00909,U_0c60afaf,Dang Van Long,dang.van.long909@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-02-17 00:00:00
+CUST_00910,U_9552d221,Dang Duc Thao,dang.duc.thao910@ecommerce.vn,Hanoi,HN,Vietnam,2025-08-09 00:00:00
+CUST_00911,U_48851603,Bui Quoc Huong,bui.quoc.huong911@ecommerce.vn,Hanoi,HN,Vietnam,2025-09-29 00:00:00
+CUST_00912,U_86f47d21,Vu Minh Trang,vu.minh.trang912@ecommerce.vn,Nha Trang,KH,Vietnam,2025-06-29 00:00:00
+CUST_00913,U_6a03e849,Do Thi Phong,do.thi.phong913@ecommerce.vn,Da Nang,DN,Vietnam,2025-05-11 00:00:00
+CUST_00914,U_46ed7313,Dang Minh Linh,dang.minh.linh914@ecommerce.vn,Can Tho,CT,Vietnam,2025-10-06 00:00:00
+CUST_00915,U_6fb227b2,Vu Huu Hoa,vu.huu.hoa915@ecommerce.vn,Hanoi,HN,Vietnam,2025-01-04 00:00:00
+CUST_00916,U_c47b238f,Do Dinh Linh,do.dinh.linh916@ecommerce.vn,Hanoi,HN,Vietnam,2025-07-12 00:00:00
+CUST_00917,U_e0559b09,Pham Anh Phong,pham.anh.phong917@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-02-24 00:00:00
+CUST_00918,U_062c3e7f,Le Quoc Thao,le.quoc.thao918@ecommerce.vn,Can Tho,CT,Vietnam,2025-05-14 00:00:00
+CUST_00919,U_089be13c,Bui Quoc Thao,bui.quoc.thao919@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-05-22 00:00:00
+CUST_00920,U_e41410eb,Vu Minh Phong,vu.minh.phong920@ecommerce.vn,Hue,TTH,Vietnam,2025-04-02 00:00:00
+CUST_00921,U_3a860afc,Phan Dinh Long,phan.dinh.long921@ecommerce.vn,Hue,TTH,Vietnam,2025-05-10 00:00:00
+CUST_00922,U_df832004,Hoang Anh Phong,hoang.anh.phong922@ecommerce.vn,Da Nang,DN,Vietnam,2025-03-02 00:00:00
+CUST_00923,U_5928418b,Pham Thanh Tuan,pham.thanh.tuan923@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-04-20 00:00:00
+CUST_00924,U_fead8e97,Bui Quoc Huong,bui.quoc.huong924@ecommerce.vn,Hanoi,HN,Vietnam,2025-03-24 00:00:00
+CUST_00925,U_d755c170,Vu Van Linh,vu.van.linh925@ecommerce.vn,Da Nang,DN,Vietnam,2025-08-30 00:00:00
+CUST_00926,U_54a14eb8,Do Quoc Linh,do.quoc.linh926@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-05-15 00:00:00
+CUST_00927,U_e1d37762,Pham Anh Linh,pham.anh.linh927@ecommerce.vn,Hanoi,HN,Vietnam,2025-07-16 00:00:00
+CUST_00928,U_b0ee25f5,Vu Dinh Dung,vu.dinh.dung928@ecommerce.vn,Hanoi,HN,Vietnam,2025-03-31 00:00:00
+CUST_00929,U_19a0a70d,Dang Thanh Nam,dang.thanh.nam929@ecommerce.vn,Hai Phong,HP,Vietnam,2025-09-23 00:00:00
+CUST_00930,U_769a5569,Hoang Minh Nam,hoang.minh.nam930@ecommerce.vn,Hai Phong,HP,Vietnam,2025-03-28 00:00:00
+CUST_00931,U_6d10933b,Nguyen Anh Hoa,nguyen.anh.hoa931@ecommerce.vn,Hanoi,HN,Vietnam,2025-03-22 00:00:00
+CUST_00932,U_36626f58,Tran Huu Phong,tran.huu.phong932@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-07-22 00:00:00
+CUST_00933,U_a7f3153b,Vu Minh Long,vu.minh.long933@ecommerce.vn,Hanoi,HN,Vietnam,2025-02-05 00:00:00
+CUST_00934,U_8c0948e9,Tran Dinh Dung,tran.dinh.dung934@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-06-27 00:00:00
+CUST_00935,U_cd9d97c9,Hoang Minh Thao,hoang.minh.thao935@ecommerce.vn,Hai Phong,HP,Vietnam,2025-08-21 00:00:00
+CUST_00936,U_341bb1ac,Vu Van Dung,vu.van.dung936@ecommerce.vn,Da Nang,DN,Vietnam,2025-07-28 00:00:00
+CUST_00937,U_57789710,Bui Thi Long,bui.thi.long937@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-09-15 00:00:00
+CUST_00938,U_dd4eb092,Hoang Anh Linh,hoang.anh.linh938@ecommerce.vn,Can Tho,CT,Vietnam,2025-10-03 00:00:00
+CUST_00939,U_28cddeb7,Do Huu Trang,do.huu.trang939@ecommerce.vn,Nha Trang,KH,Vietnam,2025-10-16 00:00:00
+CUST_00940,U_3621fa58,Dang Minh Huong,dang.minh.huong940@ecommerce.vn,Hue,TTH,Vietnam,2025-08-24 00:00:00
+CUST_00941,U_70bb5408,Do Van Trang,do.van.trang941@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-05-13 00:00:00
+CUST_00942,U_ed1367f3,Tran Quoc Hoa,tran.quoc.hoa942@ecommerce.vn,Hai Phong,HP,Vietnam,2025-06-11 00:00:00
+CUST_00943,U_614df4ba,Vu Anh Long,vu.anh.long943@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-15 00:00:00
+CUST_00944,U_f369fb82,Pham Huu Linh,pham.huu.linh944@ecommerce.vn,Nha Trang,KH,Vietnam,2025-06-25 00:00:00
+CUST_00945,U_a1929fae,Tran Dinh Tuan,tran.dinh.tuan945@ecommerce.vn,Hue,TTH,Vietnam,2025-06-10 00:00:00
+CUST_00946,U_03cb55be,Phan Minh Thao,phan.minh.thao946@ecommerce.vn,Can Tho,CT,Vietnam,2025-04-04 00:00:00
+CUST_00947,U_a0e791c1,Pham Thanh Hoa,pham.thanh.hoa947@ecommerce.vn,Hai Phong,HP,Vietnam,2025-05-04 00:00:00
+CUST_00948,U_6b358d53,Hoang Minh Hoa,hoang.minh.hoa948@ecommerce.vn,Hai Phong,HP,Vietnam,2025-05-08 00:00:00
+CUST_00949,U_06df4230,Do Anh Tuan,do.anh.tuan949@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-03-03 00:00:00
+CUST_00950,U_17a588f7,Tran Thanh Thao,tran.thanh.thao950@ecommerce.vn,Hanoi,HN,Vietnam,2025-10-05 00:00:00
+CUST_00951,U_4f206493,Nguyen Thanh Huong,nguyen.thanh.huong951@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-09-10 00:00:00
+CUST_00952,U_3de78eff,Do Huu Trang,do.huu.trang952@ecommerce.vn,Da Nang,DN,Vietnam,2025-09-19 00:00:00
+CUST_00953,U_5c3afe8a,Hoang Quoc Hoa,hoang.quoc.hoa953@ecommerce.vn,Da Nang,DN,Vietnam,2025-01-28 00:00:00
+CUST_00954,U_bf8df602,Bui Quoc Trang,bui.quoc.trang954@ecommerce.vn,Hanoi,HN,Vietnam,2025-09-15 00:00:00
+CUST_00955,U_9f03b5a1,Phan Quoc Tuan,phan.quoc.tuan955@ecommerce.vn,Hue,TTH,Vietnam,2025-03-03 00:00:00
+CUST_00956,U_feb84289,Bui Thanh Huong,bui.thanh.huong956@ecommerce.vn,Hanoi,HN,Vietnam,2025-01-07 00:00:00
+CUST_00957,U_90f95a6d,Pham Quoc Thao,pham.quoc.thao957@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-06-16 00:00:00
+CUST_00958,U_075b4c7b,Phan Huu Tuan,phan.huu.tuan958@ecommerce.vn,Can Tho,CT,Vietnam,2025-05-02 00:00:00
+CUST_00959,U_a36bcb16,Hoang Thanh Thao,hoang.thanh.thao959@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-07-07 00:00:00
+CUST_00960,U_f3bb173b,Le Thanh Phong,le.thanh.phong960@ecommerce.vn,Hai Phong,HP,Vietnam,2025-08-03 00:00:00
+CUST_00961,U_b2148c89,Phan Anh Phong,phan.anh.phong961@ecommerce.vn,Can Tho,CT,Vietnam,2025-08-19 00:00:00
+CUST_00962,U_4a7d9299,Le Duc Thao,le.duc.thao962@ecommerce.vn,Hai Phong,HP,Vietnam,2025-02-21 00:00:00
+CUST_00963,U_9a669e8a,Hoang Minh Long,hoang.minh.long963@ecommerce.vn,Nha Trang,KH,Vietnam,2025-07-15 00:00:00
+CUST_00964,U_5726af44,Pham Duc Tuan,pham.duc.tuan964@ecommerce.vn,Hue,TTH,Vietnam,2025-01-05 00:00:00
+CUST_00965,U_082da56d,Le Quoc Trang,le.quoc.trang965@ecommerce.vn,Da Nang,DN,Vietnam,2025-09-22 00:00:00
+CUST_00966,U_578302ff,Bui Anh Trang,bui.anh.trang966@ecommerce.vn,Can Tho,CT,Vietnam,2025-05-09 00:00:00
+CUST_00967,U_a13865f2,Bui Van Phong,bui.van.phong967@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-03-25 00:00:00
+CUST_00968,U_1bb3a313,Nguyen Minh Dung,nguyen.minh.dung968@ecommerce.vn,Hue,TTH,Vietnam,2025-02-19 00:00:00
+CUST_00969,U_84b2d0f7,Dang Anh Dung,dang.anh.dung969@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-07-04 00:00:00
+CUST_00970,U_271fb7cc,Bui Dinh Dung,bui.dinh.dung970@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-01-11 00:00:00
+CUST_00971,U_b5e4e5ec,Vu Thi Huong,vu.thi.huong971@ecommerce.vn,Hai Phong,HP,Vietnam,2025-10-23 00:00:00
+CUST_00972,U_1ba7c6b4,Do Dinh Tuan,do.dinh.tuan972@ecommerce.vn,Can Tho,CT,Vietnam,2025-07-01 00:00:00
+CUST_00973,U_30d5d6c1,Phan Dinh Trang,phan.dinh.trang973@ecommerce.vn,Hue,TTH,Vietnam,2025-02-10 00:00:00
+CUST_00974,U_6bc85cd2,Vu Huu Trang,vu.huu.trang974@ecommerce.vn,Da Nang,DN,Vietnam,2025-03-27 00:00:00
+CUST_00975,U_147c3d16,Phan Quoc Thao,phan.quoc.thao975@ecommerce.vn,Nha Trang,KH,Vietnam,2025-02-06 00:00:00
+CUST_00976,U_3677ab24,Tran Duc Huong,tran.duc.huong976@ecommerce.vn,Hai Phong,HP,Vietnam,2025-06-10 00:00:00
+CUST_00977,U_8911d650,Phan Huu Dung,phan.huu.dung977@ecommerce.vn,Nha Trang,KH,Vietnam,2025-05-19 00:00:00
+CUST_00978,U_a4b23d7b,Dang Anh Thao,dang.anh.thao978@ecommerce.vn,Hue,TTH,Vietnam,2025-07-31 00:00:00
+CUST_00979,U_5267e7e1,Le Duc Nam,le.duc.nam979@ecommerce.vn,Da Nang,DN,Vietnam,2025-05-01 00:00:00
+CUST_00980,U_ba243792,Hoang Thi Hoa,hoang.thi.hoa980@ecommerce.vn,Da Nang,DN,Vietnam,2025-07-23 00:00:00
+CUST_00981,U_f7e1b9ff,Tran Thi Linh,tran.thi.linh981@ecommerce.vn,Hue,TTH,Vietnam,2025-10-08 00:00:00
+CUST_00982,U_2a0ae0cb,Nguyen Van Phong,nguyen.van.phong982@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-02-23 00:00:00
+CUST_00983,U_42a07a22,Hoang Duc Linh,hoang.duc.linh983@ecommerce.vn,Nha Trang,KH,Vietnam,2025-06-08 00:00:00
+CUST_00984,U_c62f617f,Pham Minh Dung,pham.minh.dung984@ecommerce.vn,Hue,TTH,Vietnam,2025-03-06 00:00:00
+CUST_00985,U_b3586162,Le Dinh Tuan,le.dinh.tuan985@ecommerce.vn,Hanoi,HN,Vietnam,2025-01-18 00:00:00
+CUST_00986,U_f39c3fb6,Phan Anh Trang,phan.anh.trang986@ecommerce.vn,Hue,TTH,Vietnam,2025-10-04 00:00:00
+CUST_00987,U_95015f3d,Hoang Dinh Trang,hoang.dinh.trang987@ecommerce.vn,Da Nang,DN,Vietnam,2025-10-04 00:00:00
+CUST_00988,U_ebcac197,Le Thanh Thao,le.thanh.thao988@ecommerce.vn,Nha Trang,KH,Vietnam,2025-09-26 00:00:00
+CUST_00989,U_8725ae99,Bui Huu Huong,bui.huu.huong989@ecommerce.vn,Hue,TTH,Vietnam,2025-10-04 00:00:00
+CUST_00990,U_5794e38f,Pham Thi Trang,pham.thi.trang990@ecommerce.vn,Can Tho,CT,Vietnam,2025-07-07 00:00:00
+CUST_00991,U_8bb27a4f,Vu Huu Tuan,vu.huu.tuan991@ecommerce.vn,Can Tho,CT,Vietnam,2025-01-06 00:00:00
+CUST_00992,U_24518776,Nguyen Dinh Tuan,nguyen.dinh.tuan992@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-05-27 00:00:00
+CUST_00993,U_1fb89fbd,Dang Dinh Nam,dang.dinh.nam993@ecommerce.vn,Hue,TTH,Vietnam,2025-09-02 00:00:00
+CUST_00994,U_80487ff1,Hoang Van Phong,hoang.van.phong994@ecommerce.vn,Can Tho,CT,Vietnam,2025-04-29 00:00:00
+CUST_00995,U_ce456208,Nguyen Dinh Huong,nguyen.dinh.huong995@ecommerce.vn,Hai Phong,HP,Vietnam,2025-07-30 00:00:00
+CUST_00996,U_afc0411c,Bui Quoc Phong,bui.quoc.phong996@ecommerce.vn,Hai Phong,HP,Vietnam,2025-03-25 00:00:00
+CUST_00997,U_24e7bfe0,Vu Quoc Hoa,vu.quoc.hoa997@ecommerce.vn,Can Tho,CT,Vietnam,2025-02-10 00:00:00
+CUST_00998,U_90febf6d,Vu Minh Long,vu.minh.long998@ecommerce.vn,Can Tho,CT,Vietnam,2025-05-26 00:00:00
+CUST_00999,U_2b5eae40,Bui Huu Phong,bui.huu.phong999@ecommerce.vn,Hai Phong,HP,Vietnam,2025-02-05 00:00:00
+CUST_01000,U_66d19b60,Le Duc Dung,le.duc.dung1000@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-08-22 00:00:00
+CUST_01001,U_18235ccb,Do Thanh Dung,do.thanh.dung1001@ecommerce.vn,Hue,TTH,Vietnam,2025-04-07 00:00:00
+CUST_01002,U_b8f0f5a6,Phan Van Tuan,phan.van.tuan1002@ecommerce.vn,Hanoi,HN,Vietnam,2025-10-01 00:00:00
+CUST_01003,U_4be1cad8,Nguyen Duc Linh,nguyen.duc.linh1003@ecommerce.vn,Can Tho,CT,Vietnam,2025-05-18 00:00:00
+CUST_01004,U_f7246439,Le Thanh Nam,le.thanh.nam1004@ecommerce.vn,Hai Phong,HP,Vietnam,2025-02-16 00:00:00
+CUST_01005,U_4d853ad3,Le Van Trang,le.van.trang1005@ecommerce.vn,Hai Phong,HP,Vietnam,2025-06-25 00:00:00
+CUST_01006,U_822ba594,Vu Huu Trang,vu.huu.trang1006@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-08-26 00:00:00
+CUST_01007,U_e3f59f70,Nguyen Anh Linh,nguyen.anh.linh1007@ecommerce.vn,Da Nang,DN,Vietnam,2025-01-29 00:00:00
+CUST_01008,U_50e785e7,Hoang Quoc Linh,hoang.quoc.linh1008@ecommerce.vn,Hue,TTH,Vietnam,2025-04-03 00:00:00
+CUST_01009,U_76c6d04e,Pham Huu Phong,pham.huu.phong1009@ecommerce.vn,Hanoi,HN,Vietnam,2025-03-04 00:00:00
+CUST_01010,U_fbd20b84,Pham Quoc Trang,pham.quoc.trang1010@ecommerce.vn,Hai Phong,HP,Vietnam,2025-01-18 00:00:00
+CUST_01011,U_89947922,Pham Thanh Linh,pham.thanh.linh1011@ecommerce.vn,Hai Phong,HP,Vietnam,2025-08-31 00:00:00
+CUST_01012,U_4372948b,Vu Huu Huong,vu.huu.huong1012@ecommerce.vn,Da Nang,DN,Vietnam,2025-01-22 00:00:00
+CUST_01013,U_c5e8cf65,Bui Dinh Linh,bui.dinh.linh1013@ecommerce.vn,Can Tho,CT,Vietnam,2025-09-04 00:00:00
+CUST_01014,U_e185009f,Hoang Minh Huong,hoang.minh.huong1014@ecommerce.vn,Hanoi,HN,Vietnam,2025-04-22 00:00:00
+CUST_01015,U_86fda138,Tran Minh Phong,tran.minh.phong1015@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-01-08 00:00:00
+CUST_01016,U_99928da5,Le Huu Thao,le.huu.thao1016@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-07-22 00:00:00
+CUST_01017,U_d57f5f09,Pham Van Nam,pham.van.nam1017@ecommerce.vn,Hue,TTH,Vietnam,2025-03-21 00:00:00
+CUST_01018,U_f680c72c,Phan Thi Hoa,phan.thi.hoa1018@ecommerce.vn,Da Nang,DN,Vietnam,2025-09-13 00:00:00
+CUST_01019,U_c8662be1,Tran Anh Nam,tran.anh.nam1019@ecommerce.vn,Hanoi,HN,Vietnam,2025-07-02 00:00:00
+CUST_01020,U_4b191a14,Le Dinh Linh,le.dinh.linh1020@ecommerce.vn,Da Nang,DN,Vietnam,2025-09-07 00:00:00
+CUST_01021,U_58ad991f,Pham Anh Long,pham.anh.long1021@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-08-13 00:00:00
+CUST_01022,U_d6358b95,Pham Van Phong,pham.van.phong1022@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-03-10 00:00:00
+CUST_01023,U_b209f0fa,Hoang Van Trang,hoang.van.trang1023@ecommerce.vn,Hue,TTH,Vietnam,2025-10-14 00:00:00
+CUST_01024,U_c63b1507,Hoang Dinh Trang,hoang.dinh.trang1024@ecommerce.vn,Hai Phong,HP,Vietnam,2025-10-18 00:00:00
+CUST_01025,U_c981b52e,Le Dinh Huong,le.dinh.huong1025@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-08-28 00:00:00
+CUST_01026,U_63914411,Hoang Dinh Tuan,hoang.dinh.tuan1026@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-09-29 00:00:00
+CUST_01027,U_4a9c05d7,Le Thanh Dung,le.thanh.dung1027@ecommerce.vn,Can Tho,CT,Vietnam,2025-10-05 00:00:00
+CUST_01028,U_998b7e61,Phan Thanh Nam,phan.thanh.nam1028@ecommerce.vn,Nha Trang,KH,Vietnam,2025-04-05 00:00:00
+CUST_01029,U_aaf96855,Nguyen Anh Thao,nguyen.anh.thao1029@ecommerce.vn,Hai Phong,HP,Vietnam,2025-06-14 00:00:00
+CUST_01030,U_b050f1c5,Tran Dinh Phong,tran.dinh.phong1030@ecommerce.vn,Hai Phong,HP,Vietnam,2025-09-26 00:00:00
+CUST_01031,U_7c9a030e,Dang Dinh Tuan,dang.dinh.tuan1031@ecommerce.vn,Can Tho,CT,Vietnam,2025-06-15 00:00:00
+CUST_01032,U_538e71c6,Vu Anh Linh,vu.anh.linh1032@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-09-25 00:00:00
+CUST_01033,U_5bf0a321,Tran Van Tuan,tran.van.tuan1033@ecommerce.vn,Da Nang,DN,Vietnam,2025-01-17 00:00:00
+CUST_01034,U_9d7e6652,Pham Thi Trang,pham.thi.trang1034@ecommerce.vn,Hai Phong,HP,Vietnam,2025-02-20 00:00:00
+CUST_01035,U_fb47c672,Nguyen Quoc Trang,nguyen.quoc.trang1035@ecommerce.vn,Can Tho,CT,Vietnam,2025-01-26 00:00:00
+CUST_01036,U_3d21058a,Phan Minh Thao,phan.minh.thao1036@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-01-07 00:00:00
+CUST_01037,U_0f8c84ef,Pham Thanh Linh,pham.thanh.linh1037@ecommerce.vn,Hue,TTH,Vietnam,2025-02-01 00:00:00
+CUST_01038,U_fdbcb8e1,Phan Dinh Phong,phan.dinh.phong1038@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-01-30 00:00:00
+CUST_01039,U_80c8a778,Do Huu Long,do.huu.long1039@ecommerce.vn,Hanoi,HN,Vietnam,2025-02-06 00:00:00
+CUST_01040,U_580b778c,Hoang Thi Hoa,hoang.thi.hoa1040@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-02-21 00:00:00
+CUST_01041,U_2e0df269,Pham Dinh Phong,pham.dinh.phong1041@ecommerce.vn,Hai Phong,HP,Vietnam,2025-04-09 00:00:00
+CUST_01042,U_94e82f60,Bui Minh Thao,bui.minh.thao1042@ecommerce.vn,Da Nang,DN,Vietnam,2025-10-13 00:00:00
+CUST_01043,U_b7a42485,Bui Quoc Linh,bui.quoc.linh1043@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-08-23 00:00:00
+CUST_01044,U_dd1320a5,Vu Thi Tuan,vu.thi.tuan1044@ecommerce.vn,Da Nang,DN,Vietnam,2025-10-09 00:00:00
+CUST_01045,U_00406e5a,Vu Dinh Huong,vu.dinh.huong1045@ecommerce.vn,Da Nang,DN,Vietnam,2025-10-01 00:00:00
+CUST_01046,U_78fd6527,Do Thanh Huong,do.thanh.huong1046@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-10-09 00:00:00
+CUST_01047,U_430daa85,Phan Anh Phong,phan.anh.phong1047@ecommerce.vn,Nha Trang,KH,Vietnam,2025-06-15 00:00:00
+CUST_01048,U_c7bbc4b5,Do Minh Thao,do.minh.thao1048@ecommerce.vn,Hai Phong,HP,Vietnam,2025-07-12 00:00:00
+CUST_01049,U_ad3bc1a4,Bui Huu Huong,bui.huu.huong1049@ecommerce.vn,Hue,TTH,Vietnam,2025-08-18 00:00:00
+CUST_01050,U_1b2a861f,Vu Van Nam,vu.van.nam1050@ecommerce.vn,Can Tho,CT,Vietnam,2025-01-09 00:00:00
+CUST_01051,U_55d99620,Bui Duc Dung,bui.duc.dung1051@ecommerce.vn,Hanoi,HN,Vietnam,2025-06-03 00:00:00
+CUST_01052,U_2b97321b,Pham Minh Huong,pham.minh.huong1052@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-22 00:00:00
+CUST_01053,U_9be0bfa0,Bui Dinh Long,bui.dinh.long1053@ecommerce.vn,Da Nang,DN,Vietnam,2025-02-18 00:00:00
+CUST_01054,U_5c96ceb0,Nguyen Thanh Huong,nguyen.thanh.huong1054@ecommerce.vn,Da Nang,DN,Vietnam,2025-03-12 00:00:00
+CUST_01055,U_d7d563bc,Hoang Anh Thao,hoang.anh.thao1055@ecommerce.vn,Hai Phong,HP,Vietnam,2025-04-30 00:00:00
+CUST_01056,U_aee19b54,Hoang Huu Linh,hoang.huu.linh1056@ecommerce.vn,Nha Trang,KH,Vietnam,2025-10-19 00:00:00
+CUST_01057,U_f5eb6e10,Pham Thi Huong,pham.thi.huong1057@ecommerce.vn,Hue,TTH,Vietnam,2025-03-30 00:00:00
+CUST_01058,U_89735dbb,Dang Thi Thao,dang.thi.thao1058@ecommerce.vn,Can Tho,CT,Vietnam,2025-01-20 00:00:00
+CUST_01059,U_ca2b93fd,Do Quoc Linh,do.quoc.linh1059@ecommerce.vn,Hanoi,HN,Vietnam,2025-06-21 00:00:00
+CUST_01060,U_d886b528,Phan Quoc Phong,phan.quoc.phong1060@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-04-27 00:00:00
+CUST_01061,U_e0bc48bc,Do Van Phong,do.van.phong1061@ecommerce.vn,Hanoi,HN,Vietnam,2025-06-06 00:00:00
+CUST_01062,U_d0f71f7a,Bui Van Huong,bui.van.huong1062@ecommerce.vn,Da Nang,DN,Vietnam,2025-06-17 00:00:00
+CUST_01063,U_e3ee3239,Bui Minh Tuan,bui.minh.tuan1063@ecommerce.vn,Hanoi,HN,Vietnam,2025-07-21 00:00:00
+CUST_01064,U_ec7449b2,Dang Dinh Linh,dang.dinh.linh1064@ecommerce.vn,Hai Phong,HP,Vietnam,2025-08-10 00:00:00
+CUST_01065,U_dbde8532,Hoang Quoc Tuan,hoang.quoc.tuan1065@ecommerce.vn,Da Nang,DN,Vietnam,2025-06-22 00:00:00
+CUST_01066,U_82db37b7,Tran Thanh Thao,tran.thanh.thao1066@ecommerce.vn,Hanoi,HN,Vietnam,2025-10-08 00:00:00
+CUST_01067,U_12c160eb,Vu Huu Linh,vu.huu.linh1067@ecommerce.vn,Nha Trang,KH,Vietnam,2025-09-14 00:00:00
+CUST_01068,U_f6c777b8,Vu Duc Tuan,vu.duc.tuan1068@ecommerce.vn,Hue,TTH,Vietnam,2025-10-14 00:00:00
+CUST_01069,U_7a21abdc,Pham Thanh Phong,pham.thanh.phong1069@ecommerce.vn,Hai Phong,HP,Vietnam,2025-10-15 00:00:00
+CUST_01070,U_53a4a062,Do Dinh Hoa,do.dinh.hoa1070@ecommerce.vn,Hai Phong,HP,Vietnam,2025-02-06 00:00:00
+CUST_01071,U_6608b1be,Hoang Quoc Huong,hoang.quoc.huong1071@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-02-27 00:00:00
+CUST_01072,U_3a4f5d1f,Vu Quoc Huong,vu.quoc.huong1072@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-04-08 00:00:00
+CUST_01073,U_d0d5799c,Phan Anh Thao,phan.anh.thao1073@ecommerce.vn,Hanoi,HN,Vietnam,2025-06-06 00:00:00
+CUST_01074,U_7fbd72a5,Le Anh Thao,le.anh.thao1074@ecommerce.vn,Hue,TTH,Vietnam,2025-03-16 00:00:00
+CUST_01075,U_cf1095c9,Dang Van Hoa,dang.van.hoa1075@ecommerce.vn,Hai Phong,HP,Vietnam,2025-07-11 00:00:00
+CUST_01076,U_868955e5,Le Thi Linh,le.thi.linh1076@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-05 00:00:00
+CUST_01077,U_059fb3e8,Do Duc Dung,do.duc.dung1077@ecommerce.vn,Hanoi,HN,Vietnam,2025-06-25 00:00:00
+CUST_01078,U_ddec9b8e,Tran Huu Trang,tran.huu.trang1078@ecommerce.vn,Hue,TTH,Vietnam,2025-01-12 00:00:00
+CUST_01079,U_55d3dc12,Phan Minh Long,phan.minh.long1079@ecommerce.vn,Hai Phong,HP,Vietnam,2025-04-15 00:00:00
+CUST_01080,U_3681df9c,Bui Dinh Dung,bui.dinh.dung1080@ecommerce.vn,Hue,TTH,Vietnam,2025-03-14 00:00:00
+CUST_01081,U_13e32660,Nguyen Quoc Thao,nguyen.quoc.thao1081@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-11 00:00:00
+CUST_01082,U_b6ff5fd2,Le Van Dung,le.van.dung1082@ecommerce.vn,Hai Phong,HP,Vietnam,2025-05-19 00:00:00
+CUST_01083,U_935c06a2,Nguyen Thanh Nam,nguyen.thanh.nam1083@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-07-18 00:00:00
+CUST_01084,U_6509a59c,Hoang Anh Linh,hoang.anh.linh1084@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-30 00:00:00
+CUST_01085,U_ea8f4f51,Vu Minh Phong,vu.minh.phong1085@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-06-11 00:00:00
+CUST_01086,U_a97a6149,Dang Dinh Linh,dang.dinh.linh1086@ecommerce.vn,Da Nang,DN,Vietnam,2025-04-12 00:00:00
+CUST_01087,U_140d1c98,Bui Thanh Long,bui.thanh.long1087@ecommerce.vn,Hanoi,HN,Vietnam,2025-01-21 00:00:00
+CUST_01088,U_17327709,Pham Dinh Dung,pham.dinh.dung1088@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-09-08 00:00:00
+CUST_01089,U_198ac3d5,Vu Duc Nam,vu.duc.nam1089@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-06-30 00:00:00
+CUST_01090,U_4670b09f,Phan Huu Hoa,phan.huu.hoa1090@ecommerce.vn,Can Tho,CT,Vietnam,2025-02-01 00:00:00
+CUST_01091,U_e8e53c6c,Hoang Quoc Nam,hoang.quoc.nam1091@ecommerce.vn,Can Tho,CT,Vietnam,2025-04-26 00:00:00
+CUST_01092,U_9d3c2170,Le Anh Phong,le.anh.phong1092@ecommerce.vn,Da Nang,DN,Vietnam,2025-02-14 00:00:00
+CUST_01093,U_570955b9,Vu Dinh Thao,vu.dinh.thao1093@ecommerce.vn,Hai Phong,HP,Vietnam,2025-08-02 00:00:00
+CUST_01094,U_3d7a4161,Pham Duc Phong,pham.duc.phong1094@ecommerce.vn,Can Tho,CT,Vietnam,2025-06-18 00:00:00
+CUST_01095,U_851d561a,Dang Dinh Tuan,dang.dinh.tuan1095@ecommerce.vn,Hai Phong,HP,Vietnam,2025-03-12 00:00:00
+CUST_01096,U_683929ce,Do Dinh Hoa,do.dinh.hoa1096@ecommerce.vn,Da Nang,DN,Vietnam,2025-06-08 00:00:00
+CUST_01097,U_2006538f,Bui Duc Phong,bui.duc.phong1097@ecommerce.vn,Da Nang,DN,Vietnam,2025-10-17 00:00:00
+CUST_01098,U_0cac7520,Le Anh Linh,le.anh.linh1098@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-04-05 00:00:00
+CUST_01099,U_d4ae2d35,Phan Duc Nam,phan.duc.nam1099@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-07-31 00:00:00
+CUST_01100,U_e59e6467,Vu Huu Trang,vu.huu.trang1100@ecommerce.vn,Can Tho,CT,Vietnam,2025-03-19 00:00:00
+CUST_01101,U_8f6db3a8,Pham Thi Tuan,pham.thi.tuan1101@ecommerce.vn,Da Nang,DN,Vietnam,2025-01-14 00:00:00
+CUST_01102,U_ca37bb36,Do Huu Thao,do.huu.thao1102@ecommerce.vn,Hai Phong,HP,Vietnam,2025-04-29 00:00:00
+CUST_01103,U_c46170bb,Pham Van Huong,pham.van.huong1103@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-09-02 00:00:00
+CUST_01104,U_85cad9f4,Le Dinh Thao,le.dinh.thao1104@ecommerce.vn,Hue,TTH,Vietnam,2025-07-11 00:00:00
+CUST_01105,U_2b76907d,Le Quoc Trang,le.quoc.trang1105@ecommerce.vn,Hue,TTH,Vietnam,2025-03-12 00:00:00
+CUST_01106,U_06085276,Le Minh Hoa,le.minh.hoa1106@ecommerce.vn,Hanoi,HN,Vietnam,2025-07-29 00:00:00
+CUST_01107,U_574d3556,Nguyen Huu Phong,nguyen.huu.phong1107@ecommerce.vn,Hai Phong,HP,Vietnam,2025-04-14 00:00:00
+CUST_01108,U_02dff198,Pham Thi Tuan,pham.thi.tuan1108@ecommerce.vn,Hue,TTH,Vietnam,2025-09-08 00:00:00
+CUST_01109,U_fd458dd3,Phan Thanh Hoa,phan.thanh.hoa1109@ecommerce.vn,Nha Trang,KH,Vietnam,2025-07-27 00:00:00
+CUST_01110,U_a392d300,Nguyen Quoc Huong,nguyen.quoc.huong1110@ecommerce.vn,Nha Trang,KH,Vietnam,2025-10-20 00:00:00
+CUST_01111,U_2ed301e8,Do Dinh Long,do.dinh.long1111@ecommerce.vn,Hanoi,HN,Vietnam,2025-09-24 00:00:00
+CUST_01112,U_075c24bf,Tran Thanh Trang,tran.thanh.trang1112@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-06 00:00:00
+CUST_01113,U_36668003,Bui Dinh Phong,bui.dinh.phong1113@ecommerce.vn,Hanoi,HN,Vietnam,2025-10-13 00:00:00
+CUST_01114,U_5d47f3cc,Vu Dinh Nam,vu.dinh.nam1114@ecommerce.vn,Hai Phong,HP,Vietnam,2025-05-30 00:00:00
+CUST_01115,U_4dddd63e,Dang Quoc Dung,dang.quoc.dung1115@ecommerce.vn,Can Tho,CT,Vietnam,2025-08-25 00:00:00
+CUST_01116,U_6164f239,Le Quoc Dung,le.quoc.dung1116@ecommerce.vn,Hanoi,HN,Vietnam,2025-09-22 00:00:00
+CUST_01117,U_0a6df3bd,Le Thanh Trang,le.thanh.trang1117@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-09-14 00:00:00
+CUST_01118,U_42ac50ce,Tran Duc Thao,tran.duc.thao1118@ecommerce.vn,Da Nang,DN,Vietnam,2025-07-21 00:00:00
+CUST_01119,U_9e3fdf85,Vu Anh Trang,vu.anh.trang1119@ecommerce.vn,Hanoi,HN,Vietnam,2025-04-02 00:00:00
+CUST_01120,U_bfe31e0c,Dang Minh Trang,dang.minh.trang1120@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-05-09 00:00:00
+CUST_01121,U_ece3896a,Phan Duc Linh,phan.duc.linh1121@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-02-28 00:00:00
+CUST_01122,U_5e8bd5f4,Dang Anh Linh,dang.anh.linh1122@ecommerce.vn,Nha Trang,KH,Vietnam,2025-09-19 00:00:00
+CUST_01123,U_60f93497,Do Duc Phong,do.duc.phong1123@ecommerce.vn,Nha Trang,KH,Vietnam,2025-01-23 00:00:00
+CUST_01124,U_a1ba93f5,Le Anh Thao,le.anh.thao1124@ecommerce.vn,Da Nang,DN,Vietnam,2025-03-25 00:00:00
+CUST_01125,U_d3c90530,Le Duc Nam,le.duc.nam1125@ecommerce.vn,Nha Trang,KH,Vietnam,2025-06-07 00:00:00
+CUST_01126,U_ed6cc97b,Hoang Thanh Dung,hoang.thanh.dung1126@ecommerce.vn,Da Nang,DN,Vietnam,2025-03-02 00:00:00
+CUST_01127,U_40927c1d,Le Minh Nam,le.minh.nam1127@ecommerce.vn,Can Tho,CT,Vietnam,2025-01-07 00:00:00
+CUST_01128,U_31fe8360,Dang Thanh Trang,dang.thanh.trang1128@ecommerce.vn,Hanoi,HN,Vietnam,2025-09-10 00:00:00
+CUST_01129,U_7d4a658b,Pham Minh Thao,pham.minh.thao1129@ecommerce.vn,Hue,TTH,Vietnam,2025-08-21 00:00:00
+CUST_01130,U_4ed5be42,Vu Thanh Linh,vu.thanh.linh1130@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-06 00:00:00
+CUST_01131,U_955bbbfa,Bui Huu Thao,bui.huu.thao1131@ecommerce.vn,Hai Phong,HP,Vietnam,2025-01-26 00:00:00
+CUST_01132,U_4753d929,Le Duc Nam,le.duc.nam1132@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-01-19 00:00:00
+CUST_01133,U_baca4afc,Le Van Thao,le.van.thao1133@ecommerce.vn,Can Tho,CT,Vietnam,2025-06-19 00:00:00
+CUST_01134,U_157c527e,Tran Van Linh,tran.van.linh1134@ecommerce.vn,Nha Trang,KH,Vietnam,2025-04-02 00:00:00
+CUST_01135,U_5e32dbbb,Le Huu Thao,le.huu.thao1135@ecommerce.vn,Da Nang,DN,Vietnam,2025-08-22 00:00:00
+CUST_01136,U_1dfb572d,Do Anh Nam,do.anh.nam1136@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-06-03 00:00:00
+CUST_01137,U_1a5daab9,Phan Anh Phong,phan.anh.phong1137@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-08-07 00:00:00
+CUST_01138,U_62124b52,Bui Thi Dung,bui.thi.dung1138@ecommerce.vn,Hue,TTH,Vietnam,2025-03-10 00:00:00
+CUST_01139,U_1ac2387e,Tran Huu Huong,tran.huu.huong1139@ecommerce.vn,Nha Trang,KH,Vietnam,2025-09-26 00:00:00
+CUST_01140,U_c1a04146,Pham Minh Thao,pham.minh.thao1140@ecommerce.vn,Hanoi,HN,Vietnam,2025-02-25 00:00:00
+CUST_01141,U_5ddc6f0d,Do Dinh Linh,do.dinh.linh1141@ecommerce.vn,Hue,TTH,Vietnam,2025-05-28 00:00:00
+CUST_01142,U_3674521b,Vu Anh Dung,vu.anh.dung1142@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-03-08 00:00:00
+CUST_01143,U_96250120,Do Thanh Long,do.thanh.long1143@ecommerce.vn,Hue,TTH,Vietnam,2025-09-10 00:00:00
+CUST_01144,U_f64fda6a,Le Minh Dung,le.minh.dung1144@ecommerce.vn,Hai Phong,HP,Vietnam,2025-01-01 00:00:00
+CUST_01145,U_e520a113,Tran Van Trang,tran.van.trang1145@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-04-17 00:00:00
+CUST_01146,U_afdcf6a6,Do Quoc Phong,do.quoc.phong1146@ecommerce.vn,Hanoi,HN,Vietnam,2025-06-20 00:00:00
+CUST_01147,U_6402470b,Phan Dinh Hoa,phan.dinh.hoa1147@ecommerce.vn,Hanoi,HN,Vietnam,2025-04-14 00:00:00
+CUST_01148,U_e3bdde7b,Hoang Huu Linh,hoang.huu.linh1148@ecommerce.vn,Can Tho,CT,Vietnam,2025-06-03 00:00:00
+CUST_01149,U_79936704,Bui Dinh Huong,bui.dinh.huong1149@ecommerce.vn,Hanoi,HN,Vietnam,2025-02-28 00:00:00
+CUST_01150,U_7621cfc3,Phan Anh Phong,phan.anh.phong1150@ecommerce.vn,Hanoi,HN,Vietnam,2025-03-31 00:00:00
+CUST_01151,U_60bc1974,Pham Anh Huong,pham.anh.huong1151@ecommerce.vn,Hue,TTH,Vietnam,2025-08-31 00:00:00
+CUST_01152,U_0188a105,Nguyen Duc Trang,nguyen.duc.trang1152@ecommerce.vn,Da Nang,DN,Vietnam,2025-08-24 00:00:00
+CUST_01153,U_26dc2260,Bui Anh Trang,bui.anh.trang1153@ecommerce.vn,Nha Trang,KH,Vietnam,2025-01-29 00:00:00
+CUST_01154,U_c054a9ee,Bui Huu Thao,bui.huu.thao1154@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-10-12 00:00:00
+CUST_01155,U_0f9685f3,Bui Van Hoa,bui.van.hoa1155@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-07-01 00:00:00
+CUST_01156,U_d1a86149,Tran Duc Dung,tran.duc.dung1156@ecommerce.vn,Hanoi,HN,Vietnam,2025-06-23 00:00:00
+CUST_01157,U_f55c06f4,Vu Dinh Tuan,vu.dinh.tuan1157@ecommerce.vn,Nha Trang,KH,Vietnam,2025-04-06 00:00:00
+CUST_01158,U_45280dbd,Do Thi Dung,do.thi.dung1158@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-01-17 00:00:00
+CUST_01159,U_d4c1d4d9,Hoang Quoc Linh,hoang.quoc.linh1159@ecommerce.vn,Hue,TTH,Vietnam,2025-05-02 00:00:00
+CUST_01160,U_725d79bc,Phan Thanh Dung,phan.thanh.dung1160@ecommerce.vn,Hai Phong,HP,Vietnam,2025-09-26 00:00:00
+CUST_01161,U_8c9a53c1,Hoang Duc Linh,hoang.duc.linh1161@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-01-20 00:00:00
+CUST_01162,U_ed1b0bbb,Pham Thi Trang,pham.thi.trang1162@ecommerce.vn,Hanoi,HN,Vietnam,2025-09-05 00:00:00
+CUST_01163,U_04637569,Bui Duc Hoa,bui.duc.hoa1163@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-09-05 00:00:00
+CUST_01164,U_5bd0fdd3,Bui Huu Huong,bui.huu.huong1164@ecommerce.vn,Da Nang,DN,Vietnam,2025-02-20 00:00:00
+CUST_01165,U_a858d895,Bui Duc Hoa,bui.duc.hoa1165@ecommerce.vn,Hanoi,HN,Vietnam,2025-08-24 00:00:00
+CUST_01166,U_cfb310d8,Vu Dinh Linh,vu.dinh.linh1166@ecommerce.vn,Hanoi,HN,Vietnam,2025-06-09 00:00:00
+CUST_01167,U_dbbf7e8b,Nguyen Thi Huong,nguyen.thi.huong1167@ecommerce.vn,Hue,TTH,Vietnam,2025-01-24 00:00:00
+CUST_01168,U_335fe63f,Tran Dinh Dung,tran.dinh.dung1168@ecommerce.vn,Hanoi,HN,Vietnam,2025-10-23 00:00:00
+CUST_01169,U_bd7a82c6,Hoang Minh Huong,hoang.minh.huong1169@ecommerce.vn,Hai Phong,HP,Vietnam,2025-04-09 00:00:00
+CUST_01170,U_38bef8f5,Hoang Huu Long,hoang.huu.long1170@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-08-14 00:00:00
+CUST_01171,U_d0319dd6,Tran Huu Tuan,tran.huu.tuan1171@ecommerce.vn,Da Nang,DN,Vietnam,2025-05-21 00:00:00
+CUST_01172,U_e63c2d52,Tran Van Thao,tran.van.thao1172@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-04-16 00:00:00
+CUST_01173,U_f7db31b3,Bui Anh Long,bui.anh.long1173@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-05-19 00:00:00
+CUST_01174,U_161b2c14,Le Huu Thao,le.huu.thao1174@ecommerce.vn,Hai Phong,HP,Vietnam,2025-03-29 00:00:00
+CUST_01175,U_9b2983d8,Tran Huu Thao,tran.huu.thao1175@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-10-04 00:00:00
+CUST_01176,U_9d90a709,Dang Van Tuan,dang.van.tuan1176@ecommerce.vn,Hanoi,HN,Vietnam,2025-08-30 00:00:00
+CUST_01177,U_ef62b74a,Nguyen Thi Phong,nguyen.thi.phong1177@ecommerce.vn,Hanoi,HN,Vietnam,2025-02-14 00:00:00
+CUST_01178,U_49975fba,Vu Quoc Tuan,vu.quoc.tuan1178@ecommerce.vn,Hue,TTH,Vietnam,2025-07-02 00:00:00
+CUST_01179,U_eac4e65b,Hoang Anh Hoa,hoang.anh.hoa1179@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-08-27 00:00:00
+CUST_01180,U_da186fd2,Do Duc Linh,do.duc.linh1180@ecommerce.vn,Hue,TTH,Vietnam,2025-02-19 00:00:00
+CUST_01181,U_fba03b14,Dang Huu Trang,dang.huu.trang1181@ecommerce.vn,Hue,TTH,Vietnam,2025-04-29 00:00:00
+CUST_01182,U_8ced993f,Pham Duc Thao,pham.duc.thao1182@ecommerce.vn,Can Tho,CT,Vietnam,2025-07-06 00:00:00
+CUST_01183,U_58b613c5,Vu Duc Huong,vu.duc.huong1183@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-08-21 00:00:00
+CUST_01184,U_a886d4ec,Dang Van Linh,dang.van.linh1184@ecommerce.vn,Hue,TTH,Vietnam,2025-02-27 00:00:00
+CUST_01185,U_c95efc92,Phan Thanh Trang,phan.thanh.trang1185@ecommerce.vn,Da Nang,DN,Vietnam,2025-05-25 00:00:00
+CUST_01186,U_93cfbefe,Phan Duc Long,phan.duc.long1186@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-07-27 00:00:00
+CUST_01187,U_c2b10b9f,Tran Anh Long,tran.anh.long1187@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-06-04 00:00:00
+CUST_01188,U_9c89a85c,Bui Thanh Phong,bui.thanh.phong1188@ecommerce.vn,Nha Trang,KH,Vietnam,2025-05-03 00:00:00
+CUST_01189,U_85aef41c,Do Minh Long,do.minh.long1189@ecommerce.vn,Da Nang,DN,Vietnam,2025-09-04 00:00:00
+CUST_01190,U_14e11049,Vu Thi Huong,vu.thi.huong1190@ecommerce.vn,Hai Phong,HP,Vietnam,2025-08-09 00:00:00
+CUST_01191,U_1ef95816,Vu Anh Long,vu.anh.long1191@ecommerce.vn,Hai Phong,HP,Vietnam,2025-03-30 00:00:00
+CUST_01192,U_5bd0c1e2,Tran Thanh Linh,tran.thanh.linh1192@ecommerce.vn,Hue,TTH,Vietnam,2025-06-16 00:00:00
+CUST_01193,U_1f9267d2,Bui Thi Trang,bui.thi.trang1193@ecommerce.vn,Da Nang,DN,Vietnam,2025-06-07 00:00:00
+CUST_01194,U_83d00732,Vu Thi Thao,vu.thi.thao1194@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-07-14 00:00:00
+CUST_01195,U_1c75d7f5,Phan Thanh Nam,phan.thanh.nam1195@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-04-22 00:00:00
+CUST_01196,U_e6f58247,Le Van Tuan,le.van.tuan1196@ecommerce.vn,Da Nang,DN,Vietnam,2025-08-20 00:00:00
+CUST_01197,U_cd69c8c4,Bui Huu Phong,bui.huu.phong1197@ecommerce.vn,Hue,TTH,Vietnam,2025-04-11 00:00:00
+CUST_01198,U_bb070ead,Pham Anh Dung,pham.anh.dung1198@ecommerce.vn,Can Tho,CT,Vietnam,2025-08-11 00:00:00
+CUST_01199,U_c02be28a,Phan Thi Thao,phan.thi.thao1199@ecommerce.vn,Hanoi,HN,Vietnam,2025-09-19 00:00:00
+CUST_01200,U_f7c9b1d5,Vu Duc Dung,vu.duc.dung1200@ecommerce.vn,Hanoi,HN,Vietnam,2025-07-09 00:00:00
+CUST_01201,U_b8f8ced7,Bui Van Nam,bui.van.nam1201@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-02-26 00:00:00
+CUST_01202,U_567d2fe1,Hoang Van Hoa,hoang.van.hoa1202@ecommerce.vn,Nha Trang,KH,Vietnam,2025-07-21 00:00:00
+CUST_01203,U_932f1eca,Phan Quoc Phong,phan.quoc.phong1203@ecommerce.vn,Nha Trang,KH,Vietnam,2025-08-11 00:00:00
+CUST_01204,U_3dca41f8,Bui Minh Tuan,bui.minh.tuan1204@ecommerce.vn,Hue,TTH,Vietnam,2025-03-13 00:00:00
+CUST_01205,U_008d0523,Pham Dinh Phong,pham.dinh.phong1205@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-08-02 00:00:00
+CUST_01206,U_69b0d760,Le Huu Tuan,le.huu.tuan1206@ecommerce.vn,Da Nang,DN,Vietnam,2025-01-06 00:00:00
+CUST_01207,U_73d90ee1,Tran Van Tuan,tran.van.tuan1207@ecommerce.vn,Hue,TTH,Vietnam,2025-08-12 00:00:00
+CUST_01208,U_37c98461,Le Thi Tuan,le.thi.tuan1208@ecommerce.vn,Nha Trang,KH,Vietnam,2025-08-22 00:00:00
+CUST_01209,U_c5797a20,Do Quoc Thao,do.quoc.thao1209@ecommerce.vn,Da Nang,DN,Vietnam,2025-08-21 00:00:00
+CUST_01210,U_b962837a,Bui Quoc Long,bui.quoc.long1210@ecommerce.vn,Hue,TTH,Vietnam,2025-07-16 00:00:00
+CUST_01211,U_3dc35546,Phan Minh Tuan,phan.minh.tuan1211@ecommerce.vn,Nha Trang,KH,Vietnam,2025-01-04 00:00:00
+CUST_01212,U_a2e0f5f8,Do Thanh Hoa,do.thanh.hoa1212@ecommerce.vn,Can Tho,CT,Vietnam,2025-07-30 00:00:00
+CUST_01213,U_b0340dcf,Bui Anh Nam,bui.anh.nam1213@ecommerce.vn,Hanoi,HN,Vietnam,2025-10-18 00:00:00
+CUST_01214,U_ba62e75b,Dang Anh Linh,dang.anh.linh1214@ecommerce.vn,Hue,TTH,Vietnam,2025-02-10 00:00:00
+CUST_01215,U_6649853f,Le Dinh Dung,le.dinh.dung1215@ecommerce.vn,Hue,TTH,Vietnam,2025-09-22 00:00:00
+CUST_01216,U_7cfb519e,Tran Dinh Thao,tran.dinh.thao1216@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-05-06 00:00:00
+CUST_01217,U_a2e27b46,Dang Thi Long,dang.thi.long1217@ecommerce.vn,Can Tho,CT,Vietnam,2025-01-28 00:00:00
+CUST_01218,U_0689cac7,Phan Dinh Nam,phan.dinh.nam1218@ecommerce.vn,Hue,TTH,Vietnam,2025-08-21 00:00:00
+CUST_01219,U_34ffb443,Bui Thanh Thao,bui.thanh.thao1219@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-08-04 00:00:00
+CUST_01220,U_13df8695,Phan Huu Dung,phan.huu.dung1220@ecommerce.vn,Da Nang,DN,Vietnam,2025-01-19 00:00:00
+CUST_01221,U_76ca93b2,Do Huu Thao,do.huu.thao1221@ecommerce.vn,Can Tho,CT,Vietnam,2025-02-01 00:00:00
+CUST_01222,U_18e44b48,Dang Duc Thao,dang.duc.thao1222@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-30 00:00:00
+CUST_01223,U_d402b4dc,Do Van Dung,do.van.dung1223@ecommerce.vn,Hue,TTH,Vietnam,2025-02-12 00:00:00
+CUST_01224,U_e3c680b6,Le Dinh Linh,le.dinh.linh1224@ecommerce.vn,Can Tho,CT,Vietnam,2025-05-10 00:00:00
+CUST_01225,U_58b3e314,Le Huu Dung,le.huu.dung1225@ecommerce.vn,Can Tho,CT,Vietnam,2025-01-08 00:00:00
+CUST_01226,U_dbe34dd8,Tran Duc Thao,tran.duc.thao1226@ecommerce.vn,Da Nang,DN,Vietnam,2025-08-17 00:00:00
+CUST_01227,U_f0a5dc35,Phan Duc Dung,phan.duc.dung1227@ecommerce.vn,Hai Phong,HP,Vietnam,2025-09-06 00:00:00
+CUST_01228,U_e0cc1fc8,Le Dinh Nam,le.dinh.nam1228@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-02-13 00:00:00
+CUST_01229,U_c8b67328,Le Duc Trang,le.duc.trang1229@ecommerce.vn,Nha Trang,KH,Vietnam,2025-07-16 00:00:00
+CUST_01230,U_bfb91e4b,Pham Thanh Tuan,pham.thanh.tuan1230@ecommerce.vn,Hai Phong,HP,Vietnam,2025-10-23 00:00:00
+CUST_01231,U_a9c1c082,Phan Van Dung,phan.van.dung1231@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-01-27 00:00:00
+CUST_01232,U_e0ac63e4,Le Thanh Phong,le.thanh.phong1232@ecommerce.vn,Hue,TTH,Vietnam,2025-06-04 00:00:00
+CUST_01233,U_7fecf548,Dang Dinh Hoa,dang.dinh.hoa1233@ecommerce.vn,Nha Trang,KH,Vietnam,2025-07-19 00:00:00
+CUST_01234,U_f62090cc,Dang Huu Tuan,dang.huu.tuan1234@ecommerce.vn,Nha Trang,KH,Vietnam,2025-01-07 00:00:00
+CUST_01235,U_4aa936ef,Hoang Thanh Phong,hoang.thanh.phong1235@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-09-29 00:00:00
+CUST_01236,U_c66129cb,Nguyen Thi Long,nguyen.thi.long1236@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-08-10 00:00:00
+CUST_01237,U_a50cd35f,Do Huu Huong,do.huu.huong1237@ecommerce.vn,Can Tho,CT,Vietnam,2025-05-17 00:00:00
+CUST_01238,U_52616057,Tran Huu Thao,tran.huu.thao1238@ecommerce.vn,Nha Trang,KH,Vietnam,2025-08-25 00:00:00
+CUST_01239,U_c1aa7ac7,Pham Minh Long,pham.minh.long1239@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-04-03 00:00:00
+CUST_01240,U_ce67a258,Phan Dinh Nam,phan.dinh.nam1240@ecommerce.vn,Hanoi,HN,Vietnam,2025-02-04 00:00:00
+CUST_01241,U_2d2cbbba,Nguyen Quoc Linh,nguyen.quoc.linh1241@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-08-17 00:00:00
+CUST_01242,U_bc79901b,Phan Minh Dung,phan.minh.dung1242@ecommerce.vn,Can Tho,CT,Vietnam,2025-04-09 00:00:00
+CUST_01243,U_db611648,Nguyen Van Thao,nguyen.van.thao1243@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-01-30 00:00:00
+CUST_01244,U_aa06d8d0,Do Minh Thao,do.minh.thao1244@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-03-03 00:00:00
+CUST_01245,U_6882c806,Tran Duc Phong,tran.duc.phong1245@ecommerce.vn,Da Nang,DN,Vietnam,2025-02-26 00:00:00
+CUST_01246,U_1aa4c8e7,Le Huu Dung,le.huu.dung1246@ecommerce.vn,Hue,TTH,Vietnam,2025-02-08 00:00:00
+CUST_01247,U_82e0c81b,Dang Huu Phong,dang.huu.phong1247@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-05-12 00:00:00
+CUST_01248,U_c97733c1,Le Thi Dung,le.thi.dung1248@ecommerce.vn,Hanoi,HN,Vietnam,2025-07-15 00:00:00
+CUST_01249,U_0043c14c,Vu Anh Nam,vu.anh.nam1249@ecommerce.vn,Can Tho,CT,Vietnam,2025-05-16 00:00:00
+CUST_01250,U_8d344da8,Le Thanh Linh,le.thanh.linh1250@ecommerce.vn,Hue,TTH,Vietnam,2025-04-13 00:00:00
+CUST_01251,U_30d01d8c,Do Quoc Tuan,do.quoc.tuan1251@ecommerce.vn,Hue,TTH,Vietnam,2025-02-25 00:00:00
+CUST_01252,U_a337b5da,Le Dinh Phong,le.dinh.phong1252@ecommerce.vn,Hai Phong,HP,Vietnam,2025-02-24 00:00:00
+CUST_01253,U_ac636e93,Dang Huu Linh,dang.huu.linh1253@ecommerce.vn,Hanoi,HN,Vietnam,2025-02-07 00:00:00
+CUST_01254,U_76b57352,Tran Huu Trang,tran.huu.trang1254@ecommerce.vn,Hanoi,HN,Vietnam,2025-09-12 00:00:00
+CUST_01255,U_8a6466db,Le Van Nam,le.van.nam1255@ecommerce.vn,Nha Trang,KH,Vietnam,2025-05-17 00:00:00
+CUST_01256,U_c268cde6,Le Anh Phong,le.anh.phong1256@ecommerce.vn,Hanoi,HN,Vietnam,2025-09-21 00:00:00
+CUST_01257,U_1ed521ac,Dang Thanh Phong,dang.thanh.phong1257@ecommerce.vn,Nha Trang,KH,Vietnam,2025-02-05 00:00:00
+CUST_01258,U_05091023,Bui Minh Nam,bui.minh.nam1258@ecommerce.vn,Nha Trang,KH,Vietnam,2025-09-04 00:00:00
+CUST_01259,U_ac69317f,Tran Dinh Huong,tran.dinh.huong1259@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-06-05 00:00:00
+CUST_01260,U_26afa15b,Vu Van Linh,vu.van.linh1260@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-10-01 00:00:00
+CUST_01261,U_ef028499,Phan Thi Trang,phan.thi.trang1261@ecommerce.vn,Can Tho,CT,Vietnam,2025-04-14 00:00:00
+CUST_01262,U_365f4326,Le Dinh Nam,le.dinh.nam1262@ecommerce.vn,Nha Trang,KH,Vietnam,2025-04-08 00:00:00
+CUST_01263,U_1af85a78,Hoang Quoc Linh,hoang.quoc.linh1263@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-09-07 00:00:00
+CUST_01264,U_9a547167,Tran Thanh Hoa,tran.thanh.hoa1264@ecommerce.vn,Da Nang,DN,Vietnam,2025-01-19 00:00:00
+CUST_01265,U_569b50c5,Pham Van Thao,pham.van.thao1265@ecommerce.vn,Hai Phong,HP,Vietnam,2025-09-08 00:00:00
+CUST_01266,U_02022224,Vu Thi Long,vu.thi.long1266@ecommerce.vn,Can Tho,CT,Vietnam,2025-09-13 00:00:00
+CUST_01267,U_a36911c4,Bui Thanh Nam,bui.thanh.nam1267@ecommerce.vn,Hanoi,HN,Vietnam,2025-06-23 00:00:00
+CUST_01268,U_c439e547,Nguyen Anh Nam,nguyen.anh.nam1268@ecommerce.vn,Nha Trang,KH,Vietnam,2025-03-02 00:00:00
+CUST_01269,U_9aa40d13,Pham Dinh Trang,pham.dinh.trang1269@ecommerce.vn,Da Nang,DN,Vietnam,2025-10-24 00:00:00
+CUST_01270,U_57a4fef6,Pham Thi Nam,pham.thi.nam1270@ecommerce.vn,Da Nang,DN,Vietnam,2025-09-08 00:00:00
+CUST_01271,U_d8607a63,Nguyen Thanh Thao,nguyen.thanh.thao1271@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-05 00:00:00
+CUST_01272,U_bf54df07,Le Van Tuan,le.van.tuan1272@ecommerce.vn,Hanoi,HN,Vietnam,2025-06-07 00:00:00
+CUST_01273,U_34917b97,Tran Thanh Thao,tran.thanh.thao1273@ecommerce.vn,Da Nang,DN,Vietnam,2025-02-02 00:00:00
+CUST_01274,U_9ac1ed4d,Tran Thi Trang,tran.thi.trang1274@ecommerce.vn,Hai Phong,HP,Vietnam,2025-02-02 00:00:00
+CUST_01275,U_86b04562,Pham Quoc Huong,pham.quoc.huong1275@ecommerce.vn,Nha Trang,KH,Vietnam,2025-06-16 00:00:00
+CUST_01276,U_71eefa97,Tran Dinh Tuan,tran.dinh.tuan1276@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-04-20 00:00:00
+CUST_01277,U_e4c16ae1,Nguyen Duc Huong,nguyen.duc.huong1277@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-03-03 00:00:00
+CUST_01278,U_a3a624f5,Hoang Duc Phong,hoang.duc.phong1278@ecommerce.vn,Da Nang,DN,Vietnam,2025-07-09 00:00:00
+CUST_01279,U_891949bc,Bui Duc Trang,bui.duc.trang1279@ecommerce.vn,Hai Phong,HP,Vietnam,2025-10-25 00:00:00
+CUST_01280,U_e41c8aa6,Nguyen Duc Linh,nguyen.duc.linh1280@ecommerce.vn,Nha Trang,KH,Vietnam,2025-03-22 00:00:00
+CUST_01281,U_ba3250f4,Nguyen Thanh Linh,nguyen.thanh.linh1281@ecommerce.vn,Hanoi,HN,Vietnam,2025-01-04 00:00:00
+CUST_01282,U_06b55db5,Le Thi Thao,le.thi.thao1282@ecommerce.vn,Can Tho,CT,Vietnam,2025-08-02 00:00:00
+CUST_01283,U_4af2a1ed,Dang Duc Hoa,dang.duc.hoa1283@ecommerce.vn,Da Nang,DN,Vietnam,2025-05-19 00:00:00
+CUST_01284,U_874a3c7e,Bui Thanh Phong,bui.thanh.phong1284@ecommerce.vn,Hai Phong,HP,Vietnam,2025-03-31 00:00:00
+CUST_01285,U_5a81b800,Do Van Thao,do.van.thao1285@ecommerce.vn,Da Nang,DN,Vietnam,2025-09-13 00:00:00
+CUST_01286,U_50bd46ac,Do Thi Dung,do.thi.dung1286@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-08-03 00:00:00
+CUST_01287,U_054e726f,Nguyen Dinh Hoa,nguyen.dinh.hoa1287@ecommerce.vn,Hai Phong,HP,Vietnam,2025-03-02 00:00:00
+CUST_01288,U_57eafd57,Bui Thi Thao,bui.thi.thao1288@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-10-04 00:00:00
+CUST_01289,U_c8c567f1,Bui Minh Trang,bui.minh.trang1289@ecommerce.vn,Hai Phong,HP,Vietnam,2025-05-22 00:00:00
+CUST_01290,U_03b36e6a,Nguyen Minh Linh,nguyen.minh.linh1290@ecommerce.vn,Da Nang,DN,Vietnam,2025-08-31 00:00:00
+CUST_01291,U_1ee00e3f,Dang Duc Tuan,dang.duc.tuan1291@ecommerce.vn,Hanoi,HN,Vietnam,2025-01-28 00:00:00
+CUST_01292,U_a761fa0b,Phan Huu Hoa,phan.huu.hoa1292@ecommerce.vn,Nha Trang,KH,Vietnam,2025-05-09 00:00:00
+CUST_01293,U_e8188783,Phan Thanh Nam,phan.thanh.nam1293@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-01-27 00:00:00
+CUST_01294,U_aaadd1bd,Bui Duc Tuan,bui.duc.tuan1294@ecommerce.vn,Hanoi,HN,Vietnam,2025-09-06 00:00:00
+CUST_01295,U_9395b6d0,Bui Thi Linh,bui.thi.linh1295@ecommerce.vn,Hai Phong,HP,Vietnam,2025-08-16 00:00:00
+CUST_01296,U_e86a9f6a,Do Anh Phong,do.anh.phong1296@ecommerce.vn,Hai Phong,HP,Vietnam,2025-06-16 00:00:00
+CUST_01297,U_5f3f6fd5,Pham Thi Huong,pham.thi.huong1297@ecommerce.vn,Hai Phong,HP,Vietnam,2025-02-20 00:00:00
+CUST_01298,U_64ea5df1,Pham Quoc Hoa,pham.quoc.hoa1298@ecommerce.vn,Nha Trang,KH,Vietnam,2025-04-23 00:00:00
+CUST_01299,U_f1210d57,Tran Thanh Thao,tran.thanh.thao1299@ecommerce.vn,Hue,TTH,Vietnam,2025-01-28 00:00:00
+CUST_01300,U_cc33c1f5,Vu Duc Hoa,vu.duc.hoa1300@ecommerce.vn,Hue,TTH,Vietnam,2025-04-02 00:00:00
+CUST_01301,U_ea5fa13b,Vu Anh Tuan,vu.anh.tuan1301@ecommerce.vn,Hue,TTH,Vietnam,2025-04-10 00:00:00
+CUST_01302,U_48b7aeaa,Phan Huu Hoa,phan.huu.hoa1302@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-03-07 00:00:00
+CUST_01303,U_1c7b6b93,Nguyen Van Dung,nguyen.van.dung1303@ecommerce.vn,Da Nang,DN,Vietnam,2025-02-26 00:00:00
+CUST_01304,U_2f2cc4e2,Dang Thanh Phong,dang.thanh.phong1304@ecommerce.vn,Da Nang,DN,Vietnam,2025-06-25 00:00:00
+CUST_01305,U_ea66d91d,Pham Huu Thao,pham.huu.thao1305@ecommerce.vn,Da Nang,DN,Vietnam,2025-03-29 00:00:00
+CUST_01306,U_ba9ac2c0,Do Dinh Hoa,do.dinh.hoa1306@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-07-30 00:00:00
+CUST_01307,U_d039e8aa,Bui Thanh Hoa,bui.thanh.hoa1307@ecommerce.vn,Hue,TTH,Vietnam,2025-08-25 00:00:00
+CUST_01308,U_7df4f0ca,Hoang Van Phong,hoang.van.phong1308@ecommerce.vn,Hai Phong,HP,Vietnam,2025-05-07 00:00:00
+CUST_01309,U_28d756ba,Phan Quoc Thao,phan.quoc.thao1309@ecommerce.vn,Hai Phong,HP,Vietnam,2025-03-18 00:00:00
+CUST_01310,U_e68cac27,Do Van Phong,do.van.phong1310@ecommerce.vn,Hanoi,HN,Vietnam,2025-01-21 00:00:00
+CUST_01311,U_97b65d71,Dang Dinh Nam,dang.dinh.nam1311@ecommerce.vn,Nha Trang,KH,Vietnam,2025-09-29 00:00:00
+CUST_01312,U_ab54c758,Vu Thanh Linh,vu.thanh.linh1312@ecommerce.vn,Hue,TTH,Vietnam,2025-09-11 00:00:00
+CUST_01313,U_e6c86fd9,Pham Thi Long,pham.thi.long1313@ecommerce.vn,Hanoi,HN,Vietnam,2025-07-28 00:00:00
+CUST_01314,U_ef7f7bf4,Pham Duc Huong,pham.duc.huong1314@ecommerce.vn,Can Tho,CT,Vietnam,2025-05-03 00:00:00
+CUST_01315,U_ed50cdb6,Tran Van Trang,tran.van.trang1315@ecommerce.vn,Can Tho,CT,Vietnam,2025-03-24 00:00:00
+CUST_01316,U_4c19e526,Dang Van Trang,dang.van.trang1316@ecommerce.vn,Hue,TTH,Vietnam,2025-03-12 00:00:00
+CUST_01317,U_5a99e60f,Vu Duc Huong,vu.duc.huong1317@ecommerce.vn,Hue,TTH,Vietnam,2025-01-01 00:00:00
+CUST_01318,U_faa13c74,Tran Quoc Huong,tran.quoc.huong1318@ecommerce.vn,Hanoi,HN,Vietnam,2025-06-01 00:00:00
+CUST_01319,U_5d5ba385,Vu Huu Thao,vu.huu.thao1319@ecommerce.vn,Hai Phong,HP,Vietnam,2025-02-11 00:00:00
+CUST_01320,U_fcd9c6a7,Do Anh Nam,do.anh.nam1320@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-01-27 00:00:00
+CUST_01321,U_beb3083d,Tran Quoc Huong,tran.quoc.huong1321@ecommerce.vn,Hue,TTH,Vietnam,2025-01-21 00:00:00
+CUST_01322,U_45a05e46,Phan Anh Tuan,phan.anh.tuan1322@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-10-15 00:00:00
+CUST_01323,U_3afbad2d,Pham Duc Huong,pham.duc.huong1323@ecommerce.vn,Hai Phong,HP,Vietnam,2025-10-04 00:00:00
+CUST_01324,U_30eb2518,Tran Thanh Thao,tran.thanh.thao1324@ecommerce.vn,Hai Phong,HP,Vietnam,2025-04-26 00:00:00
+CUST_01325,U_023b9c80,Phan Anh Dung,phan.anh.dung1325@ecommerce.vn,Nha Trang,KH,Vietnam,2025-05-22 00:00:00
+CUST_01326,U_c70579b1,Nguyen Thi Huong,nguyen.thi.huong1326@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-08-20 00:00:00
+CUST_01327,U_025552d7,Dang Dinh Long,dang.dinh.long1327@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-08-29 00:00:00
+CUST_01328,U_39f6d854,Bui Dinh Dung,bui.dinh.dung1328@ecommerce.vn,Hue,TTH,Vietnam,2025-07-08 00:00:00
+CUST_01329,U_05a27a4e,Tran Minh Trang,tran.minh.trang1329@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-02-11 00:00:00
+CUST_01330,U_6d87f0c6,Vu Duc Dung,vu.duc.dung1330@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-02-25 00:00:00
+CUST_01331,U_024ec11a,Le Huu Linh,le.huu.linh1331@ecommerce.vn,Da Nang,DN,Vietnam,2025-09-12 00:00:00
+CUST_01332,U_08148713,Le Minh Long,le.minh.long1332@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-31 00:00:00
+CUST_01333,U_9a3e08ea,Vu Dinh Tuan,vu.dinh.tuan1333@ecommerce.vn,Hue,TTH,Vietnam,2025-06-27 00:00:00
+CUST_01334,U_814593ed,Vu Thanh Nam,vu.thanh.nam1334@ecommerce.vn,Can Tho,CT,Vietnam,2025-04-07 00:00:00
+CUST_01335,U_d9dce3ad,Tran Van Hoa,tran.van.hoa1335@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-07-30 00:00:00
+CUST_01336,U_10d68255,Do Anh Huong,do.anh.huong1336@ecommerce.vn,Hue,TTH,Vietnam,2025-09-29 00:00:00
+CUST_01337,U_8e7307f5,Bui Thanh Trang,bui.thanh.trang1337@ecommerce.vn,Can Tho,CT,Vietnam,2025-10-18 00:00:00
+CUST_01338,U_99ba8c7e,Le Huu Tuan,le.huu.tuan1338@ecommerce.vn,Can Tho,CT,Vietnam,2025-04-27 00:00:00
+CUST_01339,U_3672d71b,Dang Anh Dung,dang.anh.dung1339@ecommerce.vn,Hanoi,HN,Vietnam,2025-03-17 00:00:00
+CUST_01340,U_ed63ac27,Phan Huu Trang,phan.huu.trang1340@ecommerce.vn,Da Nang,DN,Vietnam,2025-03-24 00:00:00
+CUST_01341,U_c089d652,Bui Huu Tuan,bui.huu.tuan1341@ecommerce.vn,Da Nang,DN,Vietnam,2025-03-20 00:00:00
+CUST_01342,U_413c50f3,Le Minh Linh,le.minh.linh1342@ecommerce.vn,Hanoi,HN,Vietnam,2025-06-12 00:00:00
+CUST_01343,U_9c02d875,Do Duc Trang,do.duc.trang1343@ecommerce.vn,Can Tho,CT,Vietnam,2025-07-09 00:00:00
+CUST_01344,U_33122711,Le Minh Long,le.minh.long1344@ecommerce.vn,Hanoi,HN,Vietnam,2025-06-12 00:00:00
+CUST_01345,U_d61d2b88,Phan Duc Huong,phan.duc.huong1345@ecommerce.vn,Hue,TTH,Vietnam,2025-10-04 00:00:00
+CUST_01346,U_632d1ea3,Le Dinh Dung,le.dinh.dung1346@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-01-13 00:00:00
+CUST_01347,U_660ad7df,Vu Thanh Tuan,vu.thanh.tuan1347@ecommerce.vn,Hue,TTH,Vietnam,2025-06-13 00:00:00
+CUST_01348,U_6f20c8da,Le Van Long,le.van.long1348@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-06-01 00:00:00
+CUST_01349,U_1e435b29,Dang Huu Thao,dang.huu.thao1349@ecommerce.vn,Da Nang,DN,Vietnam,2025-10-17 00:00:00
+CUST_01350,U_be3f647b,Dang Anh Linh,dang.anh.linh1350@ecommerce.vn,Hue,TTH,Vietnam,2025-01-21 00:00:00
+CUST_01351,U_c2dbc2c8,Le Dinh Linh,le.dinh.linh1351@ecommerce.vn,Can Tho,CT,Vietnam,2025-01-13 00:00:00
+CUST_01352,U_6eda2d20,Vu Minh Trang,vu.minh.trang1352@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-02-17 00:00:00
+CUST_01353,U_1de35050,Phan Van Thao,phan.van.thao1353@ecommerce.vn,Hai Phong,HP,Vietnam,2025-10-26 00:00:00
+CUST_01354,U_c29cde34,Bui Minh Dung,bui.minh.dung1354@ecommerce.vn,Hai Phong,HP,Vietnam,2025-01-12 00:00:00
+CUST_01355,U_b35f2d50,Tran Dinh Trang,tran.dinh.trang1355@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-09-20 00:00:00
+CUST_01356,U_7d59c64e,Vu Minh Trang,vu.minh.trang1356@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-09-19 00:00:00
+CUST_01357,U_bf9c5f8d,Nguyen Anh Phong,nguyen.anh.phong1357@ecommerce.vn,Da Nang,DN,Vietnam,2025-08-07 00:00:00
+CUST_01358,U_9557945b,Phan Quoc Huong,phan.quoc.huong1358@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-26 00:00:00
+CUST_01359,U_d1c551ee,Phan Anh Dung,phan.anh.dung1359@ecommerce.vn,Hue,TTH,Vietnam,2025-10-15 00:00:00
+CUST_01360,U_36c2e2fd,Tran Minh Trang,tran.minh.trang1360@ecommerce.vn,Nha Trang,KH,Vietnam,2025-08-15 00:00:00
+CUST_01361,U_4595efdd,Hoang Duc Phong,hoang.duc.phong1361@ecommerce.vn,Nha Trang,KH,Vietnam,2025-03-13 00:00:00
+CUST_01362,U_e22a2e34,Do Thi Tuan,do.thi.tuan1362@ecommerce.vn,Hai Phong,HP,Vietnam,2025-06-05 00:00:00
+CUST_01363,U_64254211,Dang Dinh Huong,dang.dinh.huong1363@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-07-12 00:00:00
+CUST_01364,U_42824d6a,Tran Van Phong,tran.van.phong1364@ecommerce.vn,Can Tho,CT,Vietnam,2025-08-01 00:00:00
+CUST_01365,U_6b0d30e2,Le Dinh Trang,le.dinh.trang1365@ecommerce.vn,Da Nang,DN,Vietnam,2025-04-13 00:00:00
+CUST_01366,U_4f23f3f9,Le Quoc Dung,le.quoc.dung1366@ecommerce.vn,Hue,TTH,Vietnam,2025-01-22 00:00:00
+CUST_01367,U_825ddfc4,Hoang Huu Trang,hoang.huu.trang1367@ecommerce.vn,Hue,TTH,Vietnam,2025-04-25 00:00:00
+CUST_01368,U_9e66128c,Nguyen Van Tuan,nguyen.van.tuan1368@ecommerce.vn,Can Tho,CT,Vietnam,2025-06-03 00:00:00
+CUST_01369,U_86ce704a,Dang Thi Dung,dang.thi.dung1369@ecommerce.vn,Nha Trang,KH,Vietnam,2025-04-02 00:00:00
+CUST_01370,U_c0794e30,Dang Minh Nam,dang.minh.nam1370@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-05-22 00:00:00
+CUST_01371,U_04c77d03,Dang Thi Thao,dang.thi.thao1371@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-10-25 00:00:00
+CUST_01372,U_84fa2d9e,Dang Quoc Dung,dang.quoc.dung1372@ecommerce.vn,Hue,TTH,Vietnam,2025-03-03 00:00:00
+CUST_01373,U_310dd472,Phan Dinh Thao,phan.dinh.thao1373@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-13 00:00:00
+CUST_01374,U_d8788925,Le Van Tuan,le.van.tuan1374@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-08-25 00:00:00
+CUST_01375,U_fe5963d1,Le Anh Tuan,le.anh.tuan1375@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-20 00:00:00
+CUST_01376,U_ebc46419,Phan Quoc Huong,phan.quoc.huong1376@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-29 00:00:00
+CUST_01377,U_e454369b,Hoang Dinh Linh,hoang.dinh.linh1377@ecommerce.vn,Hai Phong,HP,Vietnam,2025-04-04 00:00:00
+CUST_01378,U_9cdc6d88,Tran Duc Long,tran.duc.long1378@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-06-11 00:00:00
+CUST_01379,U_ff66dda9,Hoang Huu Huong,hoang.huu.huong1379@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-10-01 00:00:00
+CUST_01380,U_af4fd95d,Do Anh Tuan,do.anh.tuan1380@ecommerce.vn,Hanoi,HN,Vietnam,2025-03-12 00:00:00
+CUST_01381,U_82933919,Bui Huu Huong,bui.huu.huong1381@ecommerce.vn,Hue,TTH,Vietnam,2025-07-30 00:00:00
+CUST_01382,U_16b77b68,Phan Duc Linh,phan.duc.linh1382@ecommerce.vn,Hai Phong,HP,Vietnam,2025-03-21 00:00:00
+CUST_01383,U_0a8d6768,Bui Minh Hoa,bui.minh.hoa1383@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-08-02 00:00:00
+CUST_01384,U_54b8a577,Dang Thi Linh,dang.thi.linh1384@ecommerce.vn,Da Nang,DN,Vietnam,2025-01-09 00:00:00
+CUST_01385,U_24bcff06,Dang Anh Dung,dang.anh.dung1385@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-03-13 00:00:00
+CUST_01386,U_83b3d590,Dang Dinh Huong,dang.dinh.huong1386@ecommerce.vn,Da Nang,DN,Vietnam,2025-06-05 00:00:00
+CUST_01387,U_6f3cd58c,Nguyen Thi Hoa,nguyen.thi.hoa1387@ecommerce.vn,Da Nang,DN,Vietnam,2025-03-14 00:00:00
+CUST_01388,U_95da37f5,Pham Huu Tuan,pham.huu.tuan1388@ecommerce.vn,Hai Phong,HP,Vietnam,2025-03-08 00:00:00
+CUST_01389,U_b84195ff,Tran Quoc Linh,tran.quoc.linh1389@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-01-10 00:00:00
+CUST_01390,U_2124225e,Dang Quoc Nam,dang.quoc.nam1390@ecommerce.vn,Hai Phong,HP,Vietnam,2025-02-25 00:00:00
+CUST_01391,U_521d68d5,Nguyen Dinh Thao,nguyen.dinh.thao1391@ecommerce.vn,Hanoi,HN,Vietnam,2025-08-29 00:00:00
+CUST_01392,U_87c75820,Tran Huu Nam,tran.huu.nam1392@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-06-04 00:00:00
+CUST_01393,U_f42a631a,Nguyen Thi Linh,nguyen.thi.linh1393@ecommerce.vn,Hai Phong,HP,Vietnam,2025-10-28 00:00:00
+CUST_01394,U_ff79b4fa,Pham Duc Huong,pham.duc.huong1394@ecommerce.vn,Hanoi,HN,Vietnam,2025-02-16 00:00:00
+CUST_01395,U_506f22a8,Le Huu Thao,le.huu.thao1395@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-06-30 00:00:00
+CUST_01396,U_11ee9548,Le Dinh Thao,le.dinh.thao1396@ecommerce.vn,Hai Phong,HP,Vietnam,2025-09-16 00:00:00
+CUST_01397,U_d3068220,Do Thi Linh,do.thi.linh1397@ecommerce.vn,Hanoi,HN,Vietnam,2025-09-28 00:00:00
+CUST_01398,U_178f1a7d,Pham Minh Dung,pham.minh.dung1398@ecommerce.vn,Da Nang,DN,Vietnam,2025-10-03 00:00:00
+CUST_01399,U_8805aeee,Nguyen Thi Hoa,nguyen.thi.hoa1399@ecommerce.vn,Hue,TTH,Vietnam,2025-07-07 00:00:00
+CUST_01400,U_c8fedf13,Do Duc Trang,do.duc.trang1400@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-04-03 00:00:00
+CUST_01401,U_46581763,Phan Quoc Phong,phan.quoc.phong1401@ecommerce.vn,Hai Phong,HP,Vietnam,2025-09-21 00:00:00
+CUST_01402,U_994f142f,Pham Quoc Linh,pham.quoc.linh1402@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-03-05 00:00:00
+CUST_01403,U_5c763522,Dang Thi Long,dang.thi.long1403@ecommerce.vn,Da Nang,DN,Vietnam,2025-09-11 00:00:00
+CUST_01404,U_d5fc6e9f,Phan Huu Long,phan.huu.long1404@ecommerce.vn,Hanoi,HN,Vietnam,2025-02-12 00:00:00
+CUST_01405,U_ba7f3932,Phan Thanh Linh,phan.thanh.linh1405@ecommerce.vn,Nha Trang,KH,Vietnam,2025-05-26 00:00:00
+CUST_01406,U_7008edaa,Dang Huu Trang,dang.huu.trang1406@ecommerce.vn,Hai Phong,HP,Vietnam,2025-10-11 00:00:00
+CUST_01407,U_72ecf354,Vu Huu Phong,vu.huu.phong1407@ecommerce.vn,Hai Phong,HP,Vietnam,2025-02-05 00:00:00
+CUST_01408,U_c0527b08,Dang Anh Tuan,dang.anh.tuan1408@ecommerce.vn,Hanoi,HN,Vietnam,2025-09-09 00:00:00
+CUST_01409,U_8d6d5c5c,Tran Quoc Trang,tran.quoc.trang1409@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-03-03 00:00:00
+CUST_01410,U_2ff679f1,Le Quoc Phong,le.quoc.phong1410@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-03-28 00:00:00
+CUST_01411,U_4789b989,Tran Anh Hoa,tran.anh.hoa1411@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-04-13 00:00:00
+CUST_01412,U_25f30633,Do Quoc Linh,do.quoc.linh1412@ecommerce.vn,Hai Phong,HP,Vietnam,2025-08-06 00:00:00
+CUST_01413,U_3cc07f5d,Dang Huu Thao,dang.huu.thao1413@ecommerce.vn,Can Tho,CT,Vietnam,2025-07-24 00:00:00
+CUST_01414,U_01a71827,Phan Thanh Thao,phan.thanh.thao1414@ecommerce.vn,Nha Trang,KH,Vietnam,2025-09-06 00:00:00
+CUST_01415,U_19e0da11,Bui Huu Tuan,bui.huu.tuan1415@ecommerce.vn,Hue,TTH,Vietnam,2025-02-25 00:00:00
+CUST_01416,U_f11d32b7,Tran Huu Trang,tran.huu.trang1416@ecommerce.vn,Hue,TTH,Vietnam,2025-04-29 00:00:00
+CUST_01417,U_c5ef797b,Le Van Linh,le.van.linh1417@ecommerce.vn,Hanoi,HN,Vietnam,2025-02-04 00:00:00
+CUST_01418,U_18323582,Dang Van Tuan,dang.van.tuan1418@ecommerce.vn,Nha Trang,KH,Vietnam,2025-06-17 00:00:00
+CUST_01419,U_03c834ac,Le Huu Thao,le.huu.thao1419@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-02-09 00:00:00
+CUST_01420,U_006bad2c,Bui Thanh Trang,bui.thanh.trang1420@ecommerce.vn,Hai Phong,HP,Vietnam,2025-05-31 00:00:00
+CUST_01421,U_35c0ca9d,Dang Thanh Long,dang.thanh.long1421@ecommerce.vn,Can Tho,CT,Vietnam,2025-10-05 00:00:00
+CUST_01422,U_d8d5271d,Phan Dinh Long,phan.dinh.long1422@ecommerce.vn,Hanoi,HN,Vietnam,2025-01-17 00:00:00
+CUST_01423,U_59dbc882,Vu Thi Phong,vu.thi.phong1423@ecommerce.vn,Hue,TTH,Vietnam,2025-06-11 00:00:00
+CUST_01424,U_4c8fc874,Vu Thanh Trang,vu.thanh.trang1424@ecommerce.vn,Hanoi,HN,Vietnam,2025-01-17 00:00:00
+CUST_01425,U_01fe8530,Le Dinh Dung,le.dinh.dung1425@ecommerce.vn,Da Nang,DN,Vietnam,2025-09-09 00:00:00
+CUST_01426,U_af5f6490,Vu Duc Dung,vu.duc.dung1426@ecommerce.vn,Nha Trang,KH,Vietnam,2025-09-07 00:00:00
+CUST_01427,U_845d8b04,Tran Thanh Long,tran.thanh.long1427@ecommerce.vn,Hue,TTH,Vietnam,2025-09-01 00:00:00
+CUST_01428,U_85e8f433,Bui Duc Long,bui.duc.long1428@ecommerce.vn,Hanoi,HN,Vietnam,2025-07-20 00:00:00
+CUST_01429,U_4b60375d,Hoang Thanh Thao,hoang.thanh.thao1429@ecommerce.vn,Nha Trang,KH,Vietnam,2025-06-30 00:00:00
+CUST_01430,U_95959546,Hoang Anh Nam,hoang.anh.nam1430@ecommerce.vn,Hanoi,HN,Vietnam,2025-01-24 00:00:00
+CUST_01431,U_9648387b,Le Anh Huong,le.anh.huong1431@ecommerce.vn,Hanoi,HN,Vietnam,2025-06-24 00:00:00
+CUST_01432,U_0982ceea,Vu Thi Phong,vu.thi.phong1432@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-07-02 00:00:00
+CUST_01433,U_0e686f1a,Vu Anh Nam,vu.anh.nam1433@ecommerce.vn,Hai Phong,HP,Vietnam,2025-05-07 00:00:00
+CUST_01434,U_08dc2551,Pham Huu Thao,pham.huu.thao1434@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-02-03 00:00:00
+CUST_01435,U_b84bc1b6,Hoang Thi Huong,hoang.thi.huong1435@ecommerce.vn,Da Nang,DN,Vietnam,2025-01-11 00:00:00
+CUST_01436,U_5a42acbe,Bui Anh Nam,bui.anh.nam1436@ecommerce.vn,Hue,TTH,Vietnam,2025-08-05 00:00:00
+CUST_01437,U_4fdfa228,Do Dinh Phong,do.dinh.phong1437@ecommerce.vn,Can Tho,CT,Vietnam,2025-01-11 00:00:00
+CUST_01438,U_a9341755,Dang Van Huong,dang.van.huong1438@ecommerce.vn,Nha Trang,KH,Vietnam,2025-10-20 00:00:00
+CUST_01439,U_a911f2a5,Vu Anh Thao,vu.anh.thao1439@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-09-08 00:00:00
+CUST_01440,U_e1e4e013,Tran Minh Huong,tran.minh.huong1440@ecommerce.vn,Hue,TTH,Vietnam,2025-09-15 00:00:00
+CUST_01441,U_a5dfa0d4,Phan Duc Thao,phan.duc.thao1441@ecommerce.vn,Can Tho,CT,Vietnam,2025-07-06 00:00:00
+CUST_01442,U_cbd02573,Vu Minh Trang,vu.minh.trang1442@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-10-02 00:00:00
+CUST_01443,U_62d684e4,Pham Huu Dung,pham.huu.dung1443@ecommerce.vn,Hanoi,HN,Vietnam,2025-06-02 00:00:00
+CUST_01444,U_d32f4bf9,Do Quoc Hoa,do.quoc.hoa1444@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-10-24 00:00:00
+CUST_01445,U_55ea97b5,Tran Anh Dung,tran.anh.dung1445@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-10-18 00:00:00
+CUST_01446,U_5aa4e42a,Bui Thanh Phong,bui.thanh.phong1446@ecommerce.vn,Hai Phong,HP,Vietnam,2025-06-27 00:00:00
+CUST_01447,U_a70ed7be,Tran Huu Long,tran.huu.long1447@ecommerce.vn,Can Tho,CT,Vietnam,2025-08-10 00:00:00
+CUST_01448,U_c0f89c45,Bui Anh Hoa,bui.anh.hoa1448@ecommerce.vn,Nha Trang,KH,Vietnam,2025-07-25 00:00:00
+CUST_01449,U_cb80790a,Hoang Dinh Trang,hoang.dinh.trang1449@ecommerce.vn,Da Nang,DN,Vietnam,2025-01-10 00:00:00
+CUST_01450,U_e399cc86,Bui Duc Thao,bui.duc.thao1450@ecommerce.vn,Hue,TTH,Vietnam,2025-04-20 00:00:00
+CUST_01451,U_86cebb91,Dang Huu Long,dang.huu.long1451@ecommerce.vn,Nha Trang,KH,Vietnam,2025-10-17 00:00:00
+CUST_01452,U_5de13dde,Nguyen Dinh Hoa,nguyen.dinh.hoa1452@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-08-25 00:00:00
+CUST_01453,U_67810de2,Le Minh Tuan,le.minh.tuan1453@ecommerce.vn,Can Tho,CT,Vietnam,2025-08-11 00:00:00
+CUST_01454,U_999bba06,Vu Anh Linh,vu.anh.linh1454@ecommerce.vn,Hai Phong,HP,Vietnam,2025-07-31 00:00:00
+CUST_01455,U_7f73e78e,Hoang Huu Tuan,hoang.huu.tuan1455@ecommerce.vn,Can Tho,CT,Vietnam,2025-05-01 00:00:00
+CUST_01456,U_359c78dd,Vu Minh Linh,vu.minh.linh1456@ecommerce.vn,Da Nang,DN,Vietnam,2025-04-09 00:00:00
+CUST_01457,U_9beb3537,Nguyen Minh Dung,nguyen.minh.dung1457@ecommerce.vn,Hue,TTH,Vietnam,2025-09-06 00:00:00
+CUST_01458,U_8d1d9caa,Bui Quoc Phong,bui.quoc.phong1458@ecommerce.vn,Hanoi,HN,Vietnam,2025-04-14 00:00:00
+CUST_01459,U_16c7230f,Le Huu Tuan,le.huu.tuan1459@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-13 00:00:00
+CUST_01460,U_83aa729a,Hoang Dinh Tuan,hoang.dinh.tuan1460@ecommerce.vn,Hanoi,HN,Vietnam,2025-09-06 00:00:00
+CUST_01461,U_fa3a5af0,Nguyen Van Linh,nguyen.van.linh1461@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-06-02 00:00:00
+CUST_01462,U_914e8a1c,Tran Quoc Huong,tran.quoc.huong1462@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-07-23 00:00:00
+CUST_01463,U_488a8c62,Le Minh Linh,le.minh.linh1463@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-09-25 00:00:00
+CUST_01464,U_20dfeeae,Do Dinh Dung,do.dinh.dung1464@ecommerce.vn,Hue,TTH,Vietnam,2025-02-16 00:00:00
+CUST_01465,U_b082e6d2,Pham Thi Huong,pham.thi.huong1465@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-10-27 00:00:00
+CUST_01466,U_7723fa4e,Vu Minh Phong,vu.minh.phong1466@ecommerce.vn,Hai Phong,HP,Vietnam,2025-03-15 00:00:00
+CUST_01467,U_7a085ef7,Tran Duc Hoa,tran.duc.hoa1467@ecommerce.vn,Can Tho,CT,Vietnam,2025-08-14 00:00:00
+CUST_01468,U_8f729b92,Vu Huu Thao,vu.huu.thao1468@ecommerce.vn,Hanoi,HN,Vietnam,2025-09-09 00:00:00
+CUST_01469,U_28602863,Bui Anh Linh,bui.anh.linh1469@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-10-07 00:00:00
+CUST_01470,U_7db289f0,Vu Thanh Hoa,vu.thanh.hoa1470@ecommerce.vn,Can Tho,CT,Vietnam,2025-03-16 00:00:00
+CUST_01471,U_c68edfcd,Phan Thanh Huong,phan.thanh.huong1471@ecommerce.vn,Can Tho,CT,Vietnam,2025-01-11 00:00:00
+CUST_01472,U_234a96fa,Do Van Nam,do.van.nam1472@ecommerce.vn,Hai Phong,HP,Vietnam,2025-05-10 00:00:00
+CUST_01473,U_74400689,Bui Quoc Dung,bui.quoc.dung1473@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-03-04 00:00:00
+CUST_01474,U_64d6fc23,Bui Minh Trang,bui.minh.trang1474@ecommerce.vn,Nha Trang,KH,Vietnam,2025-01-05 00:00:00
+CUST_01475,U_c2b2997a,Vu Huu Dung,vu.huu.dung1475@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-05-01 00:00:00
+CUST_01476,U_89227e44,Hoang Minh Tuan,hoang.minh.tuan1476@ecommerce.vn,Hue,TTH,Vietnam,2025-06-12 00:00:00
+CUST_01477,U_1681c66e,Vu Van Dung,vu.van.dung1477@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-09-09 00:00:00
+CUST_01478,U_e3933a75,Dang Quoc Huong,dang.quoc.huong1478@ecommerce.vn,Nha Trang,KH,Vietnam,2025-02-21 00:00:00
+CUST_01479,U_e4a5e292,Le Huu Long,le.huu.long1479@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-06-30 00:00:00
+CUST_01480,U_6a613d6c,Vu Dinh Huong,vu.dinh.huong1480@ecommerce.vn,Hue,TTH,Vietnam,2025-01-15 00:00:00
+CUST_01481,U_d83d9670,Nguyen Duc Trang,nguyen.duc.trang1481@ecommerce.vn,Da Nang,DN,Vietnam,2025-01-02 00:00:00
+CUST_01482,U_f50f1dbb,Vu Minh Dung,vu.minh.dung1482@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-10-22 00:00:00
+CUST_01483,U_717619be,Tran Thi Tuan,tran.thi.tuan1483@ecommerce.vn,Hai Phong,HP,Vietnam,2025-09-22 00:00:00
+CUST_01484,U_a5399e81,Le Quoc Huong,le.quoc.huong1484@ecommerce.vn,Hue,TTH,Vietnam,2025-09-02 00:00:00
+CUST_01485,U_21be7455,Le Huu Tuan,le.huu.tuan1485@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-05-25 00:00:00
+CUST_01486,U_2ee7f223,Pham Thi Phong,pham.thi.phong1486@ecommerce.vn,Bien Hoa,DN,Vietnam,2025-04-04 00:00:00
+CUST_01487,U_e20251ee,Vu Quoc Thao,vu.quoc.thao1487@ecommerce.vn,Hai Phong,HP,Vietnam,2025-01-11 00:00:00
+CUST_01488,U_471cbc02,Nguyen Dinh Thao,nguyen.dinh.thao1488@ecommerce.vn,Hai Phong,HP,Vietnam,2025-02-15 00:00:00
+CUST_01489,U_d09649a7,Dang Minh Dung,dang.minh.dung1489@ecommerce.vn,Da Nang,DN,Vietnam,2025-01-26 00:00:00
+CUST_01490,U_73f332bc,Vu Quoc Thao,vu.quoc.thao1490@ecommerce.vn,Can Tho,CT,Vietnam,2025-03-18 00:00:00
+CUST_01491,U_1bbe5004,Tran Anh Tuan,tran.anh.tuan1491@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-01-08 00:00:00
+CUST_01492,U_4c763652,Bui Quoc Trang,bui.quoc.trang1492@ecommerce.vn,Hue,TTH,Vietnam,2025-03-02 00:00:00
+CUST_01493,U_fe3e1d2b,Pham Minh Hoa,pham.minh.hoa1493@ecommerce.vn,Can Tho,CT,Vietnam,2025-05-28 00:00:00
+CUST_01494,U_672cbf2e,Dang Quoc Tuan,dang.quoc.tuan1494@ecommerce.vn,Nha Trang,KH,Vietnam,2025-04-16 00:00:00
+CUST_01495,U_2ea31824,Do Minh Dung,do.minh.dung1495@ecommerce.vn,Hai Phong,HP,Vietnam,2025-08-03 00:00:00
+CUST_01496,U_cd7f4a59,Le Quoc Tuan,le.quoc.tuan1496@ecommerce.vn,Hanoi,HN,Vietnam,2025-05-29 00:00:00
+CUST_01497,U_1b18730d,Hoang Minh Thao,hoang.minh.thao1497@ecommerce.vn,Hue,TTH,Vietnam,2025-05-08 00:00:00
+CUST_01498,U_4e453a25,Phan Thanh Linh,phan.thanh.linh1498@ecommerce.vn,Hanoi,HN,Vietnam,2025-08-29 00:00:00
+CUST_01499,U_17c57f72,Le Anh Phong,le.anh.phong1499@ecommerce.vn,Hai Phong,HP,Vietnam,2025-07-16 00:00:00
+CUST_01500,U_4e52ce19,Vu Huu Linh,vu.huu.linh1500@ecommerce.vn,Ho Chi Minh City,SG,Vietnam,2025-10-13 00:00:00

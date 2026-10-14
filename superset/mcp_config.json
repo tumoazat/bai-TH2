@@ -1,0 +1,25 @@
+{
+  "mcpServers": {
+    "superset": {
+      "command": "python",
+      "args": ["-m", "superset_mcp"],
+      "env": {
+        "SUPERSET_BASE_URL": "http://localhost:8088",
+        "SUPERSET_USERNAME": "admin",
+        "SUPERSET_PASSWORD": "admin",
+        "SUPERSET_DATABASE_NAME": "ecommerce_dw",
+        "SUPERSET_DATABASE_URI": "postgresql://superset:superset@superset_db:5432/ecommerce_dw"
+      }
+    }
+  },
+  "capabilities": [
+    "list_databases",
+    "list_datasets",
+    "create_dataset",
+    "create_chart",
+    "create_dashboard",
+    "execute_sql_query",
+    "explain_chart_insights"
+  ],
+  "agent_instructions": "This MCP server interfaces Claude / AI Agent with Apache Superset 4.x. Use this tool to query CRM/ERP business datasets, create visualizations automatically from natural language prompts, and export dashboard components."
+}
