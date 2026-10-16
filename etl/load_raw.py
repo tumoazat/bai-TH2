@@ -5,13 +5,15 @@ Using pandas chunking and SQLAlchemy copy/insert for maximum throughput.
 """
 
 import os
-import glob
 import pandas as pd
 from sqlalchemy import create_engine, text
 
 DB_URI = os.getenv("DATABASE_URL", "postgresql://superset:superset@superset_db:5432/ecommerce_dw")
 
-def load_raw_data(data_dir="/app/data/raw"):
+def load_raw_data(data_dir=None):
+    if data_dir is None:
+        data_dir = os.getenv("RAW_DATA_DIR", "/app/th2/data/raw")
+
     print(f"Connecting to Data Warehouse: {DB_URI}")
     engine = create_engine(DB_URI)
     

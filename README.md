@@ -22,7 +22,8 @@ th2-ai-superset/
 │   ├── segmentation.py           # AI #2: Phân khúc khách hàng RFM + K-Means
 │   ├── sentiment.py              # AI #3: NLP Sentiment Analysis & Topic Extraction
 │   ├── churn_predict.py          # AI #4 (Sáng tạo): Dự báo nguy cơ khách hàng rời bỏ
-│   └── evaluate.py               # Tổng hợp ma trận đánh giá hiệu quả (Accuracy, F1, RMSE, MAPE)
+│   ├── evaluate.py               # Tổng hợp ma trận đánh giá hiệu quả (Accuracy, F1, RMSE, MAPE)
+│   └── gemini_insights.py        # AI #5: Gemini nâng cao (insight, anomaly, playbook, text-to-sql)
 ├── superset/
 │   ├── mcp_config.json           # Cấu hình kết nối Superset MCP Server
 │   ├── bootstrap_superset.py     # Tự động đồng bộ Database & 10 Datasets
@@ -86,3 +87,32 @@ Dashboard gồm 4 phân vùng chuẩn UX/UI:
 File cấu hình MCP được đặt tại `superset/mcp_config.json`, hỗ trợ kết nối trực tiếp với Claude Desktop, Claude Code hoặc các AI Agent khác để:
 - Tự động sinh truy vấn SQL bằng ngôn ngữ tự nhiên (Text-to-SQL).
 - Tự động tạo biểu đồ và bảng dữ liệu theo yêu cầu thời gian thực.
+
+---
+
+## 5. Gemini AI Nâng cao (đa mô hình & đa phương pháp)
+
+Script `ai/gemini_insights.py` hỗ trợ các chế độ sau:
+- `all`: chạy toàn bộ suite (insight đa tầng, anomaly RCA, playbook, churn intervention, forecast scenario, text-to-sql nếu có question)
+- `insight`: báo cáo theo audience `ceo|manager|analyst`
+- `anomaly`: phát hiện bất thường doanh thu + giải thích nguyên nhân gốc
+- `playbook`: kế hoạch hành động 30 ngày
+- `intervention`: mẫu chăm sóc nhóm churn risk cao
+- `scenario`: diễn giải kịch bản dự báo best/base/worst
+- `text2sql`: chuyển câu hỏi nghiệp vụ thành SQL SELECT an toàn (tuỳ chọn thực thi)
+
+Ví dụ chạy:
+
+```powershell
+# Chạy full suite và lưu report/gemini_advanced_report.md
+docker exec superset_app python /app/th2/ai/gemini_insights.py --mode all
+
+# Insight cho CEO
+docker exec superset_app python /app/th2/ai/gemini_insights.py --mode insight --audience ceo
+
+# Text-to-SQL (chỉ sinh SQL)
+docker exec superset_app python /app/th2/ai/gemini_insights.py --mode text2sql --question "Top 5 phân khúc có doanh thu cao nhất?"
+
+# Text-to-SQL và thực thi truy vấn an toàn
+docker exec superset_app python /app/th2/ai/gemini_insights.py --mode text2sql --question "Doanh thu 7 ngày gần nhất theo ngày" --execute-sql
+```

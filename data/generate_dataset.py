@@ -21,8 +21,11 @@ def generate_ecommerce_data(
     num_orders=6000,
     start_date=datetime(2025, 1, 1),
     end_date=datetime(2026, 6, 30),
-    output_dir="/app/data/raw"
+    output_dir=None
 ):
+    if output_dir is None:
+        output_dir = os.getenv("RAW_DATA_DIR", "/app/th2/data/raw")
+
     print(f"Generating realistic dataset: {num_customers} customers, {num_orders} orders...")
     random.seed(42)
     np.random.seed(42)
