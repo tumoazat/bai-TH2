@@ -213,7 +213,51 @@ Dashboard **"TH2 - E-Commerce AI Analytics & Forecasting Command Center"** đư�
 
 ---
 
-## 8. Hướng dẫn Chạy & Triển khai Nhanh
+## 8. Đề xuất Mở rộng: Các Mô hình & Phương pháp AI Tiên tiến (Điểm Sáng tạo)
+
+Ngoài 4 mô hình đã triển khai, hệ thống có thể tích hợp thêm các hướng sau để nâng cao năng lực phân tích:
+
+### 8.1. Hệ thống Gợi ý Sản phẩm (Collaborative Filtering / Matrix Factorization)
+- **Thuật toán:** ALS (Alternating Least Squares) hoặc SVD++ trên ma trận `customer × product`.
+- **Đầu vào:** `order_items`, `reviews` → ma trận tương tác người dùng–sản phẩm.
+- **Đầu ra:** Top-N sản phẩm gợi ý cá nhân hóa cho từng khách hàng, tăng cross-sell/upsell.
+- **Tích hợp Superset:** Bảng `analytics.product_recommendations` → Bar chart "Top sản phẩm gợi ý theo phân khúc".
+
+### 8.2. Phát hiện Gian lận Thanh toán (Anomaly Detection)
+- **Thuật toán:** Isolation Forest hoặc Autoencoder trên dữ liệu `payments`.
+- **Đặc trưng:** Giá trị giao dịch, tần suất, khoảng cách địa lý, phương thức thanh toán, giờ giao dịch.
+- **Đầu ra:** `fraud_score` ∈ [0,1], gắn cờ giao dịch bất thường vượt ngưỡng 0.85.
+- **Ứng dụng:** Giảm thất thoát doanh thu do gian lận, kích hoạt xác minh 2FA tự động.
+
+### 8.3. Dự báo Nhu cầu Tồn kho theo Danh mục (Demand Forecasting per Category)
+- **Thuật toán:** LSTM (Long Short-Term Memory) hoặc XGBoost time-series theo từng `category`.
+- **Đầu vào:** Chuỗi thời gian `order_items` × `products.category` × ngày lễ/sự kiện.
+- **Đầu ra:** Dự báo số lượng đơn hàng 14 ngày tới theo từng danh mục → tối ưu kế hoạch nhập kho.
+- **Lợi thế so với AI #1:** Granular hơn (category-level) thay vì revenue tổng thể.
+
+### 8.4. Phân tích Chủ đề Tự động (LDA Topic Modeling)
+- **Thuật toán:** Latent Dirichlet Allocation trên toàn bộ `review_text`.
+- **Đầu ra:** Phát hiện tự động các chủ đề ẩn trong phản hồi mà không cần định nghĩa từ khóa cứng.
+- **Ưu điểm:** Mở rộng sang phân tích tin tức, social media; không phụ thuộc từ điển cố định như AI #3 hiện tại.
+
+### 8.5. Định giá Động (Dynamic Pricing Engine)
+- **Thuật toán:** Reinforcement Learning (Q-Learning / Bandit) hoặc Price Elasticity Regression.
+- **Đầu vào:** Lịch sử đơn hàng, tồn kho, cạnh tranh giá, chu kỳ theo mùa.
+- **Đầu ra:** Đề xuất mức giá tối ưu cho từng SKU nhằm tối đa hóa doanh thu/lợi nhuận.
+
+### Tổng quan so sánh
+
+| Mô hình đề xuất | Thuật toán cốt lõi | Độ phức tạp | Giá trị kinh doanh |
+|---|---|---|---|
+| Gợi ý sản phẩm | ALS / SVD++ | Trung bình | Tăng AOV, giảm bounce |
+| Phát hiện gian lận | Isolation Forest | Thấp | Giảm thất thoát tài chính |
+| Dự báo tồn kho | LSTM / XGBoost | Cao | Tối ưu chuỗi cung ứng |
+| Topic Modeling | LDA | Thấp | Insight VoC tự động |
+| Định giá động | RL / Elasticity | Cao | Tối đa hóa doanh thu |
+
+---
+
+## 9. Hướng dẫn Chạy & Triển khai Nhanh
 
 1. **Khởi động Cơ sở dữ liệu và Superset:**
    ```powershell

@@ -1,34 +1,29 @@
 # Gemini Advanced BI Report
-*Tạo tự động lúc: 2026-10-16*
+*Tạo tự động lúc: 2026-10-18*
 
 ## 1) Executive Insights - CEO
-**1) Tình hình tổng thể**  
-Doanh thu lũy kế 47,4 tỷ VND, AOV cao (5,1 triệu VND). Tuy nhiên, dự báo 14 ngày
+**BÁO CÁO ĐIỀU HÀNH DÀNH CHO CEO**
+
+**1) Tình hình tổng thể:** Doanh thu lũy kế đạt 47,4
 
 ## 2) Executive Insights - Manager
-**BÁO CÁO HIỆU QUẢ KINH DOANH & VẬN HÀNH E-COMMERCE**
+**BÁO CÁO PHÂN TÍCH HIỆU QUẢ KINH DOANH & RỦI RO VẬN HÀNH**
 
-**1) Tình hình tổng thể**
-Doanh thu lũ
+**1. Tình hình tổng thể
 
 ## 3) Analyst Insights
-Lost" đe dọa trực tiếp đến doanh thu tương lai.
-        *   *Nút thắt Logistics:* Chiếm 46,8% tổng volume phản hồi (1
+avg_prob 95,5%. Đặc biệt có 140 khách "At-Risk High Value" (avg_spend 16,1 triệu VND) đứng trước nguy cơ rời bỏ, đ
 
 ## 4) Revenue Anomaly + Root Cause
-Dựa trên dữ liệu doanh thu đột biến (spikes) kết hợp cùng tình trạng rủi ro rời bỏ (churn) cao và phản hồi tiêu cực về vận hành
+Doanh thu phụ thuộc quá lớn vào nhóm VIP/At-Risk mua gom theo đợt khuyến mãi:* Doanh thu đột biến do nhóm VIP High-Sp
 
 ## 5) 30-Day Playbook
-train CSKH; Tăng DT: VIP referral/special bundle).
-        *   KPIs: Open/Click rate, Ticket resolved, Re-order rate.
-    *   *Week 3:*
-        *
+Chào bạn, với vai trò là một Growth & CRM Lead, phân tích nhanh bộ dữ liệu cho thấy 3 điểm nghẽn và cơ hội lớn nhất:
+1. **Báo động đỏ về Churn:** Tới **659 khách hàng (hơn 61%)** thuộc nhóm Nguy cơ cao (prob = 0.95),
 
 ## 6) Churn Intervention Templates
-Dưới vai trò CRM Retention Assistant, tôi đã phân loại tệp khách hàng trên thành 2 nhóm hành động và xây dựng bộ thông điệp chuẩn hóa, lịch sự và không cam kết quá mức:
-
-*   **Nh
+Chào bạn, dựa trên phân khúc khách hàng High Risk (nguy cơ rời bỏ 100%), tôi chia tệp này thành 2 nhóm xử lý:
+*   **Nhóm VIP/High Spender
 
 ## 7) Forecast Scenario Narrative
-/hệ thống logistic bị quá tải khiến tỷ lệ hủy đơn (Cancellation rate) và trả hàng (Return/Refund) tăng vọt.
-            *   *Conversion
+Kịch bản tối ưu khi các chiến dịch kích cầu, traffic và chuyển đổi vượt kỳ vọng, tối đa hóa doanh thu vào các ngày đỉnh điểm (thứ Sáu

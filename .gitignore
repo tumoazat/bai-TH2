@@ -1,5 +1,11 @@
 /.contextia
 
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
 # === BẢO MẬT: KHÔNG BAO GIỜ COMMIT CÁC FILE NÀY ===
 .env
 *.env

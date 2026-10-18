@@ -16,6 +16,7 @@ import os
 import json
 import urllib.request
 import urllib.error
+import http.cookiejar
 
 SUPERSET_URL = os.getenv("SUPERSET_URL", "http://localhost:8088")
 USERNAME = os.getenv("SUPERSET_USER", "admin")
@@ -30,28 +31,30 @@ class SupersetClient:
         self.password = password
         self.access_token = None
         self.csrf_token = None
-        self.cookie = None
+        self._cookiejar = http.cookiejar.CookieJar()
+        self._opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(self._cookiejar))
+
+    def _cookie_header(self):
+        return "; ".join(f"{c.name}={c.value}" for c in self._cookiejar)
 
     def authenticate(self):
         print(f"Authenticating with Superset at {self.base_url} as {self.username}...")
         url = f"{self.base_url}/api/v1/security/login"
         payload = json.dumps({"username": self.username, "password": self.password, "provider": "db"}).encode("utf-8")
         req = urllib.request.Request(url, data=payload, headers={"Content-Type": "application/json"})
-        with urllib.request.urlopen(req) as resp:
-            headers = resp.info()
-            self.cookie = headers.get("Set-Cookie")
+        with self._opener.open(req) as resp:
             data = json.loads(resp.read().decode("utf-8"))
             self.access_token = data.get("access_token")
             print("  -> JWT Access token acquired successfully!")
 
-        # Fetch CSRF token
+        # Fetch CSRF token (session cookie now stored in cookiejar)
         csrf_url = f"{self.base_url}/api/v1/security/csrf_token/"
         req_csrf = urllib.request.Request(csrf_url, headers={
             "Authorization": f"Bearer {self.access_token}",
-            "Cookie": self.cookie or ""
+            "Cookie": self._cookie_header()
         })
         try:
-            with urllib.request.urlopen(req_csrf) as resp:
+            with self._opener.open(req_csrf) as resp:
                 data = json.loads(resp.read().decode("utf-8"))
                 self.csrf_token = data.get("result")
                 print("  -> CSRF token acquired!")
@@ -63,17 +66,16 @@ class SupersetClient:
         headers = {
             "Authorization": f"Bearer {self.access_token}",
             "Content-Type": "application/json",
-            "Accept": "application/json"
+            "Accept": "application/json",
+            "Cookie": self._cookie_header()
         }
         if self.csrf_token:
             headers["X-CSRFToken"] = self.csrf_token
-        if self.cookie:
-            headers["Cookie"] = self.cookie
 
         data = json.dumps(payload).encode("utf-8") if payload else None
         req = urllib.request.Request(url, data=data, headers=headers, method=method)
         try:
-            with urllib.request.urlopen(req) as resp:
+            with self._opener.open(req) as resp:
                 return json.loads(resp.read().decode("utf-8"))
         except urllib.error.HTTPError as e:
             err_body = e.read().decode("utf-8")

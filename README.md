@@ -45,7 +45,17 @@ docker compose ps
 ```
 
 ### Bước 2: Thực thi Toàn bộ Pipeline Bằng 1 Lệnh Duy Nhất
-Mọi logic từ nạp dữ liệu, ETL, tính toán AI và dựng Dashboard trên Superset đã được tự động hóa:
+Mọi logic từ nạp dữ liệu, ETL, tính toán AI, sinh report Gemini và dựng Dashboard landing page demo đã được tự động hóa:
+
+```powershell
+# Chạy toàn bộ luồng bằng 1 lệnh duy nhất
+python .\run_all.py
+
+# Tùy chọn bỏ qua report Gemini nếu cần chạy nhanh hơn
+python .\run_all.py --skip-gemini
+```
+
+Hoặc chạy thủ công từng bước nếu muốn:
 
 ```powershell
 # 1. Chạy ETL: Sinh dữ liệu & Nạp vào Data Warehouse
@@ -62,7 +72,10 @@ docker exec superset_app python /app/th2/ai/churn_predict.py
 # 3. Xuất bảng đánh giá độ chính xác
 docker exec superset_app python /app/th2/ai/evaluate.py
 
-# 4. Tự động khởi tạo Biểu đồ & Dashboard trên Apache Superset
+# 4. Sinh báo cáo Gemini nếu có API key
+docker exec superset_app python /app/th2/ai/gemini_insights.py --mode all
+
+# 5. Tự động khởi tạo Dashboard demo landing page trên Superset
 docker exec superset_app python /app/th2/superset/create_charts_dashboard.py
 ```
 
